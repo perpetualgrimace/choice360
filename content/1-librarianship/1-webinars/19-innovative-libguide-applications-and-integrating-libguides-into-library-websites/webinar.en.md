@@ -1,0 +1,48 @@
+Title: Innovative LibGuide Applications and Integrating LibGuides into Library Websites
+
+----
+
+Category: 
+
+----
+
+Date: 2016-09-08
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Sponsor-name: Rowman & Littlefield
+
+----
+
+Sponsor-url: http://www.rowman.com
+
+----
+
+Line1: 
+
+----
+
+Registration-url: https://choicereviews.webex.com/choicereviews/onstage/g.php?MTID=e78e04cbddaec8cd69fd84a6bb713adc6
+
+----
+
+Youtube-id: l1_a2midGNM
+
+----
+
+Thumb: 
+
+----
+
+Text: 
+
+Libraries of all kinds are finding LibGuides a robust web-hosting option for managing web content. Join Aaron Dobbs and Ryan Sittler for a discussion about what exciting things libraries are doing with Innovative LibGuides Applications and how to go about Integrating LibGuides into Library Websites. 
+
+Speaker(s):
+Ryan L. Sittler, Ph.D. is an Assistant Professor – Instructional Technology/Information Literacy Librarian at California University of Pennsylvania. He holds a Ph.D. in Communications Media and Instructional Technology from Indiana University of Pennsylvania and his research interests are in information literacy and educational media design for learning and performance improvement.
+
+Aaron W. Dobbs is an Associate Professor – Scholarly Communication and Electronic Resources Librarian at Shippensburg University of Pennsylvania. Aaron manages the library website, fully managed in LibGuides, and lives in the future as often as possible. His current research areas include library assessment and anticipating future users' research skills, needs, and background assumptions.

@@ -1,0 +1,62 @@
+// footer
+
+// site map
+.sitemap {
+  list-style-type: none;
+
+  li {
+    width: 50%;
+    float: left;
+
+    &:nth-of-type(odd) {
+      text-align: right;
+      padding-right: $grid-padding;
+      border-right: ($stroke-width / 2) solid $dark-1;
+    }
+    &:nth-of-type(even) {
+      text-align: left;
+      padding-left: $grid-padding;
+      border-left: ($stroke-width / 2) solid $dark-1;
+    }
+    // last item, if it's an odd item
+    &:last-of-type:nth-of-type(odd) {
+      width: 100%;
+      text-align: center;
+      padding-right: 0;
+      border-right: 0;
+    }
+  }
+}
+
+.search {
+  top: -1px; // offset height
+
+  &__submit svg {
+    display: block;
+  }
+}
+
+.subsidiary {
+  width: 50%;
+  float: left;
+  padding: $grid-padding $grid-padding 0;
+
+  &__img {
+    display: inline;
+  }
+}
+
+
+// grid tweaks
+.footer {
+  padding-top: ($section-padding - 0.5rem);
+  padding-bottom: ($section-padding - 0.25rem);
+}
+.columns.subsidiaries {
+  margin-top: $grid-padding;
+}
+.columns.copyright {
+  margin-top: $grid-padding / 4;
+}
+
+// @include comp('footer.png', bottom);

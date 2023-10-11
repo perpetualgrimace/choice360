@@ -1,0 +1,73 @@
+// colors
+$brand-color: #28D886;
+
+$white: #FFF;
+$light-1: #EDEDED;
+$light-2: #CACACA;
+$gray: #8A8D98;
+$dark-1: #4A5165;
+$dark-2: #2A324C;
+$black: #0D1733;
+
+$shadow: rgba($black, 0.15);
+
+$ui-success:        #00B15D;
+$ui-success--light: #5AE2A4;
+$ui-caution:        #FF8600;
+$ui-caution--light: #FFBB67;
+$ui-warning:        #ED002F;
+$ui-warning--light: #F9688A;
+
+$facebook-blue: #3b5998;
+$twitter-blue:  #00aced;
+$linkedin-blue: #0077B5;
+$google-red:    #DD4B39;
+
+
+
+// breakpoints
+$s1:  25em;
+$s2:  30em;
+
+$m1:  42em;      // nav changes
+$m2:  56.25em;
+$m3:  64em;
+
+$l1:  80em;
+$l2:  90em;
+$l3:  100em;
+
+
+// type sizes
+$alpha:    2rem; // 40px
+$beta:  1.65rem; // 33px
+$gamma: 1.15rem; // 23px
+$delta: 0.95rem; // 19px
+$milli: 0.65rem; // 13px
+
+
+// border radius
+$radius: 0;
+
+
+// reuseable measurements
+$nav-height: 2.95rem;
+
+$stroke-width:     2px;
+$stroke-width--lg: 3px;
+$stroke-width--xl: 4px;
+
+$button-padding:         0.35em 1.5em 0.5em;
+$button-padding--xl:     0.7em 1.75em 0.825em;
+$nav-main-padding:       1.625em 0.5em 1.625em;
+$nav-secondary-padding:  0.5em 0.75em;
+$field-padding:          0.625em 0.825em;
+
+$section-padding:        2.5rem;
+$grid-padding:           1rem;
+
+$card-img-width:         5rem;
+
+
+// opacity
+$hover-opacity: 0.85;

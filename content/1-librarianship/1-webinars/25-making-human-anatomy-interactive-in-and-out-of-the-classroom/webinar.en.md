@@ -1,0 +1,48 @@
+Title: Making Human Anatomy Interactive In and Out of the Classroom
+
+----
+
+Category: Reference Works and Research
+
+----
+
+Date: 2016-10-27
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Sponsor-name: Gale, a Cengage Company
+
+----
+
+Sponsor-url: http://www.gale.com
+
+----
+
+Line1: 
+
+----
+
+Registration-url: https://choicereviews.webex.com/choicereviews/onstage/g.php?MTID=e95697dfdfbfb36387e3ec1bde6c00029
+
+----
+
+Youtube-id: u5KyWNjQRNo
+
+----
+
+Thumb: 
+
+----
+
+Text: 
+
+Human Anatomy is one of the cornerstone courses of nearly all health professions programs. It’s also one of the most time-intensive courses in these curricula. With increased pressures to limit face time in evolving curricula, anatomy faculty are faced with the challenge of finding ways to engage students outside of the classroom with effective learning tools and strategies. Students, faculty and librarians need to become partners in the learning process to ensure that time spent in class is more efficient and focused on students’ problem solving and critical thinking skills. This webinar will present strategies for using new 3D anatomy simulation resources in and out of the classroom to increase student efficiency, and improve students’ depth of understanding of the complex 3D relationships of the body.
+
+Speaker(s):
+Dr. Darren Hoffmann is an Assistant Professor and is Vice Chair of Educational Programs at The University of Iowa Carver College of Medicine. He has been faculty at the University of Iowa for 11 years, teaching gross anatomy in multiple health professions programs in lecture and laboratory settings. He conducts research on self-regulated learning and the outside-of-class learning experience for professional students, and as a consultant for Vived, he helped to develop a fully-dissectible 3D virtual model of the human body for anatomy courses. He recently developed a series of interactive gross anatomy learning modules called Gale Interactive: Human Anatomy, launched in 2016. 
+
+Gerry Sawchuk is the Senior Director, Business, Science, Analytics-Academican at Gale, a part of Cengage Learning. He has been in product management over 35 years, with the last 12 years in the educational publishing industry, having spent 9 years with Gale in which he’s developed over a dozen new products and three years with ProQuest, where he was publisher of natural science products.

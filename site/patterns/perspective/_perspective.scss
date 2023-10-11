@@ -1,0 +1,69 @@
+// perspective
+.perspective {
+
+  @include bp-max(m2) {
+    &__img {
+      width: 28rem;
+
+      &.has-shadow {
+        box-shadow: 0 2px 4px 0px $shadow;
+      }
+    }
+  }
+
+  @include bp(m2) {
+    perspective: 600px;
+
+    &__img {
+      transform: rotateY(10deg);
+
+      &.has-shadow {
+        box-shadow: -1px 3px 4px 0px $shadow;
+      }
+    }
+  }
+
+  &__link:hover,
+  &__link:focus {
+    box-shadow: none;
+
+    .perspective__img {
+      transform: none;
+      opacity: $hover-opacity;
+
+      &.has-shadow {
+        box-shadow: 0 4px 8px 0 $shadow;
+      }
+    }
+  }
+}
+
+
+// three items stacked horizontally
+// introduced positioning and interation issues
+/*
+.perspective-stack {
+  height: 22rem;
+}
+.perspective {
+  &.h_stack--three {
+    width: 22rem;
+    position: absolute;
+    top: 0;
+
+    &:nth-of-type(2) {
+      left: 15%;
+    }
+
+    &:nth-of-type(3) {
+      left: 25%;
+    }
+
+    .perspective__img {
+      max-width: 150%;
+      width: 16rem;
+    }
+  }
+}
+
+*/

@@ -1,0 +1,394 @@
+Title: Sample reviews
+
+----
+
+Headline: CC Advisor sample reviews
+
+----
+
+Text: The two articles included below—(link: #art-architecture-source text: Art and Architecture Source) and (link: #access-science text: AccessScience)—are representative of the organization and depth of the reviews in CC Advisor.
+
+----
+
+Samples:
+
+## <span id="art-architecture-source">Art and Architecture Source</span>
+
+- **Url:** (link: https://www.ebscohost.com/academic/art-architecture-source)
+- **Publisher 1**: EBSCO Information Services, (link: http://www.ebsco.com)
+- **Primary Category**: Art & Architecture
+- **Secondary Categories**: Art & Architecture
+- **Review Type**: Discovery tool, Aggregator Database
+- **Access Types**: Subscription
+- **Composite Score**: 3.75
+- **Reviewed by**: Elizabeth McMunn-Tetangco, UC Merced
+
+### Abstract
+
+Art & Architecture Source (EBSCO) is a robust database focused on various art forms. Searchable and intuitive, Art & Architecture Source provides resources accessible to both novice researchers and experienced practitioners. Drawing on the contents of more than 760 full-text journals, in addition to books, indexing and abstracts, Art & Architecture Source is searchable by keyword, image, review, and more.
+
+### At a glance
+
+(table…)
+
+#### Primary Subject
+////
+Art & Architecture
+
+++++
+
+#### Review Type
+////
+Discovery tool, Aggregator Database
+
+++++
+
+#### Audience Level
+////
+Secondary, General public, Undergraduate, Graduate/Faculty/Researcher
+
+++++
+
+#### Access
+////
+Subscription
+
+++++
+
+#### Composite Score
+////
+3.75
+
+(…table)
+
+
+
+### Overview
+
+Art & Architecture Source, which was introduced in early 2013, is one of a series of large databases resulting from the merger between EBSCO and H.W. Wilson <sup>((link: #references text: 3))</sup>. As such, Art & Architecture Source builds upon previously established databases, including Art Index Retrospective, Art Index, Art Abstracts, Art Full Text, and Art & Architecture Complete. Art & Architecture Source also includes full text of articles from more than 70 journals that were previously unavailable via databases <sup>((link: #references text: 4))</sup>. As a whole, it provides citation listings and full-text of articles from journals published in English, French, Italian, German, Spanish, and Dutch. It draws from more than 760 full-text journals, and its coverage dates back to 1928 <sup>((link: #references text: 5))</sup>.
+
+Acknowledging the broad scope of artistic expression, Art & Architecture Source surveys a plethora of subjects, which include, “advertising art; antiques; archaeology; architecture and architectural history; art history; contemporary art; costume design; crafts; decorative arts; folk art; graphic arts; industrial design; landscape architecture; motion pictures; museology; non-western art; painting; photography; pottery; printmaking; sculpture; television; textiles; and video” <sup>((link: #references text: 5))</sup> It also allows users to search by document type and includes among these Corporate Profile; Course Review; Editorial; Fiction; Lesson Plan; and Obituary, among more standard options like Abstract, Article, and Book Chapter. It is possible to search by Image Quick View to see graphs, charts, maps, and photographs, or to search for attached PDFs.
+
+(image: art_arch_source-1.jpg class: float-left caption: Quick View link: art_arch_source-1.jpg)
+
+It is possible to customize Art & Architecture Source to meet the needs and preferences of a researcher or institution. Some possible adjustments include defaulting to either the Basic or Advanced Search options, customizing limiters, and adding widgets, columns, and branding, among others <sup>((link: #references text: 6))</sup>.
+
+Help with use is available 24 hours per day between Monday and Friday, and from 9am till 5pm Eastern Time Saturday and Sunday. FAQs are searchable via the EBSCO Support page.
+
+In keeping with Art & Architecture Source’s think-big theme, the database defines its user base liberally, as “art scholars, artists, designers, students, and general researchers” <sup>((link: #references text: 5))</sup>, and this wide definition is reflected in Art & Architecture Source’s variety of holdings and in its ease of use.
+
+### User Interface
+
+Situated on the familiar-to-many EBSCOhost platform, Art & Architecture Source provides simple and accessible navigation alongside a variety of searching options and limiters. Users who have consulted other databases hosted on the EBSCO platform, like Academic Search Complete, ERIC, and GreenFile, will find Art & Architecture Source’s interface to be intuitive and easy-to-use for both novice researchers and experts alike. Laid out cleanly against a white surface with simple check boxes and clearly delineated options, Art & Architecture Source allows users to be general or relatively specific in their searches. The Basic Search function (see below) allows users to enter search terms and then returns results from books, journals, conferences, dissertations, trade publications, newspapers, and more. It is also possible to narrow down results from the search results screen, which allows for further refinement.
+
+(image: art_arch_source-2.jpg class: float-left caption: Basic Search link: art_arch_source-2.jpg)
+
+The Advanced Search function provides multiple search bars and the option to search within specific fields, including ISSN, ISBN, Language, Materials and Date, and Responsibility Statement, in addition to more general fields like Subject, Author, and Journal Name (see below). Users searching for particular information, therefore, have the option to find it quickly and with little fuss, while users with a broader scope may browse. The Advanced Search function also allows users to limit results to full-text, published date, publication type, or document type. Administrators can choose how they want to conduct the majority of their searches and set defaults according to their preferences.
+
+(image: art_arch_source-3.jpg class: float-left caption: Select a Field link: art_arch_source-3.jpg)
+
+Search results are presented in a straightforward list with links on item titles that lead to more information and links to PDFs of full-text when available. Options to refine results can be listed to the left or omitted according to preference, and these options are intuitive, with check-boxes that allow searchers to specify that they wish to narrow results by full text, scholarly journals, publication date, source types, subject, and publication. It is possible to sort search results by relevance, date, source, or author. Options on this page are widely spaced and easily visible which aids in navigation of the site. The customizable options allow Art & Architecture Source  to reflect the needs of its users, who may want the ability to employ more or less granularity in their searches.
+
+Art & Architecture Source includes the option to browse Subject Headings (using the Thesaurus link), which can be searched by keyword and ranked by relevancy. It is also possible to browse the many publications included, and to search for cited references. These options are clearly laid out at the top of the page, and their search functions reflect the overall aesthetic of the site.
+
+Citations for images are available via the Cite option in the tools menu and can be copied and pasted directly from the search record. Citations can also be easily exported to a citation management tool by clicking Export under the Tools menu. In addition, Art & Architecture Source offers suggestions for citing artwork alongside the image view screen. These suggestions take into consideration how to cite and permissions, along with more general hints.
+
+Overall, Art & Architecture Source’s interface closely aligns with that of EBSCO’s other popular database offerings and provides a high degree of intuitive searching mixed with the option to conduct more targeted searches for particular information. Its ease of use helps to justify its claim that it is designed for both students and researchers alike <sup>((link: #references text: 5))</sup>.
+
+### Critical Evaluation
+
+Art & Architecture Source’s scope of content is wide, which makes it a good starting point for various diverse topics. Compared with other similar databases, it is well situated. Art Full Text, for example, also from EBSCO, includes full text from 320 periodicals, half as many as the number indexed in Art & Architecture Source <sup>((link: #references text: 7))</sup>. ARTbibliographies Modern, from ProQuest seems comparable in terms of periodical holdings, although it dates back to the late 1960s, whereas Art & Architecture Source includes material from further back <sup>((link: #references text: 8))</sup>.
+
+Art & Architecture Source provides a listing of indexed publications, and it is possible to search for particular journals to see both the date range of available holdings and whether articles are accessible in PDF or html format. It is also possible to check for publisher embargos or delays on availability of materials. For instance, Art Journal is available in full-text from 9/1/1974 to the present with coverage of selected materials dating back to 1960. Aesthetica is available in PDF full text from 2/1/2009 to the present. It is possible to browse holdings alphabetically, by subject and description, or by keyword, which is important given the palette of holdings.
+
+The ability to search broadly in Art & Architecture Source means that serendipitous browsing is both possible and easy. For instance, a Basic Search for the word “dogs” on August 25 found 6,143 results from magazines, journals, book reviews, biographies, books, and conference papers dated between 1884 and 2016. It is easy to narrow down these search results, or to scroll through various pages of results to see what is out there.
+
+That being said, depending on the need, specific searches can require some knowledge of how to search within the database – an Advanced Search using “Van Gogh” in the Artist & Work field with all options selected under the Image Quick View limiter returned only one result, which pertained to Tanner Lawley, a Dallas, Texas, artist. It should be noted, however, that it was quite easy to change the search limiters (for instance, by de-selecting the Image Quick View option) to obtain results more relevant to the search. A search for “Barcelona” specifying black and white photographs in the Image Quick View on August 25 found 38 highly relevant and varied results delving into topics as diverse as the Spanish Civil War, urban architecture, and new Spanish cinema within the first two pages. It is likely that researchers using more specific fields will also be more readily able to make mid-air adjustments to their search strategies and find what they are looking for quickly among the generous offerings.
+
+In addition to allowing users to use the Quick Image View limiter to peruse images, it is also possible to search for art images by clicking the dropdown menu next to More at the top of the screen. This allows users to narrow down results by image type, specify by particular subject, period, or media, and choose between black and white or color images.
+
+(image: art_arch_source-4.jpg class: float-left caption: Art Image Limiters link: art_arch_source-4.jpg)
+
+A sample search for Art Images using “beach” as the search term returned 97 results. Clicking on the images brings up more detailed information and larger views. Also included are listed keywords, which can be perused for further information. A second search, replicating the earlier one for images of paintings by Vincent Van Gogh, returned nine relevant results.
+
+(image: art_arch_source-5.jpg class: float-left caption: Basic Search link: art_arch_source-5.jpg)
+
+It can, however, be less than intuitive to access viewable images. A search by Document Type: Image with no additional search terms returned 9,670 results, but a few of these results included HTML full-text in the search record without showing the image itself.
+
+Art & Architecture Source also includes a thesaurus of subject headings, which allows users to more easily unearth connected resources. In keeping with Art & Architecture Source’s focus on various art forms, the term “Abandoned buildings” prompts numerous connections, including suggestions to use “Extinct cities” to find images of abandoned cities, and “Photography of abandoned buildings” as its own subject term. Similarly, “Latin American art” is a term, but so is “Latin American art – 20th Century – exhibitions,” “Latin American art – 20th century – Sales & prices,” and “Latin American films.” Options such as these not only honor the wide range of art interests, but also take into consideration the various users who may consult the source. This scope allows Art & Architecture Source to give various groups of users the types of information they need.
+
+Overall, Art & Architecture Source’s content is diverse and reflects attention to a large number of art forms. It is able to provide resources nimbly and effectively and offers users the ability to search under a variety of circumstances for a variety of types of information.
+
+### Competitive Products
+
+Art & Architecture Source has a few competitors, including, notably, ARTbibliographies Modern, which provides a similar scope of materials. Art Full Text, also on the EBSCO platform, provides similar results from fewer sources. Art & Architecture Source does well in comparison with its major competition, and frequently has more results available for the same searches. A search for “painting” in ARTbibliographies Modern on August 25, 2016 produced 130,071 results from journals, encyclopedias, books, dissertations and theses, and “other sources”. The same search on the same day in Art & Architecture Source produced 253,698 results from magazines, academic journals, book reviews, biographies, books, and a conference papers. Both databases provide rich and varied information.
+
+In some circumstances, however, Art & Architecture Source does not come out on top. For example, Art & Architecture Source includes over 63,000 images <sup>((link: #references text: 5))</sup>, but Artstor, which focuses much more on images, includes over 2 million <sup>((link: #references text: 9))</sup>. Researchers should keep in mind what type of information they need and plan their searches accordingly.
+
+### Purchase Contract
+
+According to EBSCO, “Art & Architecture Source features unlimited usage and unlimited viewing, printing, and downloading of citations and articles”<sup>((link: #references text: 1))</sup>. Training, technical support, user support, or printing / downloading / emailing of citations and articles is provided at no extra cost <sup>((link: #references text: 1))</sup>. Art & Architecture Source’s standard License Agreement notes that remote access is allowed for patrons of a subscribing institution for non-commercial purposes <sup>((link: #references text: 2))</sup>. Although users are generally defined as being people affiliated with the subscribing body, walk-in users are also allowed <sup>((link: #references text: 2))</sup>. Art & Architecture Source allows users to print materials, as long as they are for personal or internal use. Part of the agreement between EBSCO and a library specifies that the “licensee agrees to comply with the Copyright Act of 1976” (ibid).
+
+### Pricing
+
+Pricing for Art & Architecture Source depends in part on school FTE, consortium or buying group agreements, and existing EBSCO databases <sup>((link: #references text: 1))</sup>. A standard EBSCO license agreement reads that, “license fees have been agreed upon by EBSCO and the Licensee, and include all retrospective issues of the product(s) as well as updates furnished during the term of this agreement” <sup>((link: #references text: 2))</sup>. EBSCO states that, “Pricing applies to a single institution and ranges for consortia and online institutions may vary. It is best to contact EBSCO Publishing for a customized quotation for your specific library. Pricing is subject to change based on royalty requirements, etc.” <sup>((link: #references text: 1))</sup>
+
+Because of EBSCO’s policies in regards to pricing, it is hard to know exactly how its pricing fares next to comparable databases and packages.
+
+### Authentication
+
+Art & Architecture Source supports authentication via IP address, patterned IDs, patron ID files, referring URL, user ID and password, cookie authentication, OpenAthens authentication, Shibboleth authentication, HTTPS authentication, personal user authentication, and guest access. More information about each of these can be found on (link: http://support.ebsco.com/knowledge_base/detail.php?topic=999&id=3572&page=1 text: EBSCO’s support page).
+
+### <span id="references">References</span>
+
+1. Donnelly, Karena. “EBSCO’s Art Source - Review,” Email to Elizabeth McMunn-Tetangco, February 3, 2014.
+2. “EBSCO License Agreement - Standard.” EBSCO Industries, Inc., n.d., accessed August 25, 2016. http://support.ebscohost.com/ehost/terms.html
+3. “The Merger of the Century: EBSCO Acquires H. W. Wilson.” Accessed January 22, 2014. http://www.americanlibrariesmagazine.org/article/merger-century-ebsco-acquires-h-w-wilson
+4. “Art Source Flyer.” EBSCO Industries, Inc. Accessed January 22, 2014. http://www.ebscohost.com/promoMaterials/ArtSource_Flyer_update.pdf
+5. “Art Source: The Unmatched Full-Text Resource for Art and Architecture Research.” EBSCO Industries, Inc. Accessed August 25, 2016. https://www.ebscohost.com/academic/art-source
+6. Gieseke, Janeen. “Art Source Profile for Review,” Email to Elizabeth McMunn-Tetangco, January 29, 2014.
+7. “Art Full Text Website.” EBSCO Industries, Inc., August 25, 2016. http://www.ebscohost.com/academic/art-full-text
+8. “ArtBibliographies Modern Information Page.” ProQuest. Accessed January 23, 2014. http://search.proquest.com/artbibliographies/productfulldescdetail?accountid=14515
+9. “Artstor Digital Library.” Accessed August 25, 2016. http://www.artstor.org/content/artstor-digital-library-features-benefits
+
+
+
+### About the Author
+
+Elizabeth McMunn-Tetangco is an Instruction Librarian at the University of California Merced Library. Her professional interests include instruction via online and in-person formats, digital reference, and library outreach. Her MLIS is from San Jose State, and she also holds a Master of Arts in Teaching degree from the University of San Francisco, and a Bachelor of Arts degree in English from UC Berkeley. Outside of the library, she enjoys running, swimming, biking, and both writing and reading poetry. Her poetry chapbook, Various Lies, is forthcoming from Finishing Line Press.
+
+- **Target Audience:** Secondary, General public, Undergraduate, Graduate/Faculty/Researcher
+- **Review DOI:** 10.5260/CCA.199133
+- **Last reviewed:** 02/28/2017
+- **Keywords:** art, architecture, fine art, decorative art, commercial art, architectural design, architectural history, advertising art, antiques, archaeology, art history, contemporary art, costume design, crafts, folk art, graphic arts, industrial design, interior design, landscape architecture, motion pictures, museology, non-western art, painting, photography, pottery, printmaking, sculpture, television, textiles, video
+
+### Scorecard
+
+(table…)
+
+### Composite Score
+////
+3.75
+
+
+++++
+
+#### Content
+////
+3.5
+////
+Art & Architecture Source includes content from a wide array of sources.
+
+++++
+
+#### User Interface/Searchability
+////
+4.5
+////
+Intuitive and clear, Art & Architecture Source is easy to search and highly customizable.
+
+++++
+
+#### Pricing
+////
+3.0
+////
+Since EBSCO sets prices based on a variety of criteria, it is difficult to know exactly how much it charges per individual library. That being said, EBSCO does work with libraries to determine cost and takes into consideration pricing for groups as well.
+
+++++
+
+#### Purchase/Contract Options
+////
+4.0
+////
+Art & Architecture Source allows generous use of both articles and citations, and defines users fairly broadly, which facilitates its use within a library setting.
+
+(…table)
+
+
+
+
+
+***
+
+
+
+
+
+
+## <span id="access-science">AccessScience</span>
+
+- **Url:** (link: http://www.accessscience.com)
+- **Publisher 1**: McGraw-Hill Education, (link: http://www.mheducation.com/)
+- **Primary Category**: Science, Technology, Computers, Engineering (including Environment)
+- **Secondary Categories**: General Reference, Medicine, Nursing & Health, Multidisciplinary (or interdisciplinary)
+- **Review Type**: Bibliographic tool, Image database, Encyclopedia/Handbook, Newspaper or news source, Other
+- **Access Types**: Subscription
+- **Composite Score**: 3.38
+- **Reviewed by**: Kimberly O'Neill, Regis University
+
+### Abstract
+
+McGraw-Hill’s AccessScience offers a broad array of information on major scientific topics. It contains the contents of the popular reference set the McGraw-Hill Encyclopedia of Science & Technology along with other reference works and exclusive articles. Geared to a high school audience, the database portal offers an easy to use interface for the novice searcher. Basic and advanced search as well as browsable content are accessible. The strength of this resource is authoritative content written by experts in both academics and industry. A good deal of the content is written for a higher-level audience as noted in previous reviews. Enhancements include videos, images, curriculum maps, and DIY projects. This product has undergone a few redesigns over the years. The current design could use some adjustments to link and button locations, but the clean appearance allows for easy search access. It would be worth reviewing for a school, community college, or public library for its basic search capability and enhanced content.
+
+### At a glance
+
+(table…)
+
+#### Primary Subject
+////
+Science, Technology, Computers, Engineering (including Environment)
+
+++++
+
+#### Review Type
+////
+Bibliographic tool, Image database, Encyclopedia/Handbook, Newspaper or news source, Other
+
+++++
+
+#### Audience Level
+////
+Secondary, General public, Undergraduate
+
+++++
+
+#### Access
+////
+Subscription
+
+++++
+
+#### Composite Score
+////
+3.38
+
+(…table)
+
+
+
+### Overview
+
+AccessScience was last reviewed in 2008 after it went under a substantial overhaul. Since that time it seems to have gone under some additional changes. According to its online brochure, the product created by McGraw-Hill Education is marketed as a “STEM teaching & learning resource.” AccessScience has wide-ranging coverage of information from the major scientific disciplines. It is the electronic compilation of the contents of the current (11th) edition of McGraw-Hill Encyclopedia of Science & Technology and McGraw-Hill Yearbooks of Science & Technology plus enhancements in content through unique articles, videos, and images that lend to its value. The database contains articles exclusive to AccessScience and research reviews of key research and developments in science and technology. The over 9,000 articles and reviews in this resource are written by over 9,000 academic and industry experts including 42 Nobel Laureates and Franklin Institute Award winners. Included are: 3,000 scientific biographies from Hutchinson Dictionary of Scientific Biography, 2015, some with videos; over 115,000 definitions from the McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed.; and 18,000 downloadable images and animations illustrating key topics. News stories from Science News are a part of the results if pertinent. AccessScience, like the print version of the Encyclopedia of Science & Technology, is targeted for a high school audience or above.
+
+Teachers and faculty can benefit by using the clearly formatted scientific articles, curriculum maps, and DIY projects for the classroom. Additionally, when using the main search box, results may include videos and images that can enhance a presentation or delivery of a scientific concept. All articles have bibliographies, with additional readings and links to the relevant research articles, videos, biographies, and images. A personal account can be created in AccessScience so that the user can save searches, images, and article content. The database also allows the researcher to cite, e-mail, print, and share information. The busy student can gain access to the research portal, anytime, anywhere via a mobile access Roaming Passport option.
+
+### User Interface
+
+The product interface is easy to use and clearly allows for keyword searching or browsing by topic. On the home screen above the search box there are buttons labeled About, Articles, Biographies, Media, For Faculty, For Admin (see Figure 1). These buttons are entry points to database information and content. Clicking on the Articles and Biographies buttons reveals those items listed alphabetically or by topic. Once a search is executed articles can also be browsed by clicking the selected topic drop down menu to the right of the search box.
+
+(image: access_science-1.jpg class: float-left caption: AccessScience Home Screen Navigation Options link: access_science-1.jpg)
+
+To access information, the user has a choice of a basic search box, a link to an advanced search, links directly to topics, or browsing by alphabet. The search engine within AccessScience utilizes semantic searching or the Boolean search operators AND, OR, and NOT. Phrase searching is supported using quotes as well as truncation using an asterisk. Results of a basic search of “Biome” brought up 31 results, starting with the term definition, followed by articles, videos, images, and briefings (which are short news articles). In the results view, the left sidebar has limiters that can be chosen by topic or content type. Within the content screens there are links to save, print, e-mail, cite, permalink, and share via social media.
+
+The advanced search link above the search button allows more flexibility in searching. Entering search terms in the top box followed by an author name, a topic of choice, content type, or the terms to exclude can really focus a search, although entering all of that information is not necessary. Beyond the search area are links and images to articles, videos and news on various topics in an Explore section. A link to access the My AccessScience account is on the right of the home screen as well as trending topics.
+
+The Access Science website also offers the code and icons for a widget that can be added to a library’s LibGuides. According to their vPat document, AccessScience is working toward ADA compliance. AccessScience is addressing accessibility issues by adding closed captioning, alt-text for images, patterned graphics, skip links, and Adobe Flash links.
+
+### Critical Evaluation
+
+Access Science provides a useful portal for basic and advanced information in the sciences. It is generally easy to use. AccessScience has a wealth of resources which are linked throughout the database. The scientific definitions offered are clear and always precede the article contents for main topics. Trending topics that appear in the right sidebar on the front page are helpful to guide the user to more current and relevant information. The strengths of the database are its attractive design, broad scope, authority and credentials of the authors, and clear format. Accessing the basic search box or clicking on a topic of interest provides easy access. In testing a basic search, entering a key word or phrase, such as “polar bear,” returns 59 results, while using quotes returns 18 results that are more relevant. The user would have to be aware of this trick as it is revealed in the advance search window not the basic. Search tips like truncation are buried in the PowerPoint user guide in the For Admins section rather than with the more logical? icon near the advanced search link. In the results list, although the definition for “polar bear” leads the list, information directly about the polar bear is included in an article about all bears that shows up a third of the way down on the first page of the results list. Additionally, a briefing on the effect of climate change on polar bears has related media that has nothing to do with the topic.
+
+The database contents include articles, briefings, and research reviews. Each item is headed with the author’s name, affiliation, and the date of the article. Most of the topics reviewed were published in the last five years. In many cases, the level of expertise and writing exceeds that of high school level. Terminology used within the writing is often not explained or defined for the novice. A hyperlink to a scientific dictionary or an article glossary for those terms would be an improvement.
+
+One of the enhancements to this product are the DIY Projects. These are step by step instructions on items like creating 3D objects and a levitation machine. However, they are difficult to find unless you have the URL to do so. A small link to Projects is on the lower portion of the page, but this reviewer was unable to access them using the link. Projects may come up in search results, but you would have to know what to look for. Results are ranked by relevancy only, which may suit the high school user; however advanced users may have a need for ranking by date, title, author, or word count. The main navigation points of the search box, alphabetical links and topics work smoothly and are easy to access. However, having the extra buttons along the top for Admins, Faculty, About, would be better suited further down the page, and highlighting links to Projects, Curriculum Maps, New & Noteworthy, and the Explore sections would seem more valuable. As this product is marketed to the high school user, search tips for novices should be more accessible. Additionally, once a search is executed and the user is in the results list there is no link back to the previous page––only the browser’s back button can get you there.
+
+With a personal account, My AccessScience, the user can save searches, images, and article content. The database also allows the researcher to cite, e-mail, print, and share information. Articles and media are cited by one of three major citation styles: APA, MLA, and Chicago. Results can additionally be exported in RIS format to download into other citation management software like Zotero, Mendeley, Endnote, etc. This reviewer tried an export to Zotero, which was very easy and fast. Printing is simple and the print-out is clear and prints across the page without graphics. Sharing through the popular social media sites is seamless.
+
+If needed, article images can be downloaded individually or all at once via a link at the bottom of the page. Multiple images download in a .zip file, and are opened in a browser window. One must log into the My AccessScience account for this process to take place.
+
+Every month updates are posted in the New and Noteworthy section that lists additions or updates by month (http://accessscience.com/pages/new-noteworthy). This link is found on the bottom of the main page. This section has useful, current information and should be highlighted by moving the link higher up on the main page.
+
+### Competitive Products
+
+Alternative online encyclopedic databases with science content to compare to AccessScience are Credo Reference, Gale Virtual Reference Library (GVRL), and Van Nostrand’s Scientific Encyclopedia. This review compares GVRL and Credo to AccessScience. The two databases have a lot of similarities and differences to AccessScience. One similarity is the basic search box that is clearly available on all of the sites. Another is the use of authoritative sources to compile the information on various scientific topics. The main differences are the fact that AccessScience chiefly is composed of two main publications with extra information available from a few other publications in addition to content written for AccessScience; whereas, Credo and GVRL are aggregators of an extensive array of encyclopedias, handbooks, dictionaries, and other reference sources. Both Credo and GVRL have more “bells and whistles” on their sites, offering accessibility through built in readers and audio files, language translators, and deeper search features.
+
+One of the best ways to compare these resources is to actually execute a search to view results. As it is an important scientific topic, “gene therapy” was searched in all three resources. In AccessScience a search of the terms without quotes resulted in 160 hits, 28 hits when quotes were employed to restrict to a phrase. The advanced search screen provides instruction for use of Boolean operators and quotes for phrase searching. One may also search by author, search to eliminate words, and apply limits by topic and content. In the results list, after the definition of gene therapy from the McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed., the top result was a research review titled “gene therapy (cancer)” written in 2014. None of the following articles in the results had the term “gene therapy” in the title. Within the research review were images and related media on gene expression. A list of journal references were provided, some with links via DOI. References ranged from 1973-2011.
+
+Looking at Credo Reference, a basic phrase search of “gene therapy” with quotes resulted in 586 hits. The advanced search screen has boxes for searching all, any, exact phrase, or without words. Additional limits allow for narrowing by subject, title of work, date, or article features. Within the results a topic link appears first that explains the topic, gives image thumbnails which can be expanded, citations in four formats, related articles, and topics. For major topics in Credo a mind or concept map showing related terms and topics may be supplied. The bulk of initial Credo results have “gene therapy” in the title and include article word counts and publisher. A look at some of these entries show dictionary entries for relevant terms, and the ability to search or browse the actual publication.
+
+GVRL has substantial content in all subject areas. A basic phrase search for gene therapy revealed 2,589 entries. There are two additional search screens beyond the basic: advanced and subject guide search. The advanced search here is reminiscent of more of the features of databases like those provided by EBSCO and ProQuest with limits to bibliographic fields. The Subject guide search places the term into the subject index to show related terms. Scanning the first page of relevance ranked GVRL results show “gene therapy” in the title. A limit box is on the right side of the results screen that has limits to document type, publication type, subject, and language.
+
+Additional searches run in AccessScience included “computer security,” which resulted in a definition written in 2015 and a thorough article authored in 2015 as well; however, the article had rather dated references in its bibliography considering the dynamic nature of the field. A search of “Vitamin D” reveals a concise definition and 2014 article that covers all of the aspects of the vitamin—disappointingly the main reference cited is quite dated (1997)—but the additional readings are more current. A search of “hydrology” revealed an up-to-date definition from AccessScience, 2015. The main “hydrology” article covered the topic in full with diagrams, but again the bibliographic references were from 1979-1996, while the additional readings and website links were more recent. The discrepancies between currency of the content and references listed may lend to some editorial work.
+
+### Purchase Contract
+
+Once an institution has an AccessScience subscription, the administrator has access to tools for managing the institution’s subscription, viewing usage statistics, and reviewing subscription access through the online Subscriber Services Portal. Institutions may also upload a logo for a personalized AccessScience home page.
+
+The AccessScience contract does not allow for archiving, so if the product subscriptions cease to exist there is no back file to rely on or subscription to the site. Additionally, according to the publisher, the McGraw-Hill Encyclopedia of Science & Technology will no longer be updated. Therefore, the 11th edition will be the last. However, articles are now written specifically for AccessScience and should be more timely.
+
+Interlibrary Loan of content is not allowed, although the site allows for downloading and sharing of articles and images between individuals. Buttons on the right side of articles allow for e-mail, citing, and sharing. MARC records of the collection are not available. AccessScience provides counter 4 compliant statistics for use by libraries.
+
+### Pricing
+
+Subscription pricing is based on the FTE for academic, school, and special libraries or number of library card holders for public libraries. The minimum price based on FTE is $1,000. There is no consortia pricing. Additional pricing options can be requested.
+
+### Authentication
+
+To access the subscription, institutions may submit their network IP ranges for IP authentication; use a Referring URL/Domain, by placing registered links to AccessScience behind an institution’s secure log-in; register bar codes with AccessScience; access via an EZproxy configuration; register a Athens Organization ID or use a Username/Password that is generated at the start of the subscription for remote access.
+
+### References
+
+1. LaGuardia, Cheryl. “McGraw-Hill AccessScience 2.0.”. Database Review. 2008;133(9):126–.
+2. Turner, Jan Loechell. “AccessScience Revisited: 2.0, the Next Generation.”. The Charleston Advisor. 2008;10(1):5–8.
+
+### About the Author
+
+Kimberly O’Neill is Assistant Professor, Health Sciences Liaison, and Research & Instruction Librarian at Regis University in Denver, Colorado, where she conducts research, instruction, and collection development activities in scientific topics. Kim has a B.A. in biological science, M.S. in Nutrition and Food Science, and a M.A. in Library & Information Science from Wayne State University in Detroit, Michigan. Her library experience includes work in academic, environmental science, and engineering libraries.
+
+- **Target Audience:** Secondary, General public, Undergraduate
+- **Review DOI:** 10.5260/CCA.199231
+- **Last reviewed:** 02/27/2017
+- **Keywords:** Science, Technology, Encyclopedia, K-12, Secondary education, Undergraduate, Dictionary, Reference
+
+### Scorecard
+
+(table…)
+
+#### Composite Score
+////
+3.38
+
+
+++++
+
+#### Content
+////
+4.0
+////
+Covers a broad range of topics. Useful curriculum maps, videos and images. Credible and authoritative sources. Language often above a high school level.
+
+++++
+
+#### User Interface/Searchability
+////
+3.5
+////
+Searching capability is basic, would like more search links and tutorials. Add back links to major sections like News and Projects to top of page.
+
+++++
+
+#### Pricing
+////
+3.0
+////
+Pricing is by FTE with no consortia pricing or specials. Vendor would only provide minimum price, need more information.
+
+++++
+
+#### Purchase/Contract Options
+////
+3.0
+////
+Information supplied by vendor, but actual contract not reviewed. No archiving of content, ILL, or MARC records. If database is no longer offered, there is no access to purchased content.
+
+
+(…table)
+
+----
+
+cta:
+
+## Ready to subscribe?
+
+(link: products/ccadvisor/subscribe text: Get started class: button)

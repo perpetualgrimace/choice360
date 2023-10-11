@@ -1,0 +1,208 @@
+// sweet sticky footer via flexbox
+// https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+@supports (flex-wrap: wrap) {
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+  .main {
+    flex: 1;
+  }
+}
+
+
+// my very own custom grid system
+// http://codepen.io/jamesferrell/pen/BKdqpZ
+
+
+// container
+.container {
+  width: 100%;
+  max-width: 62em;
+  margin: 0 auto;
+  padding: 0 ($grid-padding * 2);
+
+  @include bp-max(m2) {
+    max-width: 40em;
+  }
+
+  @include bp-max(s1) {
+    padding: 0 $grid-padding;
+  }
+}
+
+
+// column container
+.columns {
+  @include clearfix;
+  clear: both;
+  padding-bottom: $grid-padding;
+  display: block;
+  width: 100%;
+  width: calc(100% + #{ $grid-padding * 2 });
+  left: -$grid-padding;
+
+
+  // set margin on nested columns
+  .columns {
+    margin-top: $section-padding;
+  }
+}
+
+
+// set margin on adjacent columns
+.columns + .columns {
+  margin-top: ($section-padding / 2);
+}
+
+
+// individual column
+.column {
+  box-sizing: border-box;
+  float: left;
+  width: 100%; // initial
+  padding: $grid-padding $grid-padding 0;
+
+  @include bp-max(m2) {
+    & + .column {
+      margin-top: $grid-padding;
+    }
+  }
+
+  &.g-center {
+    float: none;
+    margin: 0 auto;
+  }
+
+}
+
+
+// grid widths
+@include bp(m2) {
+  @for $i from 1 through 12 {
+    .g-#{$i} {
+      width: #{ $i * (100% / 12) };
+    }
+  }
+}
+
+.g-constant > {
+  @for $i from 1 through 12 {
+    .g-#{$i} {
+      width: #{ $i * (100% / 12) };
+    }
+  }
+}
+
+.u-padding-none {
+  padding: 0 !important;
+}
+
+.u-padding-top-off {
+  padding-top: 0 !important;
+}
+
+
+// section spacing
+.section {
+  padding: $section-padding 0 ($section-padding * 1.25) 0;
+
+  @include bp-max(m2) {
+    padding: ($section-padding / 2) 0 ($section-padding * 0.75) 0;
+  }
+
+  &--nested:last-of-type {
+    padding-bottom: 0;
+  }
+
+  &.section--small_padding {
+    padding: ($section-padding / 2) 0 ($grid-padding / 2) 0;
+  }
+
+  &.section--no_bottom_padding {
+    padding-bottom: 0;
+  }
+}
+
+
+// layout helpers
+.g-vcenter {
+  @include bp(m2) {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+}
+
+.g-fullheight {
+  @include bp(m2) {
+    display: flex;
+  }
+}
+
+
+// float cms elements
+.float,
+.float-left,
+.u-float {
+  float: left;
+  clear: left;
+  width: 50%;
+  max-width: 14rem;
+  margin: ($grid-padding / 2) ($grid-padding * 2) ($grid-padding / 2) 0 !important;
+}
+
+.float-right,
+.u-float--right {
+  float: right;
+  width: 50%;
+  max-width: 14rem;
+  margin: ($grid-padding / 2) 0 ($grid-padding / 2) ($grid-padding * 2) !important;
+}
+
+// make floated figues take 33% of the container
+figure[class*='float'] {
+  width: 33%;
+
+  // make floated figues take up no more space than the size of the image
+  @media (min-width: $m1) {
+    width: max-content;
+  }
+}
+
+
+// style figures
+// NOTE: scoped to article and samples
+body.article .content,
+.content .samples {
+  figure {
+    margin-top: $grid-padding * 2;
+    padding: $grid-padding / 4;
+    z-index: 1;
+
+    img {
+      width: 100%;
+
+      & + figcaption {
+        padding-bottom: $grid-padding / 2;
+      }
+    }
+  }
+}
+
+// overrides for hero image
+.content__hero {
+  margin-top: $grid-padding / 2 !important;
+  margin-bottom: $grid-padding * 2;
+  padding: 0;
+
+  img + figcaption {
+    padding-top: $grid-padding / 3;
+  }
+}
+
+.content figcaption,
+.content aside {
+  padding: $grid-padding * 0.66666;
+}

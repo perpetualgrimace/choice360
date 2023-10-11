@@ -1,0 +1,71 @@
+Title: From Shelf to Online Repository—Creating a Collaborative Teaching and Research Collection
+
+----
+
+Category: Collection Development and Management
+
+----
+
+Date: 2017-03-16
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Sponsor-name: Adam Matthew Digital
+
+----
+
+Sponsor-url: http://www.amdigital.co.uk
+
+----
+
+Line1: 
+
+----
+
+Registration-url: https://choicereviews.webex.com/choicereviews/onstage/g.php?MTID=ea6a9fde49dbc43cb42bd08d0510bf184
+
+----
+
+Youtube-id: wIOFDtXwXlg
+
+----
+
+Thumb: 
+
+----
+
+Text: 
+
+### Summary:
+Curating, digitizing and building a digital collection of primary sources is a truly collaborative process between archive, scholar and publisher. Highlighting the power of digital research, this webinar will discuss different perspectives on processes involved, from development and selection, to digitization and usage.
+
+ We will hear a case study from archivists, academics and publishing editors on their involvement in producing Race Relations in America, sourced from the Amistad Research Center. Guest speakers will provide an insight into selection, views on digital preservation, motives for digitisation and value to academics in teaching and research. Register for a behind the scenes look.
+****
+### Speakers:
+<h4 class="u-no_margin delta">Katrina M. Sanders </h4>
+Associate Professor, College of Education
+University of Iowa
+
+Dr. Sanders is Associate Professor in the College of Education at University of Iowa. She is a Louisiana native and former public school teacher. Her research examines American race relations, African American education, and Catholic education. 
+
+#### Chianta Dorsey 
+Reference Archivist, 
+Amistad Research Center, New Orleans
+
+Chianta Dorsey is the reference archivist at the Amistad Research Center at Tulane University. Her duties focus on reference, outreach and access services including digitization projects. She received her MA in history and MLIS from Simmons College in Boston, MA. She earned a BA in history from Xavier University of Louisiana.
+
+#### Clare Mence
+Senior Development Editor
+Adam Matthew Digital
+
+Clare is a Senior Development Editor at Adam Matthew Digital and has collaborated with leading libraries and archives all over the world in her time at the company. She has seven years’ experience in academic publishing and has specialised in history publishing since 2011. 
+
+#### Sophie Heath
+Production Editor
+Adam Matthew Digital
+
+Sophie has worked at Adam Matthew Digital for four years, and is the production editor for Race Relations in America. She has also worked on a variety of other Adam Matthew Digital resources, from Colonial America to The First World War, East India Company, and Church Missionary Society Periodicals.

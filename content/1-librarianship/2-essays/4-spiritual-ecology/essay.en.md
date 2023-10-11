@@ -1,0 +1,37 @@
+Title: Spiritual Ecology: Is It the Ultimate Solution for the Environmental Crisis? (April 2014)
+
+----
+
+Date: 03-06-2016
+
+----
+
+Issue: This essay first appeared in the April 2014 issue of Choice (volume 51 | issue 8).
+
+----
+
+Category: General Purpose
+
+----
+
+Libguides_url: http://ala-choice.libguides.com/c.php?g=405262
+
+----
+
+Text:
+
+Scientific, academic, and public interest in spirituality and ecology as well as how they intersect has been growing exponentially since the late 1980s. Spiritual ecology may be defined as the vast, diverse, complex, and dynamic arena of intellectual and practical activities at the interfaces between religions and spiritualities on the one hand, and ecologies, environments, and environmentalisms on the other. Overlapping with spiritual ecology are other usually narrower subjects, including but not limited to ecotheology, religion and ecology, and religious environmentalism.
+
+Here, only a representative sample of some of the more important books on spiritual ecology can be presented, about 10 percent of a total of more than a thousand. Books selected for this essay are predominantly of interest in academia, although some may be of interest to a more general audience as well. When an author has written multiple books on the topic, usually only the most recent one is cited here, on the assumption that previous ones will be listed in its bibliography. Rarely is a single book listed under more than one topic, although many titles may overlap with other topics.
+
+This essay is organized as follows. First, some of the major achievements in the history of the academic development of spiritual ecology are highlighted. Second, the recent development of this subject is surveyed through key textbooks, interfaith anthologies, publishers’ series, periodicals, reference works, and websites. Third, several of the more important books for nature, Asian, and Abrahamic religions are considered. Fourth, various other subjects are sampled, including religion in relation to sustainability, conservation, and climate change. Finally, a few responses to critics, and sources in the quiet revolution that is spiritual ecology, are cited.
+
+----
+
+Author: Leslie E. Sponsel
+
+----
+
+Byline:
+
+Leslie E. Sponsel is emeritus professor of anthropology at the University of Hawai’i. His e-mail is sponsel@hawaii.edu. Roger S. Gottlieb, Lisa Mitten, Bron Taylor, and Mary Evelyn Tucker generously provided very helpful comments toward the final draft of this essay, but the author is solely responsible for any deficiencies.

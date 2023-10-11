@@ -1,0 +1,45 @@
+Title: EBA vs. PDA: Examining Demand-Driven Models for Acquiring Video
+
+----
+
+Date: 2015-10-06
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Category: Collection Development and Management 
+
+----
+
+Sponsor-name: Alexander Street Press
+
+----
+
+Sponsor-url: http://alexanderstreet.com
+
+----
+
+Youtube-id: wZ_xEIjbMHk
+
+----
+
+Text:
+
+Join us for an in-depth look at Evidence-based Acquisition (EBA) versus Patron-driven Acquisition (PDA) for streaming video. What are the pros and cons of each? When would a library choose one or the other versus other acquisition models?
+
+We share specific case studies of libraries using each, and you’ll discover how your peers are using demand-driven acquisition models to:
+
+- Provide broad access to video.
+- Deliver relevant content to patrons.
+- Achieve a positive return on investment.
+
+----
+
+Thumb:
+
+----
+
+References:

@@ -1,0 +1,279 @@
+// theme helpers
+@mixin text-shadow($shadow: $shadow) {
+  text-shadow: 0px 1px 2px #{$shadow};
+}
+
+@mixin box-shadow($shadow: $shadow) {
+  box-shadow: 0px 1px 6px #{$shadow};
+}
+
+
+// global
+body {
+  color: $dark-1;
+  background-color: $white;
+}
+
+
+// headings
+h1, h2, h3, h4, h5, h6,
+.heading {
+  color: $black;
+}
+
+
+// links
+a {
+  color: $brand-color;
+  display: inline-block;
+
+  &:hover svg,
+  &:focus svg {
+    transform: scale(1.125);
+
+    g {
+      fill: $white;
+    }
+  }
+
+  &:hover, &:focus {
+    img, [class*='img'] {
+      opacity: $hover-opacity;
+    }
+  }
+}
+
+
+// social
+.share__link {
+  color: $gray;
+}
+.share__link[href*=twitter] {
+  g {
+    fill: $twitter-blue;
+  }
+  &:hover, &:focus {
+    color: $twitter-blue;
+  }
+}
+
+.share__link[href*=linkedin] {
+  g {
+    fill: $linkedin-blue;
+  }
+  &:hover, &:focus {
+    color: $linkedin-blue;
+  }
+}
+
+.share__link[href*=facebook] {
+  g {
+    fill: $facebook-blue;
+  }
+  &:hover, &:focus {
+    color: $facebook-blue;
+  }
+}
+
+
+// nav link style helper
+@mixin nav-link {
+  color: $gray;
+  text-shadow: none;
+
+  &.is-active_pg {
+    color: $dark-1;
+  }
+
+  &:hover, &:focus,
+  &.is-active_pg:hover, &.is-active_pg:focus {
+    color: $brand-color;
+    background: $white;
+  }
+}
+
+p a:not(.button),
+article ul a:not(.button),
+article ol a:not(.button) {
+  border-bottom: $stroke-width solid $light-1;
+  display: inline;
+
+  &:hover, &:focus {
+    border-color: $black;
+  }
+
+  &:active {
+    color: $black;
+  }
+
+}
+
+
+// linked heading
+@mixin linked-heading {
+  @include merriweather;
+  color: $black;
+  border-bottom: $stroke-width--lg solid $light-1;
+  display: inline;
+
+  &:hover, &:focus {
+    border-color: $brand-color;
+  }
+  &:active {
+    border-color: $black;
+  }
+}
+
+// TODO: untangle the :not(.button) specificity issues
+article {
+  h1, h2, h3, h4, h5, h6 {
+    a:not(.button) {
+      @include linked-heading;
+    }
+  }
+}
+
+.u-linked_heading {
+  @include linked-heading;
+}
+
+
+// subdued link
+.u-subdued_link {
+  color: inherit;
+  font-weight: inherit !important;
+
+  &:active {
+    color: $black !important;
+  }
+}
+
+
+// asides and figcaptions
+// NOTE: scoped to article and samples
+body.article .content,
+.content .samples {
+  figure,
+  aside {
+    background: $light-1;
+
+    a {
+      color: inherit;
+      border-color: inherit;
+
+      &:hover, &:active, &:focus {
+        border-color: $brand-color;
+      }
+    }
+  }
+}
+
+
+
+// section divider
+.section + .section {
+  border-top: $stroke-width solid $light-1;
+}
+
+hr {
+  margin: $section-padding 0;
+  border: 0;
+  height: $stroke-width;
+  background: $light-1;
+}
+
+
+// horizontal border between grid items
+.g-bordered .column + .column:before {
+  @include bp(m2) {
+    content: '';
+    display: block;
+    position: absolute;
+    width: $stroke-width;
+    height: 100%;
+    height: calc(100% - #{$grid-padding}); // offset by grid padding
+    left: -($stroke-width / 2);
+    background: $light-1;
+  }
+}
+
+
+// form elements
+label {
+  color: $dark-1;
+}
+
+input:not([type=submit]), textarea, textarea {
+  border: none;
+  background: $light-1;
+  color: $dark-2;
+
+  &:hover, &:focus {
+    background: $white;
+    box-shadow: inset 0 0 0 $stroke-width $light-1;
+  }
+}
+
+
+// disabled state
+*[disabled], .is-disabled {
+  opacity: 0.33 !important;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.disable-hover * {
+  pointer-events: none;
+}
+
+
+// enhancements
+.is-active {
+  pointer-events: none;
+}
+
+::selection {
+  background: $light-1;
+}
+
+::placeholder {
+  color: $gray;
+}
+
+*:focus {
+  outline: none;
+  box-shadow:
+    0 0 0 $stroke-width $white,
+    0 0 ($stroke-width*4) $stroke-width $brand-color;
+}
+
+.u-linked_heading:focus {
+  box-shadow: none;
+}
+
+
+// icon for outbound links
+@mixin outbound() {
+  content: '';
+  background: url(../../img/icons/icon--outbound.svg);
+  width: 0.9em;
+  height: 0.7578947369em;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  margin-left: 0.125em !important;
+  display: inline-block;
+  vertical-align: baseline;
+}
+
+.content,
+.cta {
+ [href^="http"]:not([href*="choice360.org"]):not([href*="choice.bermancreative.com"]):after {
+    @include outbound();
+  }
+}
+
+.button_group a[href^="http"]:not([href*="choice360.org"]):not([href*="choice.bermancreative.com"]):after {
+  width: 0.825em;
+  position: relative;
+  top: 0.1em;
+}

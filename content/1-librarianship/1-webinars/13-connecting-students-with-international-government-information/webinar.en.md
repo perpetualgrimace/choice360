@@ -1,0 +1,35 @@
+Title: Solving the World’s Problems: Connecting Students With International Government Information for Country Case Studies
+
+----
+
+Youtube_id: docN5wGML3s
+
+----
+
+Registration_url: http://acrlchoice.learningtimesevents.org/webinar-june162016/
+
+----
+
+Date: 16-06-2016
+
+----
+
+Text:
+
+Courses in many disciplines assign students to research a current issue or problem in the world and then present potential solutions. Students often struggle to find timely and relevant sources in the scholarly literature, leading them to search the open web for any mention of their topic. This session will provide an overview of international government information resources and search tools that are well-suited to these kinds of assignments, including the World Bank eLibrary.
+
+----
+
+Sponsor_name: World Bank eLibrary
+
+----
+
+Sponsor_url: http://elibrary.worldbank.org/
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Category: Reference Works and Research

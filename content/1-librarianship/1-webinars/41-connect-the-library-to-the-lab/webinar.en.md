@@ -1,0 +1,62 @@
+Title: Connect the Library to the Lab
+
+----
+
+Category: Special Collections and Resources
+
+----
+
+Date: 2017-04-26
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Sponsor-name: Gale, a Cengage company
+
+----
+
+Sponsor-url: http://www.gale.com
+
+----
+
+Line1: 
+
+----
+
+Registration-url: https://choicereviews.webex.com/choicereviews/onstage/g.php?MTID=e59943add251fc7ecd051728c5acf688f
+
+----
+
+Youtube-id: 
+
+----
+
+Thumb: 
+
+----
+
+Text: 
+
+### Summary: 
+Chemistry faculty are often faced with the challenge of finding ways to engage students outside of the classroom with effective learning tools and strategies. The study of substances and how they interact, combine, and change should be anything but static. Students, faculty, and librarians are encouraged to collaborate in the learning process to ensure that time spent in class is more efficient and focused on problem solving and critical thinking skills. This webinar will present strategies for using new 3D chemistry simulation resources in and out of the classroom to increase student efficiency, and improve students’ depth of understanding of the complex topics like the periodic table, molecules and compounds, reactions, and chemical processes.
+*****
+### Speakers:
+<h4 class="u-no_margin delta">Gerry Sawchuk</h4>
+Senior Director, Business, Science, Analytics-Academic
+Gale, a Cengage company
+
+Gary has been in product management over 35 years, with the last 12 years in the educational publishing industry, having spent 9 years with Gale in which he’s developed over a dozen new products and three years with ProQuest, where he was publisher of natural science products.
+
+#### Angela Cannon, Ph.D.
+VIV**ED**
+
+ Angie is a subject matter expert for the VIV**ED** Chemistry product. She has taken an interest in how ordinary people understand and enjoy science and math since she was a summer tutor for a second grade classmate in math. She has received her B.S., M.A., and Ph.D from Penn State in Chemistry. She has been blessed to experience a variety of collegiate educational settings and textbooks. Eight of her mentors have authored collegiate chemistry textbooks or textbook supplements. She has assisted on supplements for three different General Chemistry textbooks. She spent four years at the University of Illinois teaching General Chemistry courses and labs. While there, she edited, authored, and implemented course websites, online quizzes, in-house lab manuals, and exams for the 7000+ students to which she issued at least one letter grade. Angie enjoys volunteering in her community to positively impact children and families, including her sons and husband. 
+ 
+#### Amos Patrick
+Vice President of R&D and Engineering, and Founder
+VIV**ED**
+
+Amos Patrick is the VP of R&D and Engineering and a Founder at VIV**ED**. He received his Masters in Biomedical Engineering from the University of Iowa where his thesis was focused on using real-time game engines to visualize and accurately predict dynamic movements of the human musculoskeletal system. After graduation he and his undergraduate adviser, Dr. Karim Malek, teamed up to form Cyber-Anatomy, which would eventually become VIV**ED**. Over the last 10 years he has been responsible for steering the technical direction of the company to create compelling, cross-platform educational applications with an emphasis on 3D interactive content. When not geeking out behind a monitor, Amos spends as much time as he can outside in the mountains. He is an avid back-country skier, climber and trail runner.

@@ -1,0 +1,73 @@
+Title: Mainstreaming Open Access Monographs
+
+----
+
+Category: Open Access Resources for Academic Libraries
+
+----
+
+Date: 2017-01-31
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Sponsor-name: EBSCO
+
+----
+
+Sponsor-url: http://www.ebsco.com
+
+----
+
+Line1: 
+
+----
+
+Registration-url: https://choicereviews.webex.com/choicereviews/onstage/g.php?MTID=e4b232cc9c55d41fe7d43e54cf718791c
+
+----
+
+Youtube-id: ew1wos_9trY
+
+----
+
+Thumb: 
+
+----
+
+Text: 
+
+### Summary:
+Publishers, vendors, and libraries endorse and fund many open monograph publishing activities, but even as books make their way into open access, digitally-native formats, they frequently remain invisible to end users, or at least hard to find. Often, library management systems and distribution platforms surface only paid electronic or print versions of a book without any indication that an open access version exists. How then do open access monographs achieve the visibility and influence of traditionally published books?
+
+ Join ACRL and Choice for a discussion of these issues and others around open monograph discoverability and distribution from the perspectives of publishers, vendors, and libraries. 
+ 
+Panelists address key questions around open publication and discoverability, such as:
+
+<ul><li> Should open monographs be treated differently from traditionally published books?</li>
+<li> How have traditional publication models informed the current system of publication and distribution?</li>
+<li> What would it take to integrate open monographs into existing vendor and library workflows?</li>
+<li> What are the unstated costs associated with open publication models, and how do they affect publishers, vendors, and libraries?</li>
+<li> How can a wider range of libraries keep up with the ever-expanding list of initiatives producing and disseminating open access monographs?</li></ul>
+*****
+### Speakers:
+<h4 class="u-no_margin delta">Rebecca Welzenbach</h4>
+Director, Strategic Integration and Partnerships and Program Manager, Lever Press
+Michigan Publishing
+
+ Rebecca Welzenbach is Director, Strategic Integration and Partnerships, at Michigan Publishing, a division of the University of Michigan Library. There, she works on Lever Press (leverpress.org), the Mapping the Free eBook Supply Chain project, and other initiatives that facilitate the production, dissemination, and normalization of open access and born-digital scholarship. Prior to this role, she coordinated the Michigan Publishing OA Journals Program and was the Outreach Librarian for the Early English Books Online-Text Creation Partnership (EEBO-TCP). A graduate of the University of Michigan's School of Information, she has been part of the scholarly publishing team at the University of Michigan Library since 2009. 
+
+#### Michael Zeoli
+Vice President for Content Development and Publisher Relations
+GOBI Library Solutions from EBSCO
+
+ Michael has worked at GOBI Library Solutions (formerly YBP Library Services) since 1997 with a brief pause as Director of eContent Development at ebrary. He publishes regularly in journals and organizes professional forums in which publishers and librarians are able to discuss perspectives. He is often included in conference panels including the Charleston Conference, the Association of American University Presses (AAUP), the Independent Publishers Guild (IPG), and the Frankfurt Book Fair. Before joining YBP, Michael worked in the Acquisitions Department in Regenstein Library at the University of Chicago. He lives in Washington, DC.
+
+#### Jessica Grim
+Collection Development and Management Librarian
+Oberlin College
+
+ Jessica Grim is Collection Development and Management Librarian at Oberlin College. She oversees the materials budget, and coordinates the liaison system and acquisitions. She is increasingly involved in discussions regarding the role of open access in libraries, and makes decisions regarding acquisition of and spending on a whole host of emerging formats, from streaming video, to OA monographs. Prior to starting the collection development position, in 2007, she served for many years in Oberlin’s reference & instruction department. Before coming to Oberlin she held positions in reference and instruction at UC Berkeley and the New York Public Library.

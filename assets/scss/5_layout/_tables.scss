@@ -1,0 +1,31 @@
+// table
+table,
+.table {
+  width: 100%;
+  margin-top: $grid-padding * 1;
+
+  tr + tr {
+    border-top: $stroke-width solid $light-1;
+  }
+
+  td {
+    padding: $grid-padding / 2;
+    vertical-align: top;
+  }
+
+  // enforce font size
+  h2, h3, h4, h5, h6,
+  p, li {
+    font-size: $milli;
+    margin-top: 0.25em;
+    margin-bottom: 0;
+  }
+
+  // override list spacing
+  ul, ol {
+    margin-top: $grid-padding / 4;
+  }
+  li + li {
+    margin-top: 0;
+  }
+}

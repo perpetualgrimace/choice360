@@ -1,0 +1,109 @@
+// Clearfix
+@mixin clearfix {
+  *zoom:1;
+  &:before,
+  &:after {
+    content:"";
+    display:table;
+    }
+    &:after {
+      clear:both;
+    }
+  }
+.u-clearfix {
+  @include clearfix;
+}
+
+
+// Anchor link destination vertical offset
+@mixin anchor-offset($height) {
+  &:before {
+    @include pseudo;
+    margin-top: -$height;
+    height: $height;
+    visibility: hidden;
+  }
+}
+
+
+// No wiggle
+@mixin no-wiggle {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+}
+
+
+// Auto-ellipsis
+@mixin ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+
+// Screen reader text
+.u-screenreader {
+  clip: rect(1px, 1px, 1px, 1px);
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+.u-screenreader--ignore {
+  speak: none;
+}
+
+.u-no_shadow {
+  box-shadow: none !important;
+}
+
+
+// full width video, maintaining aspect ratio
+.u-video {
+	width: 100%;
+	padding-bottom: 56.25%; /* 16:9 */
+  margin-top: $grid-padding / 2;
+	height: 0;
+}
+.u-video iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+// Browsersync notification
+#__bs_notify__ {
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+
+// Pixelperfect
+#chromeperfectpixel-panel-container {
+  position: absolute !important;
+  top: 0 !important;
+  height: 100vh !important;
+  width: 100vw !important;
+}
+
+
+@mixin comp($image: 'footer.png', $position: top) {
+  body:after {
+    content: '';
+    display: block;
+    position: fixed;
+    width: 100%;
+    height: 400vh;
+    #{$position}: 0;
+    left: 0;
+    background: url(../../_reference/#{$image}) 50% $position no-repeat;
+    opacity: 0.2;
+    z-index: 5;
+    pointer-events: none;
+  }
+}

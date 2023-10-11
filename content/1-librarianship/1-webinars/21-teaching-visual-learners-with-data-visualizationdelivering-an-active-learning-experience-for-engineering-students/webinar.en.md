@@ -1,0 +1,46 @@
+Title: Teaching Visual Learners with Data Visualization—Delivering an Active Learning Experience for Engineering Students
+
+----
+
+Category: Future of Libraries and Education
+
+----
+
+Date: 2016-09-13
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Sponsor-name: McGraw-Hill
+
+----
+
+Sponsor-url: http://www.mheducation.com
+
+----
+
+Line1: 
+
+----
+
+Registration-url: https://choicereviews.webex.com/choicereviews/onstage/g.php?MTID=e1188ac4dd80d3d2545bc0c4398bb1dce
+
+----
+
+Youtube-id: _cAm7v-1AEo
+
+----
+
+Thumb: 
+
+----
+
+Text: 
+
+Join AccessEngineering with Dr. Anselm Spoerri for an engaging Live Webinar on leveraging the power of interactive data visualization to engage visual learners, who make up 65% of the population. A researcher and instructor in the field of data visualization, Dr. Spoerri presents an in-depth case study of how interactive data visualization transforms the way engineering students learn about material properties. Reserve your place today so you don't miss this special event.
+
+Speaker(s):
+Dr. Anselm Spoerri has a Ph.D. from MIT and is a faculty member at the School of Communication and Information at Rutgers University. He has conducted research in the field of information visualization for the last 20 years and teaches students how best to visualize data. A recent co-authored paper about how to visualize what is most controversial in Wikipedia received widespread media attention, including articles in Wired, MIT Technology Review, The Washington Post, and The Economist. Dr. Spoerri leveraged his data visualization expertise to guide the visual display and interactive functionality that are key to AccessEngineering’s DataVis.

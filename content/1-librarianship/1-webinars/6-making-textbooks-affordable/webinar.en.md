@@ -1,0 +1,31 @@
+Title: Making Textbooks Affordable: How One University Library and One Scholarly Publisher Are Shaking Up Traditional Textbook Models
+
+----
+
+Youtube_id: dD1c3PbYFy8
+
+----
+
+Date: 15-03-2016
+
+----
+
+Text:
+
+As the cost of college textbooks continues to soar, institutions are tasked with finding alternatives to the traditional system of publishing. This webinar examines steps being taken by an academic library and a scholarly publisher to increase access to open educational resources
+
+----
+
+Sponsor_name: Springer Nature
+
+----
+
+Sponsor_url: http://www.springernature.com/us/
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Category: eBooks and Electronic Resources in Academic Libraries

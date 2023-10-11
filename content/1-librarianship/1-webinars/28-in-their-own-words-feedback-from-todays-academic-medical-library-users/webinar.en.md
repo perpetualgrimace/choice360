@@ -1,0 +1,48 @@
+Title: In Their Own Words: Feedback from Today’s Academic Medical Library Users
+
+----
+
+Category: Special Collections and Resources
+
+----
+
+Date: 2016-11-10
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Sponsor-name: ProQuest
+
+----
+
+Sponsor-url: http://proquest.com
+
+----
+
+Line1: 
+
+----
+
+Registration-url: https://choicereviews.webex.com/choicereviews/onstage/g.php?MTID=ecb9cf80ac0da033f623b328bf889b811
+
+----
+
+Youtube-id: c9RYQQ0T24s
+
+----
+
+Thumb: 
+
+----
+
+Text: 
+
+Are you aligned with your health and medical students? Find out through feedback and trends collected from faculty, undergraduate and graduate students. This session features guest speaker Joe Costello, Informationist at Western Michigan University Homer Stryker M.D. School of Medicine, who will join our panel to discuss the challenge of discovering and accessing vital health and medical resources.
+
+**Speaker(s)**:
+**Joe Costello** is an informationist at the Western Michigan University Homer Stryker M.D. School of Medicine.
+
+**Dawn Keech**, product manager for health and medical products at ProQuest, has worked in the medical space for 14 years supporting the content and information needs of customers. She views product development through the eyes of the user to create more value for researcher and library alike.

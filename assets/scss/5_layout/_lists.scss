@@ -1,0 +1,62 @@
+// lists
+
+article ul,
+article ol {
+  padding-left: $grid-padding;
+}
+
+// inline list
+.inline_list {
+  list-style-type: none;
+
+  > li {
+    display: inline-block;
+
+    svg, img, image {
+      vertical-align: middle;
+      position: relative;
+      top: -2px;
+      margin-right: 0.25em;
+      margin-left: 0.25em;
+    }
+
+    // space out all but the last item
+    &:nth-last-of-type(n + 2) {
+      margin-right: $grid-padding;
+    }
+  }
+}
+
+
+// definition list
+dl {
+  margin: 0;
+
+  dd {
+    margin: 0;
+  }
+}
+
+
+// get rid of them bullets
+.u-unbullet {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+
+// search results
+.search {
+  padding-left: 0;
+  list-style-type: none;
+
+  &__item {
+    margin-top: $grid-padding * 2;
+  }
+}
+
+
+// categories list
+.categories--horizontal {
+  margin-top: -$grid-padding;
+}

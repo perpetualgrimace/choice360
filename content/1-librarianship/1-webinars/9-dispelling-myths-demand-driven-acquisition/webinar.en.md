@@ -1,0 +1,39 @@
+Title: Dispelling Myths Around Demand Driven Acquisition
+
+----
+
+Youtube_id: zK74HgeX9z0
+
+----
+
+Date: 19-04-2016
+
+----
+
+Text:
+
+No library has an unlimited budget. No one acquisition model fits all libraries. Some recent reports decry ebook acquisitions models like DDA and STL without incorporating correlations between budget trends, collection policies and buying habits or offering concrete solutions.
+
+In truth, navigating ebook collection development in the changing library landscape requires an understanding of the reasons why library budgets are shifting, how collections policies are changing (including the relationship between P&E), and the diverse acquisition models that are available.
+
+During this session we will dispel the current myths around DDA by sharing results from our recent Academic Library Book Purchasing Trends survey and offering best practices for building your larger acquisition strategy—one that includes Print and Electronic books and diverse acquisition models.
+
+- Explore trends and the reasons behind shifting budgets
+- Expose and discuss common disconnections between collection policies and buying habits
+- Take away best practices for managing collection development by integrating multiple acquisition models into your print and electronic book acquisition program
+
+----
+
+Sponsor_name: ProQuest
+
+----
+
+Sponsor_url: http://www.proquest.com/
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Category: eBooks and Electronic Resources in Academic Libraries

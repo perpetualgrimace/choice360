@@ -1,0 +1,37 @@
+Title: Understanding Homelessness: From Memoir to Pathways Home (May 2014)
+
+----
+
+Date: 03-06-2016
+
+----
+
+Issue: This essay first appeared in the May 2014 issue of Choice (volume 51 | number 9).
+
+----
+
+Category: General Purpose
+
+----
+
+Libguides_url: http://ala-choice.libguides.com/c.php?g=405252
+
+----
+
+Text:
+
+In recent decades, homelessness has become a subject of growing concern throughout the world, including in the United States and other highly industrialized countries. Scholarly literature on homelessness has burgeoned along with the homeless population, as scholars in disciplines across the social and health sciences--public health, social work, anthropology, sociology, urban affairs, psychology--have struggled to understand this troubling problem from myriad viewpoints, and develop strategies to deal with it. This literature includes histories of homelessness; ethnographies; critical works on the causes and possible remedies for homelessness; and memoirs. This essay identifies some of the best of those resources.
+
+Homelessness emerged as a public concern in the United States and in other industrialized countries in the late 1970s, as people began encountering individuals living on the streets, a way of life formerly confined to the skid rows of large cities. By the mid-1980s, the visibly homeless were becoming a common sight even in countries with well-developed social safety-net programs—for example, Canada. Through the media, people became aware of the thousands of people living without adequate housing in Africa, Asia, and South America. In the literature of this period, homelessness was known as the “new homelessness,” to distinguish it from earlier waves of homelessness, in particular during the Great Depression of the 1930s.
+
+Books on the new homelessness cluster in several groups: memoirs that detail what it is like to be homeless; ethnographic accounts of the homeless experience; histories of homelessness; comparative works on homelessness around the world; analyses of the causes of homelessness; works on homeless subpopulations, particularly women, youth, and families; and policy analyses on how to end homelessness. This essay discusses books and websites that were written since 1970 and have influenced understanding of homelessness both within North America and internationally. In addition to the works discussed in this essay, one can find numerous scholarly articles in journals in fields such as public health, social work, anthropology, sociology, urban affairs, and psychology. This essay does not cover those articles, but they are widely accessible, both online and in academic libraries.
+
+----
+
+Author: Irene Glasser and Eric Hirsch
+
+----
+
+Byline:
+
+Irene Glasser is an anthropologist whose teaching and research focuses on homelessness and addictions and recovery. She is an adjunct lecturer in the anthropology department at Brown University and a research associate of the Center for Alcohol and Addiction Studies at Brown. Eric Hirsch, a professor sociology at Providence College, teaches in the areas of urban sociology, race and ethnic relations, homelessness, social movements, and the sociology of disaster. He is active in the advocacy movement to end homelessness in the state of Rhode Island.

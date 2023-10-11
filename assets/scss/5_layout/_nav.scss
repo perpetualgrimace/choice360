@@ -1,0 +1,287 @@
+// nav container
+.nav_container {
+  z-index: 10;
+  width: 100%;
+  background: $white;
+  height: $nav-height;
+
+  @include bp(tall) {
+    position: fixed;
+    @include box-shadow;
+
+    & + .nav_offset {
+      height: $nav-height;
+    }
+  }
+}
+
+
+nav a {
+  @include nav-link; // helper mixin found in _theme.scss
+}
+
+
+// main navbar
+.nav_main {
+  height: $nav-height;
+  background: $white;
+
+  a {
+    font-size: $milli;
+  }
+
+  @include bp(m1) {
+    &__list {
+      float: right;
+    }
+    &__item {
+      display: inline-block;
+
+      &.has-dropdown .nav_main__link {
+        background: none;
+      }
+    }
+    &__link {
+      padding: $nav-main-padding;
+      background-repeat: no-repeat;
+      background-position: 50% 150%;
+
+      &:hover {
+        background-position: 50% 100%;
+      }
+    }
+  }
+}
+
+
+// logo
+.nav_logo {
+  position: absolute; // make sure menu doesn't wrap
+  left: $grid-padding; // offset absolute positioning
+
+  &__img {
+    @include svg(logo);
+    width: 10.75rem;
+    height: $nav-height;
+    display: block;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 8.75rem 2.05rem;
+
+    @include bp-max(s1) {
+      background-position: 0 50%;
+    }
+  }
+}
+
+
+// Anchor link offset
+*[id]:before {
+  content: '';
+  display: block;
+  position: relative;
+  width: 0;
+  height: $nav-height;
+  margin-top: -$nav-height;
+  z-index: -1;
+  pointer-events: none;
+
+  // this next part is meant to increase the distance from the top of the screen,
+  // but it's obscuring links in above paragraph. z-index? pointer-events: none? The browser doesn't seem to care.
+  // TODO: Troubleshoot, explore other options
+  /*
+  @include bp(tall) {
+    height: ($nav-height * 2);
+    margin-top: -($nav-height * 2);
+  }
+  */
+}
+
+
+// dropdown menu
+// helper
+@mixin dropdown-style {
+  @include box-shadow;
+  transform: translateY(-10px);
+  background: $white;
+
+  li, a {
+    display: block;
+  }
+
+  a {
+    padding: ($grid-padding / 2) $grid-padding;
+    white-space: nowrap;
+  }
+}
+
+@include bp(m1) {
+
+  .nav_dropdown__list {
+    @include dropdown-style;
+    top: $nav-height - 0.25rem;
+    left: -0.75rem;
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  // show dropdown list
+  .has-dropdown:hover {
+    .nav_dropdown__list {
+      opacity: 1;
+      pointer-events: auto;
+      transform: none;
+    }
+  }
+
+  .nav_dropdown__list.is-focused,
+  .has-dropdown .nav_main__link:focus + .nav_dropdown__list, // I know this selector is ugly, but it's for accessibility!
+  .has-dropdown:hover .nav_dropdown__list { // class added via js on focus
+    opacity: 1;
+    @include box-shadow;
+    transform: translateY(0);
+
+    a {
+      box-shadow: none;
+    }
+  }
+
+}
+
+
+// nested menu
+.nav_nested {
+  margin-bottom: $grid-padding / 2;
+
+  &__item {
+    padding-left: $grid-padding;
+  }
+
+  & &__link {
+    padding: ($grid-padding / 4) $grid-padding;
+    border-left: $stroke-width solid $light-1;
+  }
+
+}
+
+
+// menu toggle
+.nav_toggle {
+  float: right;
+  text-transform: uppercase;
+  height: $nav-height;
+  padding: 0.875rem $grid-padding 0 $grid-padding;
+  right: -$grid-padding;
+
+  @include bp(m1) {
+    display: none;
+  }
+}
+
+
+// humburger icon
+.nav_hamburger {
+  display: inline-block;
+  margin-right: 0.25rem;
+  vertical-align: baseline;
+
+  &__bun {
+    display: block;
+    width: ($stroke-width * 9);
+    height: $stroke-width;
+    border-radius: 1px;
+    background: $gray;
+
+    + .nav_hamburger__bun {
+      margin-top: ($stroke-width * 1.5);
+    }
+  }
+
+  &.is-active {
+    transform: translateX(5px);
+    .nav_hamburger__bun--top {
+      transform: rotateZ(45deg) translateY(#{$stroke-width * 3.5});
+    }
+    .nav_hamburger__bun--patty {
+      opacity: 0;
+    }
+    .nav_hamburger__bun--bottom {
+      transform: rotateZ(-45deg) translateY(-#{$stroke-width * 3.5});
+    }
+  }
+}
+
+
+// hide or show menu on smaller viewports
+@include bp-max(m1) {
+  .nav_main {
+
+  // hide submenu
+    .nav_dropdown__list {
+      display: none;
+    }
+
+    &__item {
+      display: inline-block;
+      float: left;
+    }
+
+    &__list {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: -1;
+      text-align: left;
+      display: block;
+      padding-left: $grid-padding;
+      padding-right: $grid-padding * 2;
+      overflow-x: auto;
+      white-space: nowrap;
+
+      &.is-collapsed {
+        visibility: hidden;
+        opacity: 0;
+        transform: translateX(100%);
+      }
+      &.is-expanded {
+        @include dropdown-style;
+        @include box-shadow;
+        visibility: visible;
+        opacity: 1;
+        right: -1rem;
+        margin-top: $nav-height;
+        transform: translateY(0);
+        background: $light-1;
+      }
+    }
+
+  }
+}
+
+// tweakpoints for smaller screens
+.nav_main__item {
+  @media only screen and (max-width: 33.999em) {
+    display: block;
+    width: 33%;
+  }
+
+  @include bp-max(s1) {
+    width: 50%;
+  }
+}
+
+// the tiniest of screens
+@media only screen and (max-width: 18.999em) {
+  .nav_main__item {
+    width: 100%;
+  }
+  .nav_toggle__text {
+    display: none;
+  }
+  .nav_hamburger {
+    margin-top: 0.25rem;
+    margin-right: 0;
+  }
+}

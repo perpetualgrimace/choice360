@@ -1,0 +1,211 @@
+Title: The Top 75 Community College Titles: March Edition
+
+----
+
+Subtitle: The best of all the titles appropriate for two-year colleges reviewed in the March issue of Choice.
+
+----
+
+Category: Newsletters
+
+----
+
+Date: 2017-03-30
+
+----
+
+Description: The best of all the titles appropriate for two-year colleges reviewed in the March issue of Choice.
+
+----
+
+Line1: 
+
+----
+
+Thumb: mar-cc-2017.jpg
+
+----
+
+Hero: mar-cc-2017.jpg
+
+----
+
+Hero-caption: 
+
+----
+
+Text: 
+
+### REFERENCE
+**Aging in America**, ed. by Robert L. Scardamalia.  2nd ed. Bernan, 2016.  465p  index  afp  ISBN 9781598888638, $110.00; ISBN 9781598888645 ebook, $109.99;  54-3028
+
+**Art History Teaching Resources**. URL: (link: http://arthistoryteachingresources.org/ text:  http://arthistoryteachingresources.org/ popup: yes), 54-3030
+
+**CAB Direct**.  CABI. Contact publisher for pricing.URL: (link: http://www.cabdirect.org/ text: https://www.cabdirect.org/ popup: yes), 54-3024
+
+**Colonial America: Module 2, Towards Revolution**.  Adam Matthew. Contact publisher for pricing (based on FTE, purchase history, and Carnegie Classification); a typical one-time purchase with nominal hosting fee (0.5% of purchase price) ranges from $15,000.00 to $50,000.00. URL: (link: http://www.colonialamerica.amdigital.co.uk/ text: http://www.colonialamerica.amdigital.co.uk/ popup: yes), 54-3032
+
+**Digital Dictionary of Buddhism**, from A. Charles Muller. URL: (link: http://www.buddhism-dict.net/ddb/ text: http://www.buddhism-dict.net/ddb/ popup: yes), 54-3015
+
+**Handbook of the mammals of the world: v.6: lagomorphs and rodents I**, chief editors, Don E. Wilson, Thomas E. Lacher, Jr., and Russell A. Mittermeier. Lynx Edicions, 2016.  987p  bibl  index  ISBN 9788494189234, $175.00;  54-3026
+
+Hendley, Nate. **The big con: great hoaxes, frauds, grifts, and swindles in American history**. ABC-CLIO, 2016.  380p bibl  index  afp  ISBN 9781610695855, $89.00; ISBN 9781610695862 ebook, contact publisher for price;  54-3037
+
+**Historic sites and landmarks that shaped America: from Acoma Pueblo to Ground Zero**, ed. by Mitchell Newton-Matza. ABC-CLIO, 2016.  2v  bibl  index  afp  ISBN 9781610697491, $189.00; ISBN 9781610697507 ebook, contact publisher for price;  54-3038
+
+Lind, Nancy S. **Today’s economic issues: Democrats and Republicans**, by Nancy S. Lind, Erik T. Rankin, and Gardenia Harris. ABC-CLIO, 2016.  387p  bibl  index  afp  ISBN 9781440839368, $97.00; ISBN 9781440839375 ebook, contact publisher for price;  54-3041
+
+**Pop culture in Asia and Oceania**, ed. by Jeremy A. Murray and Kathleen M. Nadeau. ABC-CLIO, 2016.  444p  bibl  index  afp  ISBN 9781440839900, $97.00; ISBN 9781440839917 ebook, contact publisher for price;  54-3042
+
+Snodgrass, Mary Ellen. **The encyclopedia of world folk dance**. Rowman & Littlefield, 2016.  403p  bibl  index  afp  ISBN 9781442257481, $95.00; ISBN 9781442257498 ebook, $94.99;  54-3043
+
+Tucker, Spencer. **The roots and consequences of 20th-century warfare: conflicts that shaped the modern world**. ABC-CLIO, 2016.  545p bibl  index  afp  ISBN 9781610698016, $100.00; ISBN 9781610698023 ebook, contact publisher for price;  54-3044
+
+**World War II: the definitive encyclopedia and document collection**, ed. by Spencer C. Tucker et al.; foreword by Gerhard L. Weinberg. ABC-CLIO, 2016.  5v  bibl  index  afp  ISBN 9781851099689, $520.00; ISBN 9781851099696 ebook, contact publisher for price;  54-3047
+
+**Yearbook of international religious demography, 2016**, ed. by Brian J. Grim. Brill, 2016.  231p  index  afp  ISBN 9789004321731 pbk, $99.00; ISBN 978900432214 ebook, contact publisher for price;  54-3022
+
+Zirpolo, Lilian H. **Historical dictionary of Renaissance art.** Rowman & Littlefield, 2016.  583p bibl  afp  ISBN 9781442264663, $140.00; ISBN 9781442264670 ebook, $139.99;  54-3023
+
+### HUMANITIES  
+Alice Munro: **Hateship, friendship, courtship, loveship, marriage, Runaway, Dear life**, ed. by Robert Thacker. Bloomsbury Academic, .  258p  bibl  index  ISBN 9781474230995, $94.00; ISBN 9781474231008 pbk, $29.95; ISBN 9781474231008 ebook, contact publisher for price;  54-3101
+
+Baecque, Antoine de. **Éric Rohmer: a biography, by Antoine de Baecque and Noël Herpe**; tr. by Steven Rendall and Lisa Neal. Columbia, 2016.  637p  index  afp  ISBN 9780231175586, $40.00; ISBN 9780231541572 ebook, $39.99;  54-3133
+
+Bendazzi, Giannalberto. **Animation: a world history: v.1: Foundations—the Golden Age; v.2: The birth of a style—the three markets; v.3: Contemporary times**. CRC Press, 2016.  3v index  ISBN 9781138943070, $292.00;  54-3134
+
+Dyck, Kirsten. **Reichsrock: the international web of white-power and neo-Nazi hate music**. Rutgers, 2016.  198p  bibl  index  afp  ISBN 9780813574714, $90.00; ISBN 9780813574707 pbk, $25.95; ISBN 9780813574721 ebook, $25.95;  54-3143
+
+Hemmer, Nicole. **Messengers of the Right: conservative media and the transformation of American politics**. Pennsylvania, 2016.  320p  index  afp  ISBN 9780812248395, $34.95; ISBN 9780812293074 ebook, $34.95;  54-3084
+
+**A History of Japanese theatre**, ed. by Jonah Salz. Cambridge, 2016.  550p  bibl  index  ISBN 9781107034242, $155.00; ISBN 9781316396940 ebook, $124.00;  54-3157
+
+Kane, Patricia E. **Art and industry in early America: Rhode Island furniture, 1650–1830**, by Patricia E. Kane with Dennis Carr et al. Yale University Art Gallery, 2016.  (Dist. by Yale) 494p bibl  index  ISBN 9780300217841, $85.00;  54-3055
+
+Livingstone, Marco. **Hockney’s portraits and people**, by Marco Livingstone and Kay Heymer. Thames & Hudson, 2016.  240p  bibl  ISBN 9780500292341 pbk, $29.95;  54-3067
+
+Loewen, Royden. **Horse-and-buggy genius: listening to Mennonites contest the modern world**. University of Manitoba, 2016.  243p  bibl  index  ISBN 9780887557989 pbk, $31.95; ISBN 9780887554919 ebook, contact publisher for price;  54-3183
+
+**Protestantism after 500 years**, ed. by Thomas Albert Howard and Mark A. Noll. Oxford, 2016.  361p index  afp  ISBN 9780190264789, $99.00; ISBN 9780190264796 pbk, $35.00; ISBN 9780190264819 ebook, contact publisher for price;  54-3188
+
+Raboteau, Albert J. **American prophets: seven religious radicals and their struggle for social and political justice**. Princeton, 2016.  224p  index  afp  ISBN 9780691164304, $29.95; ISBN 9781400874408 ebook, contact publisher for price;  54-3189
+
+Rescher, Nicholas. **Concept audits: a philosophical method**. Lexington Books, 2016.  184p  bibl  index  afp  ISBN 9781498540391, $80.00; ISBN 9781498540407 ebook, $79.99;  54-3169
+
+Showalter, Elaine. **The civil wars of Julia Ward Howe: a biography**. Simon & Schuster, 2016.  303p index  ISBN 9781451645903, $28.00; ISBN 9781451645927 ebook, $14.99;  54-3125
+
+Simanowski, Roberto. **Data love: the seduction and betrayal of digital technologies**. Columbia, 2016.  156p  index  afp  ISBN 9780231177269, $30.00; ISBN 9780231542425 ebook, $29.99;  54-3085
+
+Stark, Andrew. **The consolations of mortality: making sense of death**. Yale, 2016.  275p  index  afp  ISBN 9780300219258, $30.00; ISBN 9780300224702 ebook, contact publisher for price;  54-3171
+
+Swasy, Alecia. **How journalists use Twitter: the changing landscape of U.S. newsrooms**. Lexington Books, 2016.  95p  bibl  index  afp  ISBN 9781498532181, $70.00; ISBN 9781498532198 ebook, $69.99;  54-3087
+
+**A Third gender: beautiful youths in Japanese Edo-period prints and paintings (1600–1868)**, [by] Joshua S. Mostow and Asato Ikeda, with the assistance of Ryoko Matsuba. Royal Ontario Museum, 2016.  215p  bibl  index  ISBN 9780888545145 pbk, $50.00;  54-3073
+
+**The Uses of photography: art, politics, and the reinvention of a medium**, ed. by Jill Dawsey; with contributions by David Antin et al. Museum of Contemporary Art, San Diego/California, 2016.  223p  bibl  index  ISBN 9780520290594, $45.00;  54-3079
+
+**The Voynich manuscript**, ed. by Raymond Clemens. Beinecke Rare Book & Manuscript Library/Yale, 2016.  66p index  afp  ISBN 9780300217230, $50.00;  54-3050
+
+### SCIENCE & TECHNOLOGY  
+Anstett, Patricia. **Breast cancer surgery and reconstruction: what’s right for you**, photography by Kathleen Galligan. Rowman & Littlefield, 2016.  229p  index  afp  ISBN 9781442242623, $35.00; ISBN 9781442242630 ebook, $34.99;  54-3253
+
+Belando, Laurent. **Urban cycling: from the BMX to the fixie**. Mitchell Beazley, 2016.  191p bibl  ISBN 9781784722272 pbk, $14.99;  54-3294
+
+Bowden, Frank. **Infectious: a doctor’s eye-opening insights into contagious diseases**. NewSouth Books, 2016.  312p  bibl  afp  ISBN 9781742234595 pbk, $29.99; ISBN 9781742242293 ebook, contact publisher for price;  54-3255
+
+Carpenter, Kenneth. **Acrocanthosaurus inside and out**. Oklahoma, 2016.  137p  bibl  index  afp  ISBN 9780806153933, $26.95;  54-3237
+
+Goodwin, Steven. **Polished game development: from first steps to final release**. Apress, 2016.  259p index  afp  ISBN 9781484218785 pbk, $39.99; ISBN 9781484221228 ebook, $39.99;  54-3272
+
+Hayes, Louise. **Alligators of Texas**, photographs by Philippe Henry. Texas A&M, 2016.  227p bibl  index  afp (Gulf Coast books, 29)  ISBN 9781623493875 pbk, $29.95; ISBN 9781623493882 ebook, contact publisher for price;  54-3229
+
+Horne, John. **Understanding the Olympics**, by John Horne and Garry Whannel.  2nd ed. Routledge, 2016.  325p bibl  index  ISBN 9781138890244, $160.00; ISBN 9781138890251 pbk, $59.95; ISBN 9781315712529 ebook, contact publisher for price;  54-3297
+
+**Molecular microbiology: diagnostic principles and practice**, editors in chief: David H. Persing and Fred C. Tenover; ed. by Randall T. Hayden et al.  3rd ed. American Society for Microbiology, 2016.  835p bibl  index  ISBN 9781555819088, $200.00; ISBN 9781555819071 ebook, contact publisher for price;  54-3217
+
+Muif-Wood, Robert. **The cure for catastrophe: how we can stop manufacturing natural disasters**. Basic Books, 2016.  356p  index  ISBN 9780465060948, $29.99; ISBN 9780465096473 ebook, contact publisher for price;  54-3243
+
+Murdin, Paul. **Rock legends: the asteroids and their discoverers**. Springer, 2016.  207p  bibl  indexes  afp  ISBN 9783319318356, $29.99; ISBN 9783319318363 ebook, $19.99;  54-3206
+
+Poulsen, Bo. **Global marine science and Carlsberg: the golden connections of Johannes Schmidt, 1877-1933**. Brill, 2016.  524p  bibl  index  afp  ISBN 9789004316362, $54.00; ISBN 9789004316393 ebook, contact publisher for price;  54-3219
+
+Quick, John M. **Learn to code with games**. CRC Press, 2016.  286p bibl  index  afp  ISBN 9781498704687 pbk, $49.95; ISBN 9781498704694 ebook, $49.95;  54-3275
+
+**Routledge handbook of water and health**, ed. by Jamie Bartram with Rachel Baum et al. Routledge, 2015.  732p  bibl  index  afp  ISBN 9781138910072, $220.00; ISBN 9781315693606 ebook, contact publisher for price;  54-3266
+
+Vita-Finzi, Claudio.** A history of the solar system**. Springer, 2016.  100p  bibl  index  afp  ISBN 9783319338484 pbk, $29.99; ISBN 9783319338507 ebook, $19.99; 54-3207
+
+### SOCIAL & BEHAVIORAL SCIENCES  
+Cecil, Matthew. **Branding Hoover’s FBI: how the boss’s PR men sold the bureau to America**. University Press of Kansas, 2016.  344p  bibl  index  afp  ISBN 9780700623051, $29.95; ISBN 9780700623068 ebook, contact publisher for price;  54-3382
+
+Cockburn, Patrick. **The age of jihad: Islamic State and the great war for the Middle East**. Verso, 2016.  449p  index  ISBN 9781784784492, $29.95; ISBN 9781784784508 ebook, $9.99;  54-3457
+
+**A Companion to first ladies**, ed. by Katherine A. S. Sibley. Wiley-Blackwell, 2016.  704p  bibl  index  ISBN 9781118732229, $204.95; ISBN 9781118732250 ebook, contact publisher for price;  54-3384
+
+Cozzens, Peter. **The Earth is weeping: the epic story of the Indian wars for the American West**. Knopf, 2016.  433p bibl  index  ISBN 9780307958044, $35.00; ISBN 9780307958051 ebook, contact publisher for price;  54-3385
+
+Densmore, Frances. **World of the Teton Sioux Indians: their music, life & culture**, ed. by Joseph A. Fitzgerald; foreword by Charles Trimble. World Wisdom, 2016.  297p indexes  ISBN 9781936597512 pbk, $23.95;  54-3313
+
+Fruchtman, Jack. **American constitutional history: a brief introduction**. Wiley-Blackwell, 2016.  279p  bibl  index  ISBN 9781119141723, $89.95; ISBN 9781119141754 pbk, $29.95; ISBN 9781119141761 ebook, $23.99;  54-3491
+
+Heidari-Robinson, Stephen. **ReOrg: how to get it right, by Stephen Heidari-Robinson and Suzanne Heywood**. Harvard Business Review Press, 2016.  252p  index  afp  ISBN 9781633692237, $32.00; ISBN 9781633692244 ebook, contact publisher for price;  54-3322
+
+Hill, John E. **Adam Smith’s equality and the pursuit of happiness**. Palgrave Macmillan, 2016.  252p  bibl  index  afp  ISBN 9781137590473, $129.00; ISBN 9781137584120 ebook, $129.00;  54-3478
+
+**The History of terrorism: from antiquity to ISIS**, ed. by Gérard Chaliand and Arnaud Blin; [tr.] by Edward Schneider, Kathryn Pulver, and Jesse Browner.  Updated ed. California, 2016.  499p  bibl  index  afpl  ISBN 9780520245334, contact publisher for price; ISBN 9780520292505 pbk, $34.95; ISBN 9780520966000 ebook, $34.95;  54-3462
+
+Hogan, Kristen. **The feminist bookstore movement: lesbian antiracism and feminist accountability**. Duke, 2016.  272p bibl  index  afp  ISBN 9780822361107, $89.95; ISBN 9780822361299 pbk, $24.95; ISBN 9780822374336 ebook, contact publisher for price;  54-3395
+
+Keohane, Georgia Levenson. **Capital and the common good: how innovative finance is tackling the world’s most urgent problems**. Columbia Business School, 2016.  248p  index  afp  ISBN 9780231178020, $29.95; ISBN 9780231541664 ebook, $28.99;  54-3335
+
+LeVine, Robert A. **Do parents matter?: why Japanese babies sleep well, Mexican siblings don’t fight, and American families should just relax**, by Robert A. LeVine and Sarah LeVine. PublicAffairs, 2016.  238p  bibl  index  ISBN 9781610397230, $25.99; ISBN 9781610397247 ebook, $17.99;  54-3521
+
+Livingston, James. **No more work: why full employment is a bad idea**. North Carolina, 2016.  111p  afp  ISBN 9781469630656, $24.00; ISBN 9781469630663 ebook, $23.99;  54-3324
+
+Mayville, Luke. **John Adams and the fear of American oligarchy**. Princeton, 2016.  216p  bibl  index  afp  ISBN 9780691171531, $29.95; ISBN 9781400883691 ebook, contact publisher for price;  54-3481
+
+McBride, Becca. **The globalization of adoption: individuals, states, and agencies across borders**. Cambridge, 2016.  203p  bibl  index  ISBN 9781107149632, $110.00; ISBN 9781316570388 ebook, contact publisher for price;  54-3469
+
+Menzies, Charles R. **People of the saltwater: an ethnography of Git lax m’oon**. Nebraska, 2016.  179p  bibl  index  afp  ISBN 9780803288089, $45.00; ISBN 9780803291706 ebook, contact publisher for price;  54-3316
+
+Neumann, Tracy. **Remaking the rust belt: the postindustrial transformation of North America**. Pennsylvania, 2016.  270p index  afp  ISBN 9780812248272, $49.95; ISBN 9780812292893 ebook, $49.95;  54-3524
+
+Noble, Brian. **Articulating dinosaurs: a political anthropology**. Toronto, 2016.  491p  bibl  index  afp  ISBN 9780802096968, $115.00; ISBN 9781442627055 pbk, $47.95; ISBN 9781442621312 ebook, $47.95;  54-3317
+
+**The Oxford handbook of European history, 1914–1945**, ed. by Nicholas Doumanis. Oxford, 2016.  655p  index  ISBN 9780199695669, $160.00; ISBN 9780199695669 ebook, contact publisher for price;  54-3424
+
+Phillips, Christopher. **The battle for Syria: international rivalry in the new Middle East**. Yale, 2016.  303p  bibl  index  ISBN 9780300217179, $30.00; ISBN 9780300222173 ebook, contact publisher for price;  54-3472
+
+Plantzos, Dimitris. **Greek art and archaeology, c. 1200–30 BC**, tr. by Nicola Wardle. Lockwood Press, 2016.  303p  index  ISBN 9781937040574 pbk, $49.95;  54-3362
+
+Rahtz, Howard. **Race, riots, and the police**. L. Rienner, 2016.  209p  bibl  index  afp  ISBN 9781626375574, $62.50; ISBN 9781626375581 pbk, $25.00; ISBN 9781626376069 ebook, $25.00;  54-3526
+
+Rosen, Lawrence. **Two Arabs, a Berber, and a Jew: entangled lives in Morocco**. Chicago, 2016.  363p bibl  index  afp  ISBN 9780226317342, $82.50; ISBN 9780226317489 pbk, $27.50; ISBN 9780226317519 ebook, contact publisher for price;  54-3377
+
+Rutherford, Donald. **Suspicions of markets: critical attacks from Aristotle to the twenty-first century**. Palgrave Macmillan, 2016.  194p bibl  index  ISBN 9783319408071, $129.00; ISBN 9783319408088 ebook, $99.00;  54-3344
+
+**Scientists making a difference: one hundred eminent behavioral and brain scientists talk about their most important contributions**, ed. by Robert J. Sternberg, Susan T. Fiske, and Donald J. Foss. Cambridge, 2016.  512p  bibl  index  ISBN 9781107127135, $99.99; ISBN 9781107566378 pbk, $34.99; ISBN 9781107127135 ebook, contact publisher for price;  54-3508
+
+Smith, Michael E. **At home with the Aztecs: an archaeologist uncovers their daily life**. Routledge, 2016.  144p  bibl  index  ISBN 9781138100756, $140.00; ISBN 9781138100749 pbk, $44.95; ISBN 9781315657509 ebook, contact publisher for price;  54-3318
+
+Ther, Philipp. **Europe since 1989: a history**, tr. by Charlotte Hughes-Kreutzmüller. Princeton, 2016.  425p bibl  index afp  ISBN 9780691167374, $35.00; ISBN 9781400882892 ebook, contact publisher for price;  54-3454
+
+----
+
+Line2: 
+
+----
+
+Author: Choice Staff
+
+----
+
+Author-img: 
+
+----
+
+Byline: 
+
+----
+
+References: 

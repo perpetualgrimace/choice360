@@ -1,0 +1,31 @@
+.affiliate-list {
+  margin-top: -1.5rem !important;
+}
+
+.affiliate-item + .affiliate-item {
+  margin-top: 0;
+}
+
+.affiliate-content > * {
+  display: block; // always be breaking
+
+  // space out adjacent elements
+  &:not(:last-child) {
+    margin-bottom: 0.25em;
+  }
+}
+
+// bring in heading line-height
+.affiliate-title {
+  line-height: 1.125;
+}
+
+// font size in between delta and milli
+.affiliate-choice-meta {
+  margin-top: 0.5em;
+}
+
+// override some inherited style somewhere
+.affiliate-link {
+  font-size: $milli !important;
+}

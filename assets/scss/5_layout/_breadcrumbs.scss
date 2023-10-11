@@ -1,0 +1,25 @@
+// breadcrumbs
+.breadcrumbs {
+  min-height: 2rem;
+  background: $light-1;
+  padding-top: 0.075rem;
+
+  &__item {
+    margin-right: $grid-padding * 0.75 !important; // override
+
+    &:not(:last-of-type):after {
+      content: '/';
+      @extend .milli;
+      position: absolute;
+      right: -($grid-padding / 2);
+      top: $grid-padding / 2;
+      color: $gray;
+    }
+  }
+
+  &__link {
+    padding: ($grid-padding / 2 0);
+    background: none !important; // override default nav link style
+  }
+
+}

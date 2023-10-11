@@ -1,0 +1,156 @@
+Title: Internet Resources: April Edition
+
+----
+
+Subtitle: Selected reviews of digital reference resources from the April issue of Choice.
+
+----
+
+Category: Newsletters
+
+----
+
+Date: 2017-04-06
+
+----
+
+Description: Selected reviews of digital reference resources from the April issue of Choice.
+
+----
+
+Line1: 
+
+----
+
+Thumb: ir-apr-2017.jpg
+
+----
+
+Hero: ir-apr-2017.jpg
+
+----
+
+Hero-caption: 
+
+----
+
+Text: 
+
+***
+**African American Newspapers, Series 2, 1835–1956**. Readex. Available via a range of purchase models. Pricing is based on multiple factors. Perpetual licensing fees begin at approximately $11,000.00. 
+(link: http://www.readex.com/ text: http://www.readex.com/ popup: yes)
+
+[Visited Jan'17] Readex recently expanded their African American Newspapers, 1827-1998 ((link: http://www.choicereviews.org text: CH, Jan'11, 48-2437 popup: yes)) Series 1 collection with 75 additional titles, to now tally more than 350 newspapers. Editor Danky, who compiled African-American Newspapers and Periodicals ((link: http://www.choicereviews.org text: CH, Feb'00, 37-3082 popup: yes)), selected materials for this newly released Series 2. Highlighted are key titles from all regions, including Frederick Douglass's *New National Era* published during the 1870s, or the *Washington Tribune* dating from 1930–46 (both, Washington, DC), along with the *Chicago Bee* (from the mid 1940s), *Weekly Louisianian* (New Orleans, LA, from 1870–76), and New York papers, including *National Anti-Slavery Standard* (1840–71), *New York Age* (with more than 3,000 issues spanning 1857–1953), *Negro World* (1921–33), *Harlem Heights Daily Citizen* (mid 1930s), or *Negro Liberator* (1931–35). Some papers include long runs while others, such as *Southern News* (Richmond, VA, 1892) or *Western Outlook* (San Francisco, CA, 1900) constitute a single, extant issue.
+
+The content is significant, and researchers will appreciate having access to such a large collection of primary sources, although the search interface and variable scanning quality may confound novice users. When viewing content, the browsing interface seems slow-loading and the controls supersensitive. The option to download issues as a PDF file (in its entirety, or specific pages) greatly improves the online reading experience. Some text and images are not decipherable—inevitable in any digitized newspaper collection—but patient readers should be able to get the gist of most materials.
+
+Search limiter tabs (labeled "Dates and Eras," "Newspaper Titles," "Places of Publication," "Article Types," and "Languages") give the impression of being browsable categories due to their layout. Further experimentation reveals check boxes alongside preestablished date ranges or alphabetized lists derived from the search results. A useful help section offers guidance to these search functions, although users may not notice it at first glance, first becoming disoriented by having to reexecute a basic or advanced search after clicking one of these limiters. Under the Dates and Eras section, the "Eras in American History" option may be particularly useful for researchers attempting relatively unfocused search strategies. A selection of eras are described (e.g., U.S. Civil War), noting years encompassed (1861 to 1865) and associated events (Lincoln's Emancipation Proclamation, Sherman's March, President Lincoln's assassination, abolition). The Article Type section allow researchers to limit by a particular type of primary source (e.g., election returns, legislative acts or legal proceedings, maps, birth-matrimony-death notices, etc.), but applying it may yield an alert that only some content can be searched in this way, artificially reducing the number of results. Despite quirks of the interface, researchers seeking historical African American perspectives from the 19th and the first half of the 20th centuries will certainly appreciate the breadth of this collection. **Summing Up:** Recommended. Upper-level undergraduates, through professionals/practitioners; general readers. *—L. Stern, SUNY Cortland*
+
+****
+
+**APA Style Central**. American Psychological Association. Annual academic subscription begins at $2,000.00, based on degree(s) granted and FTE. 
+(link: http://apastyle.org/asc/ text: http://apastyle.org/asc/ popup: yes)
+
+[Visited Dec'16] The American Psychological Association's multifaceted database, which debuted in the spring of 2016, is intended to be not only an online resource for correctly formatting citations in APA style, but also a self-contained application (in four separate modules) in which users can learn about the style and how one conducts research, composes papers, and prepares them for publication. The website's Learn section offers a breadth of tutorials that address the needs of beginning through advanced behavioral and social science researchers. It contains quick guides and self-quizzes as well as samples of papers, tables, figures, and references. The Research Center section presents short tutorials (e.g., "Research Questions and Hypotheses"), a handful of APA psychology dictionaries and reference works, a set of tools to help plan and document research, and a personal reference library that functions as a citation manager. It is possible to add references to the library by searching PsycINFO ((link: http://www.choicereviews.org text: CH, Aug'15, 52-6215 popup: yes)), constructing citations using built-in forms, or importing RIS files from EndNote ((link: http://www.choicereviews.org text: CH, Jul'15, 52-5637 popup: yes)), Mendeley ((link: http://www.choicereviews.org text: CH, May'10, 47-4752 popup: yes)), Zotero ((link: http://www.choicereviews.org text: CH, Jun'08, 45-5309 popup: yes)), or *Refworks*.
+
+In the Writing Center section one finds a good selection of templates (and one can specify whether the paper is a student assignment or professional manuscript), plus samples that illustrate various paper types (the literature review, an empirical study, case study, or methodological paper, etc.). Papers can be saved and emailed or downloaded and converted to Word or PDF documents. One must create an account in order to save papers and access all features of the database. Of interest to advanced students and scholars seeking publishing venues, the final Publish module offers a searchable directory that describes and summarizes comparative data on published articles over the last three years in more than 2,000 journals (linking to APA and other publishers' websites) in psychology and allied fields.
+
+Some may be disappointed that *APA Style Central* does not offer the complete, full text of the latest *Publication Manual of the American Psychological Association* (6th ed., 2009); currently, there is no ebook available institutionally, only the printed edition or the separate, derivative *APA Style Guide to Electronic References* available as a site license in PDF format. Since the resource is designed to be used as a point-of-need tool as one writes and cites, the site simply incorporates chunks of information that highlight most of the reference types featured in the manuals. Ideal subscribers are campuses with faculty who are willing to engage and actively teach with the depth of resources this database provides. Pricing is based on FTE and other factors, and consortial discounts are available. **Summing Up:** Recommended. All academic levels; professionals/practitioners. *—J. J. Elder, Emory University*
+
+***
+
+**The Cleveland Memory Project**, from Cleveland State University. 
+(link: http://www.clevelandmemory.org/ text: http://www.clevelandmemory.org/ popup: yes)
+
+[Visited Jan'17] *The Cleveland Memory Project* is a freely available online archive for exploring the history of Cleveland in photographs, postcards, ebooks, selected newspapers, documents, oral histories (in written and audio formats), and videos. The resources focus on local history, events, people, and architectural landmarks. The project launched in 2002 with digitized resources from special collections held at the Michael Schwartz Library at Cleveland State University, and the initiative also involves collaboration with other institutions in northeast Ohio. At the present there are nearly 50 ebooks of works published between 1867 and recent years focusing on ethnic, industrial, and cultural history topics, but the site offers additional digitized books and pamphlets from the many collections incorporated in the database.
+
+A search by subject, place, name, or format (e.g., audio, maps) locates terms in the descriptive metadata and the full text of documents. To find a keyword in a newspaper issue or long document requires downloading a PDF version and deploying the word-searching function of Adobe Reader. Search results may be filtered by time period, format, subject, or other limiters. The advanced search supports phrase and Boolean constructions. The site designers also offer thematic web exhibits with mostly text and photographs on topics such as Berea Children's Home, Great Lakes Industrial History Center, Ethnic Women in Cleveland, and Shaker Heights. Other exhibits cover railroads, area metroparks, and the glory days of the Cleveland Browns. Each exhibit describes the topic and links to relevant materials, including information outside of the collections per se, such as the online Encyclopedia of Cleveland History ((link: http://www.choicereviews.org text: CH, Apr'12, 49-4221 popup: yes)) at (link: http://ech.cwru.edu/ text: http://ech.cwru.edu/ popup: yes), hosted by Case Western Reserve University and the Western Reserve Historical Society. The quality of the search engine, item descriptions, and the visual and audio resources is very good. **Summing Up:** Highly recommended. All readership levels. *—D. A. Lincove, Ohio State University*
+
+***
+
+**Creative Commons**.
+(link: https://creativecommons.org/ text: https://creativecommons.org/ popup: yes)
+
+[Visited Jan'17] The Creative Commons is a nonprofit organization dedicated to developing a range of copyright licenses for creators to apply to their work. Lawrence Lessig, Hal Abelson, and Eric Eldred founded the organization in 2001 as an alternative to restrictive copyright structures throughout the world. Unlike traditional copyright under the Berne Convention for the Protection of Literary and Artistic Works, within which all protections are awarded to the creator at the moment of creation, a Creative Commons (CC) license allows for legal remix and reuse by others. Under this system, a creator can generate a license to define how others may use a work. According to the organization's "2015 State of the Commons Report," an estimated 1.1 billion works have been released under one of six main (plus public domain) licenses.
+
+The *Creative Commons* website provides resources for creators as well as a library of work released using the platform. Though there are pages describing the mission and reasoning behind the commons model, the most useful sections visible on the top navigation bar are Share your Work, which walks users through the steps to apply for a CC license and explains what platforms support it, and the Use and Remix section, which allows one to search for CC-licensed material on *Wikipedia*, *YouTube*, *Flickr*, and other digital repositories. A browsable section also highlights several dozen sites and their license types. Users may find the material on this site overwhelming—more than a billion examples across the sciences and humanities—but it is the only place that attempts to collate materials carrying a CC license. Instructors and students will find the resource valuable as a way to release their creative work or locate shareable content. **Summing Up:** Recommended. All libraries. All levels. *—J. Rodzvilla, Emerson College*
+
+***
+
+**Eleanor Roosevelt Papers Project**, from George Washington University.
+(link: https://erpapers.columbian.gwu.edu/ text: https://erpapers.columbian.gwu.edu/ popup: yes)
+
+[Visited Jan'17] Eleanor Roosevelt remains highly admired more than 50 years after her death. Despite her outstanding legacy as first lady, ER preferred journalism to public office. A prolific correspondent, her writings were overlooked for decades but are finally being published in both print and digital formats. This resource, in existence since 2000, offers digitized versions of many papers, including correspondence, autobiographical essays, photos, press conference transcripts, speeches, telegrams, and media broadcasts. Materials are organized into categories highlighting her travels, radio and television appearances, and newspaper and magazine columns. Each section includes a detailed introduction providing context. Her "My Day" and "If You Ask Me" columns make up the most complete sections; the former ran in daily newspapers, and the latter appeared first in *Ladies' Home Journal*, then in *McCall's*. Readers asked ER wide-ranging questions, including requests for advice on religion, parenting, and dating. The section "Eleanor Roosevelt and John F. Kennedy" is a smaller collection focused on the 1960 election. "First Lady of the World" highlights ER's travels to the South Pacific war zone, postwar Europe, the Middle East, India, Asia, and the Soviet Union and includes an interview with Nikita Khrushchev and previously unpublished travel notes. These documents provide excellent descriptions of diverse regions and demonstrate how she reported her journeys to readers.
+
+The project moved to its current site in July 2016 and remains a work in progress. Some documents were not well digitized and are difficult to read. Currently, only "My Day" is searchable; other sections must be browsed. Printing presents challenges because the printable version does not eliminate superfluous elements. Documents can be shared via social media or email, but permalinks do not exist for all records. This wonderful resource demonstrates ER's lasting influence, however, and scholars interested in the Cold War, McCarthyism, women's history, and civil or human rights will find it invaluable. **Summing Up:** Essential. All libraries, all levels. *—E. S. Danowitz, Delaware County Community College*
+
+***
+
+**Frontier Life: Borderlands, Settlement and Colonial Encounters**. Adam Matthew. Pricing based on FTE, purchase history, and Carnegie Classification; a typical one-time purchase with nominal fee (0.5% of purchase price) ranges from $26,850.00 to $89,500.00. 
+(link: http://www.amdigital.co.uk/m-products/product/frontier-life/ text: http://www.amdigital.co.uk/m-products/product/frontier-life/ popup: yes)
+
+[Visited Jan'17] This collection assembles primary source materials on the frontier lives and experiences of European immigrants to North America, Australasia, and Africa. Documents highlight exploration, trade with Native American and Indigenous peoples in other parts of the world, colonial life, and new nations. Drawing from nearly 18 special libraries and museum collections from around the world, the earliest documents date from the 17th century, and the majority of items come from the 18th and 19th centuries. The scope of content for North America covers the US regions (East, Midwest, and Southwest, including California and Mexico) and all of Canada. Australia's and New Zealand's colonial period begins in the mid-18th century with Arthur Phillip and the penal colony at Sydney. Africa is represented by the frontiers that were part of the British colonial expansion, particularly South Africa. There are also selected documents on Central America, specifically George Arthur's papers that cover British Honduras (now Belize).
+
+Document types include correspondence, diaries, government and legal papers, land transactions, speeches, books, and pamphlets. All materials can be discovered by browsing general themes, including agriculture and livestock; art and entertainment; business, trade, and commerce; children and family; exploration, expeditions, and travel; government and politics; health and medicine; Indigenous peoples; industry and technology; land and property; law and order; the natural world; religion; warfare and military history; and women's history. The publisher's interface is easily navigated, supporting both browsing and searching using Boolean parameters. In either mode, one may apply a set of extensive filters to limit results by theme, region, document type, or library/archive. Separate directories open to allow searching of the indexed contents by subjects, subcollections, authors, people, and places. Individual records display title, date, and subcollection information, along with other metadata often hyperlinked to related materials. Tabs point to an Explore section (featuring pertinent essays, video interviews, a frontier culture museum illustrating Virginia farmsteads, and external links), an Image Gallery (offering artwork, photographs, artifacts, and maps), and a Map-Chronology interactive section (organized geographically by continent, highlighting key events on a time line that links back to the documents under broad subjects).
+
+This well-designed database offers wonderful content for those seeking primary sources that may yield insights into the orienting worldview of particular frontiers and their settlers. As a stand-alone database, *Frontier Life* will remain static, as there are no plans to add new materials. This fact, along with the significant cost, may limit the number of institutions able to afford to purchase access to this rich collection curated by an editorial board of historians. **Summing Up:** Recommended. Undergraduates through researchers/faculty; professionals/practitioners. *—J. M. Piper-Burton, West Chester University of Pennsylvania*
+
+***
+
+**Navigating the Green Book**, by Victor Green, from the New York Public Library.
+(link: http://publicdomain.nypl.org/greenbook-map text: http://publicdomain.nypl.org/greenbook-map popup: yes)
+
+[Visited Jan'17] This resource provides access to the content of *The Green Book*, published periodically between 1936 and 1966. Search options are limited to three map features: one for creating a map of a trip, and two for visualizing available data in cluster or "heatmap" views. These displays show the concentration of businesses friendly to African American travelers for just two particular dates, 1947 and 1956 (although covers and the content of the travel guide are viewable for additional years, issued under various titles including *The Negro Motorist Green Book* or *The Negro Traveler's Green Book: The Guide to Travel and Vacations*). The Map a Trip feature allows users to see what services (e.g., hotels, restaurants, bars, gas stations) were available on trips during those years between larger cities, tracing nearly 800 addresses. While the heatmap is eye-catching, there does not seem to be any extra functionality that would make this color coordination useful to users. Furthermore, multiple links are available on the home page; some of them lead to scanned copies of *The Green Book* for additional years, while others point to raw text and data files. These features may be informative for web developers but perhaps confusing for general users.
+
+These unique documents have value for studying how race relations affected business and travel for African Americans during a defined time in the nation's history. However, the site's current organization could be improved, which would help users unlock the educational potential of this content. Suggestions for improvements include the incorporation of more text that clarifies the structure and navigation of the site, explains the purpose of the supplemental links, and provides time frames for users themselves to add more years of the publication into the database. In its present format, this resource can only be cautiously recommended. **Summing Up:** Recommended. With reservations, for general readers. *—T. M. Hughes, University of Missouri - Kansas City*
+
+***
+
+**Shakespeare Documented**, from the Folger Shakespeare Library.
+(link: http://www.shakespearedocumented.org/ text: http://www.shakespearedocumented.org/ popup: yes)
+
+[Visited Jan'17] *Shakespeare Documented* brings together digitized versions of various primary documents relating to Shakespeare's life, work, and influence. A cooperative project convened by the Folger Shakespeare Library in observance of the writer's 400th birthday, the site features high-quality scans of 400 documents otherwise scattered among various libraries and museums. Scans are presented with three views: a thumbnail on the image's main page plus two enlarged versions.
+
+The focus here is more on documentary evidence and less on literary analysis. Indeed, for most of the plays, a scanned title page stands in for the entire text. Users wanting historical texts of the plays—a fact acknowledged in the site's Playwright, Actor & Shareholder section—will be better served by the British Library's website *Shakespeare in Quarto* at (link: http://www.bl.uk/treasures/shakespeare/homepage.html  text: http://www.bl.uk/treasures/shakespeare/homepage.html popup: yes)or, fancier yet, The Shakespeare Quarto Archive ((link: http://www.choicereviews.org text: CH, Aug'14, 51-6494 popup: yes)) at (link: http://www.quartos.org/index.html text: http://www.quartos.org/index.html popup: yes), and the Folger Digital Texts ((link: http://www.choicereviews.org text: CH, Jul'13, 50-6036 popup: yes)) website at (link: http://www.folgerdigitaltexts.org/ text: http://www.folgerdigitaltexts.org/ popup: yes). However, for those seeking historical evidence of Shakespeare as a living, working person, this new site is a pleasure to explore. As just one example, it provides scans of both the original and registered versions of Shakespeare's will. Even better, both items include contextual information, and the original offers a modernized transcription, rendering it intelligible to nonspecialists. The transcriptions are reserved for only a few documents, but for others, the contextual information serves much the same purpose, as with a March 15, 1595, record of payment to Shakespeare's theatrical company.
+
+The site is not without problems. There are occasional broken links, easy enough to clean up, but more disappointing are the many placeholders proclaiming "Shakespeare Documented is still growing" throughout 2016. Given the amount of expertise required to produce the contextual information, it may be difficult to complete. Even without full descriptions, it remains extremely valuable for specialists and interested readers. **Summing Up:** Highly recommended. All readership levels.  *—S. Magedanz, California State University San Bernardino*
+
+***
+
+**Textual History of the Bible**, editor in chief Armin Lange. Brill. Outright purchase price $3,250.00. 
+(link: http://referenceworks.brillonline.com/browse/textual-history-of-the-bible text: http://referenceworks.brillonline.com/browse/textual-history-of-the-bible popup: yes)
+
+[Visited Jan'17] The Hebrew Bible is the focus of the first volume in the *Textual History of the Bible*, a multivolume work in progress that aims to be a comprehensive resource for faculty and advanced students engaged in textual criticism of the Hebrew Bible and the Deuterocanonical scriptures. Over 120 specialists are contributing to the textual criticism under the general editorship of Lange (Univ. of Vienna, Austria). When completed, the work will consist of nine monographs organized in four volumes: *The Hebrew Bible* (1A and 1B, with the print edition of 1C due in early 2017), *The Deuterocanonical Scriptures* (2A and 2B, in 2017), *A Companion to Textual Criticism* (3A, 3B, and 3C, in 2019), plus the final volume, Indices and *Manuscript Catalogues*, in 2020. A supplement series is also planned.
+
+The first volume, *The Hebrew Bible*, whose three parts are now available online with some 350 articles edited by Lange and Emanuel Tov (Hebrew Univ.), begins (in "Overview Articles") with a textual history of the Hebrew Bible and its canonical development in Judaism and Christianity. The contributors then survey the biblical witnesses by group, starting with the ancient Hebrew and Aramaic texts and proceeding to the primary translations from the Hebrew, such as the Septuagint, Peshitta, and Vulgate. Also covered are the secondary translations that often relied on Greek sources, spanning from the Vetus Latina to the Gothic translations. It concludes with surveys of the medieval Masoretic Text and the ancient Jewish and Christian sources that quote or allude to passages from the Hebrew Bible. These articles review the textual characteristics, research histories, primary sources, and tools for scholars studying these witnesses. Volumes 1B and 1C reverse this approach, providing in-depth articles on the books of the Hebrew Bible, reviewing their textual and research histories, manuscripts, translations, editions, and reference works. Especially noteworthy are the assessments of the text-critical value of sources for exegesis and literary analysis. The work also includes articles on the biblical text found in ancient literature, ranging from the Apocrypha to sections dealing with the Greek, Latin, Syriac, and Coptic church fathers.
+
+All articles are signed, and the hierarchical numbering system for articles and their subsections facilitates citation of the print and online editions. The print edition has conveniently located footnotes with bibliographies at the end of articles, but scholars will want access to the online edition, as articles appear here before they do in print. Furthermore, the hyperlinked see references in the online edition are easier to follow than in print. While the search capabilities compensate for the publication delay of the indexes, a keyword-in-context display would be helpful. Libraries supporting advanced research in textual criticism of the Hebrew Bible will find this resource indispensable. **Summing Up:** Highly recommended. Graduate students through researchers/faculty. *—W. Fontaine, Dartmouth College*
+
+***
+
+**Wynken de Worde: Books, Early Modern Culture, Post-modern Readers**, from Sarah Werner. 
+(link: http://sarahwerner.net/blog/ text: http://sarahwerner.net/blog/ popup: yes)
+
+[Visited Dec'16] Independent scholar Werner, an early modern book history enthusiast and former English professor who has worked at the Folger Shakespeare Library, created this website and blog. She has written and spoken extensively on Shakespeare and early print culture, and here popularizes digital information about early printed books, just as Wynken de Worde—of the site's title—was the chief popularizer, with William Caxton, of early printed material in the British Isles. The site offers an Archive containing blog posts back to 2008, while a Books and Early Modern Culture section contains the syllabus and course materials for her 2007–14 "History of the Book" undergraduate seminar at the Folger. Resources include links to websites offering Shakespeare First Folios, dozens of open-access early-modern digital collections (e.g., Yale's Beinecke Library, the Boston Public Library) with short annotations, plus examples of efforts to digitize particular works, including items featured in Early English Books Online ((link: http://www.choicereviews.org text: CH, Aug'07, 44-6590 popup: yes)).
+
+Within the section devoted to book history one finds links to digitized versions of print reference resources used in rare books work, narrative and video born-digital resources, and the British Library's *English Short Title Catalogue*, University of St. Andrews's *Universal Short Title Catalogue*, and other catalogs and databases, as well as book vocabularies and glossaries like *ABC for Book Collectors* (corrected 8th ed., 2006). Also linked are practical tools for understanding Latin, the book trade, bindings, paper, and printers manuals—all designed to help rare book librarians and catalogers, subject librarians, faculty, and students with an interest in the burgeoning field of study devoted to book history. As the digital world of the humanities develops, it seems that more scholars are becoming aware of (and attracted to) the study of books of prior eras, their content and physical construction. The Rare Books and Manuscripts Section of ALA/ACRL at (link: https://rbms.info/ text: https://rbms.info/ popup: yes) also offers some of this material. **Summing Up:** Recommended. All readership levels. *—A. H. Widder, Michigan State University*
+
+----
+
+Line2: 
+
+----
+
+Author: Choice Staff
+
+----
+
+Author-img: 
+
+----
+
+Byline: 
+
+----
+
+References: 

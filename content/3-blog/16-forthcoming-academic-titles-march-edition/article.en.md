@@ -1,0 +1,297 @@
+Title: Forthcoming Academic Titles: March Edition
+
+----
+
+Subtitle: New and soon-to-be-released publications on women's and gender studies.
+
+----
+
+Category: Newsletters
+
+----
+
+Date: 2017-03-09
+
+----
+
+Description: New and soon-to-be-released publications on women's and gender studies.
+
+----
+
+Line1: 
+
+----
+
+Thumb: mar-fc-2017.jpg
+
+----
+
+Hero: mar-fc-2017.jpg
+
+----
+
+Hero-caption: 
+
+----
+
+Text: 
+
+This selected list of Women's and Gender Studies titles is designed to provide information about new or soon to be released publications that may support academic curricula and library collections, particularly at the undergraduate level. This list highlights forthcoming titles scheduled for publication from January through November 2017. Choice extends special thanks to the publishers who supplied and verified information about their titles for this feature. 
+
+***
+
+### Humanities
+
+#### Art & Architecture
+
+**Photography after Photography: Gender, Genre, History, by Abigail Solomon-Godeau**, ed. by Sarah Parsons. (link: http://www.dukeupress.edu/ text: Duke popup: yes), May 2017e. $89.95e ISBN 9780822362517; $24.95e pbk ISBN 9780822362661; $89.95e ebook ISBN 9780822373629
+
+**Revitalizing History: Recognizing the Struggles, Lives, and Achievements of African American and Women Art Educators**, by Ami Kantawala and Paul Bolin. (link: http://www.vernonpress.com/ text: Vernon popup: yes), Mar. 2017e. Price not yet set ISBN 9781622731077
+
+#### Film
+
+**The Body and the Screen: Female Subjectivity in Contemporary Women’s Cinema**, by Kate Ince. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Jan. 2017. $120.00 ISBN 9781623562922; $34.95 pbk ISBN 9781623565817
+
+**Ida Lupino, Director: Her Art and Resilience in Times of Transition**, by Therese Grisham & Julie Grossman. (link: http://www.rutgersuniversitypress.org/ text: Rutgers popup: yes), May 2017. $95.00 ISBN 9780813574912; $27.95 ebook ISBN 9780813574905
+
+**Queering the Terminator: Sexuality and Cyborg Cinema**, by David Greven. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Jun. 2017. $120.00 ISBN 9781501322341; $107.99 ebook ISBN 9781501322358
+
+**Superwomen: Gender, Power, and Representation**, by Carolyn Cocca. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Jan. 2017. $120.00 ISBN 9781501316562; $29.95 pbk ISBN 9781501316579
+
+#### Language & Literature
+
+**Angela Carter: The Biography**, by Edmund Gordon. (link: http://global.oup.com/?cc=us text: Oxford popup: yes), Mar. 2017. $35.00 ISBN 9780190626846
+
+**Approaches to Teaching the Works of Assia Djebar**, ed. by Anne Donadey. (link: http://www.mla.org/ text: Modern Language Association popup: yes), Mar. 2017. $40.00 ISBN 9781603292955; $24.00 pbk ISBN 9781603292962; $24.00 ebook ISBN 9781603292986
+
+**Archives of Labor: Working-Class Women and Literary Culture in the Antebellum United States**, by Lori Merish. (link: http://www.dukeupress.edu/ text: Duke popup: yes), Apr. 2017e. $94.95e ISBN 9780822362999; $26.95e pbk ISBN 9780822363224; $94.95e ebook ISBN 9780822373315
+
+**Complicating the Female Subject: Gender, National Myths, and Genre in Polish Women’s Inter-War Drama**, by Joanna Kot. (link: http://www.academicstudiespress.com/ text: Academic Studies popup: yes), Mar. 2017e. $89.00 ISBN 9781618115423; $89.00 ebook ISBN 9781618115430
+
+**Critical Insights: Maya Angelou**, ed. by Mildred R. Mickle. (link: http://salempress.com/ text: Salem popup: yes), Mar. 2017. $105.00 pbk ISBN 9781682171127; $105.00 ebook ISBN 9781682171134
+
+**Discourses of Men’s Suicide Notes: A Qualitative Analysis**, by Dariusz Galasinski. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Jun. 2017. $128.00 ISBN 9781350005730; price not yet set ebook ISBN 9781350005754
+
+**Flora Annie Steel: A Critical Study of an Unconventional Memsahib**, ed. by Susmita Roye. (link: http://www.uap.ualberta.ca/ text: Alberta popup: yes), Apr. 2017. $49.95 pbk ISBN 9781772122602; $39.96 ebook ISBN 9781772123227
+
+**A Grace Paley Reader: Stories, Essays, and Poetry**, by Grace Paley, ed. by Kevin Bowen and Nora Paley. (link: http://us.macmillan.com/fsg text: Farrar, Strauss, and Giroux popup: yes), Feb. 2017. $26.00 ISBN 9780374165826
+
+**Jane Jensen: Gabriel Knight, Adventure Games, Hidden Objects**, by Anastasia Salter. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Apr. 2017. $80.00 ISBN 9781501327452; $24.95 pbk ISBN 9781501327469; $21.99 ebook ISBN 9781501327421
+
+**The New Woman: Literary Modernism, Queer Theory, and the Trans Feminine Allegory**, by Emma Heaney. (link: http://www.nupress.northwestern.edu/ text: Northwestern popup: yes), Aug. 2017. $39.95 pbk ISBN 9780810135536
+
+**Violence against Indigenous Women: Literature, Activism, Resistance**, by Allison Hargreaves. (link: http://www.wlupress.wlu.ca/ text: Wilfrid Laurier popup: yes), Aug. 2017e. $29.99 pbk ISBN 9781771122399; $85.00 ebook ISBN 9781771122504
+
+#### Philosophy
+
+**The Bloomsbury Companion to Analytic Feminism**, ed. by Pieranna Garavaso. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Sep. 2017. $172.00 ISBN 9781474297783; price not yet set ebook ISBN 9781474297776
+
+**Feminist Thought: A More Comprehensive Introduction**, by RoseMarie Tong and Tina Fernandes Botts. 5th ed. (link: http://westviewpress.com/ text: Westview popup: yes), Jun. 2017. $49.00 pbk ISBN 9780813349954; $29.99 ebook ISBN 9780813350707
+
+**Hypatia: The Life and Legend of an Ancient Philosopher**, by Edward J. Watts. (link: http://global.oup.com/?cc=us text: Oxford popup: yes), Mar. 2017. $29.95 ISBN 9780190210038
+
+**New Forms of Revolt: Essays on Kristeva’s Intimate Politics**, ed. by Sarah K. Hansen and Rebecca Tuvel. (link: http://www.sunypress.edu/ text: SUNY popup: yes), Jun. 2017. $85.00 ISBN 9781438465210; $85.00 ebook ISBN 9781438465227
+
+#### Religion
+
+**Body, Gender and Purity in Leviticus 12 and 15**, by Dorothea Erbele-Kuester. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Apr. 2017. $105.00 ISBN 9780567246561; $93.99 ebook ISBN 9780567496652
+
+**Construction of Gender and Identity in Genesis: The Subject and the Other**, by Karalina Matskevich. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Nov. 2017. $94.00 ISBN 9780567673763; price not yet set ebook ISBN 9780567673770
+
+**Everyday Conversions: Islam, Domestic Work, and South Asian Migrant Women in Kuwait**, by Attiya Ahmad. (link: http://www.dukeupress.edu/ text: Duke popup: yes), Mar. 2017e. $84.95e ISBN 9780822363330; $23.95e pbk ISBN 9780822363446; $84.95e ebook ISBN 9780822373223
+
+**Feminist Frameworks and the Bible: Power, Ambiguity, and Intersectionality**, ed. by Juliana Claass. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Sep. 2017.  $128.00 ISBN 9780567671578; price not yet set ebook ISBN 9780567671585
+
+**Go Forth and Shrink!: Towards a Feminist Theology of Dieting**, by Hannah Bacon. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Nov. 2017. $112.00 ISBN 9780567659958; $29.95 pbk ISBN 9780567659972; price not yet set ebook ISBN 9780567659965
+
+**Holiness and Transgression: Mothers of the Messiah in the Jewish Myth**, by Ruth Kara-Ivanov Kaniel. (link: http://www.academicstudiespress.com/ text: Academic Studies popup: yes), Mar. 2017e. $89.00e ISBN 9781618115607; $89.00e ebook ISBN 9781618115614
+
+**Imagining Mary**, by Daniel Rancour-Laferriere. (link: http://www.transactionpub.com/ text: Transaction popup: yes), Jun. 2017e. Price not yet set ISBN 9781412865067
+
+**In Search of Buddha’s Daughters: The Hidden Lives and Fearless Work of Buddhist Nuns**, by Christine Toomey. (link: http://theexperimentpublishing.com/ text: The Experiment popup: yes), Mar. 2017. $15.95 pbk ISBN 9781615191949
+
+**In the Name of the Mother: Psychoanalytic Perspectives on the Missing Mother in Christian Theology**, by Lisa M. Cataldo. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Sep. 2017. $122.00 ISBN 9780567093295; price not yet set ebook ISBN 9780567552631
+
+**Introducing the Women’s Hebrew Bible: Feminism, Gender Justice, and the Study of the Old Testament**, by Suzanne Scholz. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Jun. 2017. $35.95 ISBN 9780567082572; $25.95 pbk ISBN 9780567663368; price not yet set ebook ISBN 9780567663382
+
+**Invisible Hosts: Performing the Nineteenth-Century Spirit Medium’s Autobiography**, by Elizabeth Schleber Lowry. (link: http://www.sunypress.edu/ text: SUNY popup: yes), Sep. 2017. $80.00 ISBN 9781438465999; $80.00 ebook ISBN 9781438466019
+
+**The Labor of Faith: Gender and Power in Black Apostolic Pentacostalism**, by Judith Casselberry. (link: http://www.dukeupress.edu/ text: Duke popup: yes), May 2017e. $84.95e ISBN 9780822363835; $23.95e pbk ISBN 9780822369035; $84.95e ebook ISBN 9780822372974
+
+**The Wise Rebbetzin: Women with Leadership Authority according to Halachah**, by Daniel Sperber. (link: http://urimpublications.com/cgi-bin/miva?Merchant2/merchant.mv text: Urim popup: yes), Mar. 2017e. $24.95 ISBN 9789655242461
+
+**Women and Exile: Conceptualizations of Women during and after Exile**, ed. by Martien Halvorson-Taylor and Katherine Southwood. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Aug. 2017. $112.00 ISBN 9780567668424; Price not yet set ebook ISBN 9780567668431
+
+### Science, Technology & Health
+
+**Black Women’s Mental Health: Balancing Strength and Vulnerability**, ed. by Stephanie Y. Evans, Kanika Bell, and Nsenga K. Burton. (link: http://www.sunypress.edu/ text: SUNY popup: yes), Jul. 2017. $85.00 ISBN 9781438465814; $85.00 ebook ISBN 9781438465838
+
+**Lady Lushes: Gender, Alcoholism, and Medicine in Modern America**, by Michelle L. McClellan. (link: http://www.rutgersuniversitypress.org/ text: Rutgers popup: yes), Jul. 2017. $95.00 ISBN 9780813576985; $29.95 pbk ISBN 9780813576978; $29.95 ebook ISBN 9780813576992
+
+**The Look of a Woman: Facial Feminization Surgery and Therapeutics of Trans-Medicine**, by Eric Plemons. (link: http://www.dukeupress.edu/ text: Duke popup: yes), Aug. 2017e. $84.95e ISBN 9780822368861; $23.95e pbk ISBN 9780822369141; $84.95e ebook ISBN 9780822372707
+
+**Sabina Spielrein: The Woman and the Myth**, by Angela M. Sells. (link: http://www.sunypress.edu/ text: SUNY popup: yes), Aug. 2017. $90.00 ISBN 9781438465791; $90.00 ebook ISBN 9781438465807
+
+**The SAGE Encyclopedia of Psychology and Gender**, ed. by Kevin Nadal. (link: http://us.sagepub.com/en-us/nam text: SAGE popup: yes), Apr. 2017. $550.00 ISBN 9781483384283; $688.00 ebook ISBN 9781483384269
+
+**Sexual Intimacy and Gynecologic Cancer**, by Saketh R. Guntupalli and Maryann Karinch. (link: http://rowman.com/ text: Rowman & Littlefield popup: yes), Jul. 2017. $34.00 ISBN not yet set
+
+**Women in Global Science: Advancing Academic Careers through International Collaboration**, by Kathrin Zippel. (link: http://www.sup.org/ text: Stanford popup: yes), Feb. 2017. $90.00 ISBN 9781503600393; $27.95 pbk ISBN 9781503601499; $27.95 ebook ISBN 9781503601505
+
+#### Sports
+
+**Marathon Woman: Running the Race to Revolutionize Women’s Sports**, by Kathrine Switzer. (link: http://www.dacapopress.com/ text: Da Capo popup: yes), Apr. 2017e. $17.99 pbk ISBN 9780306825651; $17.99 ebook ISBN 9780306825668
+
+**When Women Rule the Court: Gender, Race, and Japanese American Basketball**, by Nicole Willms. (link: http://www.rutgersuniversitypress.org/ text: Rutgers popup: yes), Aug. 2017. $95.00 ISBN 9780813584164; $28.95 pbk ISBN 9780813584157; $28.95 ebook ISBN 9780813584171
+
+**Women in Sports: Breaking Barriers, Facing Obstacles**, ed. by Adrienne N. Milner and Jomills Henry Braddock II. (link: http://www.abc-clio.com/Praeger.aspx text: Praeger popup: yes), Aug. 2017. $138.00 ISBN 9781440851247; Price not yet set ebook ISBN 9781440851254
+
+### Social & Behavioral Sciences
+
+#### Anthropology
+
+**A Clan Mother’s Call: Reconstructing Haudenosaunee Cultural Memory**, by Jeanette Rodriguez with Iakoiane Wakerakatste. (link: http://www.sunypress.edu/ text: SUNY popup: yes), Sep. 2017. $75.00 ISBN 9781438466231; $75.00 ebook ISBN 9781438466255
+
+**Sex: Ethnographic Encounters**, by Dieter Haller and Richard Joseph Martin. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Oct. 2017. $112.00 ISBN 9781474294706; $29.95 pbk ISBN 9781474294713; price not yet set ebook ISBN 9781474294744
+
+#### Business, Management & Labor
+
+**Boss Lady: How Three Women Entrepreneurs Built Successful Big Businesses in the Mid-Twentieth Century**, by Edith Sparks. (link: http://www.uncpress.unc.edu/ text: North Carolina popup: yes), Apr. 2017. $27.50 pbk ISBN 9781469633022
+
+**Downwardly Global: Women, Work, and Citizenship in the Pakistani Diaspora**, by Lalaie Ameeriar. (link: http://www.dukeupress.edu/ text: Duke popup: yes), Mar. 2017e. $84.95e ISBN 9780822363019; $23.95e pbk ISBN 9780822363163; $84.95e ebook ISBN 9780822373407
+
+**Mothers at Work: Who Opts Out?**, by Liana Christin Landivar. (link: http://rienner.com/ text: Lynne Rienner popup: yes), Apr. 2017e. $69.95e ISBN 9781626376410
+
+####  Education
+
+**Being Black, Being Male on Campus: Understanding and Confronting Black Male Collegiate Experiences**, by Derrick R. Brooms. (link: http://www.sunypress.edu/ text: SUNY popup: yes), Mar. 2017. $85.00 ISBN 9781438463995; $85.00 ebook ISBN 9781438464015
+
+**Juárez Girls Rising: Transformative Education in Times of Dystopia**, by Claudia G. Cervantes-Soon. (link: http://www.upress.umn.edu/ text: Minnesota popup: yes), Apr. 2017. $108.00 ISBN 9780816696475; $27.00 pbk ISBN 9780816696543; $27.00 ebook ISBN 9781452954653
+
+**Mothering by Degrees: Single Mothers and the Pursuit of Postsecondary Education**, by Jillian M. Duquaine-Watson. (link: http://www.rutgersuniversitypress.org/ text: Rutgers popup: yes), May 2017. $90.00 ISBN 9780813588438; $28.95 pbk ISBN 9780813588421; $28.95 ebook ISBN 9780813588445
+
+**Women at Imperial College: Past, Present and Future**, by Barrett Anne. (link: http://www.worldscientific.com/ text: World Scientific popup: yes), Mar. 2017. Price not yet set ISBN 9781786342621; price not yet set ebook ISBN 9781786342638
+
+#### History
+
+**African Women: Early History to the 21st Century**, by Kathleen Sheldon. (link: http://www.iupress.indiana.edu/ text: Indiana popup: yes), May 2017. $85.00 ISBN 9780253027160; $40.00 pbk ISBN 9780253027221; $39.99 ebook ISBN 9780253027313
+
+**America’s Best Female Sharpshooter: The Rise and Fall of Lillian Frances Smith**, by Julia Bricklin. (link: http://www.oupress.com/ text: Oklahoma popup: yes), May 2017. $24.95 ISBN 9780806156330
+
+**American Girls and Global Responsibility: A New Relation to the World during the Early Cold War**, by Jennifer Helgren. (link: http://www.rutgersuniversitypress.org/ text: Rutgers popup: yes), Apr. 2017. $59.95 ISBN 9780813575797; $59.95 ebook ISBN 9780813575810
+
+**The Century of Women**, by Maria Bucur-Deckard. (link: http://rowman.com/ text: Rowman & Littlefield popup: yes), Oct. 2017. $75.00 ISBN not yet set
+
+**Defining Documents in American History: Dissent & Protest (1637–2016)**. (link: http://salempress.com/ text: Salem popup: yes), Mar. 2017. $295.00 pbk ISBN 9781682172896; $295.00 ebook ISBN 9781682172902
+
+**An Extraordinary Ordinary Woman: The Journal of Phebe Orvis, 1820–1830**, by Susan M. Ouellette. (link: http://www.sunypress.edu/ text: SUNY popup: yes), Jun. 2017. $29.95 pbk ISBN 9781438464961; $29.95 ebook ISBN 9781438464978
+
+**Great Lives from History: American Women**. (link: http://salempress.com/ text: Salem popup: yes), Mar. 2017. $395.00 pbk ISBN 9781619259447; $395.00 ebook ISBN 9781619259454
+
+**Gertrude Weil: Jewish Progressive in the New South**, by Leonard Rogoff. (link: http://www.uncpress.unc.edu/ text: North Carolina popup: yes), Apr. 2017. $35.00 ISBN 9781469630793
+
+**A House Full of Daughters: A Memoir of Seven Generations**, by Juliet Nicolson. (link: http://us.macmillan.com/fsg text: Farrar, Strauss, and Giroux popup: yes), Jun. 2017. $16.00 ISBN 9780374536985
+
+**Lola’s House: Survivors of Wartime Rape Camps**, by M. Evelina Galang. (link: http://www.nupress.northwestern.edu/ text: Northwestern popup: yes), Sep. 2017. $18.95 ISBN 9780810135864
+
+**Never Caught: The Story of Ona Judge, the Washingtons’ Runaway Slave**, by Erica Armstrong Dunbar. (link: http://www.simonandschusterpublishing.com/atria/ text: Atria popup: yes), Feb. 2017. $25 ISBN 9781501126390; price not yet set ebook ISBN 9781501126437
+
+**Women and Evacuation in the Second World War: Femininity, Domesticity, and Motherhood**, by Maggie Andrews. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Feb. 2017. $112.00 ISBN 9781441140685
+
+**Women and the French Army during the World Wars, 1914–1940**, by Andrew Orr. (link: http://www.iupress.indiana.edu/ text: Indiana popup: yes), May 2017. $75.00 ISBN 9780253026309; $30.00 pbk ISBN 9780253026774; $29.99 ebook ISBN 9780253026781
+
+**Women in the World of Frederick Douglass**, by Leigh Katherine Fought. (link: http://global.oup.com/?cc=us text: Oxford popup: yes), May 2017. $29.95 ISBN 9780199782376
+
+**Women, Warfare, and Representation: American Servicewomen in the Twentieth Century**, by Emerald Archer. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Mar. 2017. $112.00 ISBN 9781474238038
+
+#### Political Science & Law
+
+**Critically Sovereign: Indigenous Gender, Sexuality, and Feminist Studies**, ed. by Joanne Barker. (link: http://www.dukeupress.edu/ text: Duke popup: yes), Apr. 2017e. $89.95e ISBN 9780822363392; $24.95e pbk ISBN 9780822363651; $89.95e ebook ISBN 9780822373162
+
+**Demanding Justice and Security: Indigenous Women and Legal Pluralities in Latin America**, by Rachel Sieder. (link: http://www.rutgersuniversitypress.org/ text: Rutgers popup: yes), Jun. 2017. $95.00 ISBN 9780813587936; $34.95 pbk ISBN 9780813587929; $34.95 ebook ISBN 9780813587943
+
+**First Ladies and American Women: In Politics and at Home**, by Jill Abraham Hummer. (link: http://kansaspress.ku.edu/ text: Kansas popup: yes), Mar. 2017. $29.95e ISBN 9780700623808; $29.95e ebook ISBN 9780700623815
+
+**In the Name of Women’s Rights: The Rise of Femonationalism**, by Sara R. Farris. (link: http://www.dukeupress.edu/ text: Duke popup: yes), Apr. 2017e. $89.95e ISBN 9780822369608; $24.95e pbk ISBN 9780822369745; $89.95e ebook ISBN 9780822372929
+
+**The Pink Tide: Media Access and Political Power in Latin America**, ed. by Lee Artz. (link: http://rowman.com/ text: Rowman & Littlefield popup: yes), Mar. 2017. $135.00 ISBN not yet set
+
+**The Political Life of Mary Kaldor: Ideas and Action in International Relations**, by Melinda Rankin. (link: http://rienner.com/ text: Lynne Rienner popup: yes), Mar. 2017e. $75.00e ISBN 9781626375932
+
+**Politics with Beauvoir: Freedom in the Encounter**, by Lori Jo Marso. (link: http://www.dukeupress.edu/ text: Duke popup: yes), Aug. 2017e.  $94.95e ISBN 9780822369554; $26.95e pbk ISBN 9780822369707; $94.95e ebook ISBN 9780822372844
+
+**Rwandan Women Rising**, by Swanee Hunt. (link: http://www.dukeupress.edu/ text: Duke popup: yes), May 2017e. $34.95e ISBN 9780822362579; $34.95e ebook ISBN 9780822373568
+
+**Sex Scandals, Gender, and Power in Contemporary American Politics**, by Hinda Mandell. (link: http://www.abc-clio.com/Praeger.aspx text: Praeger popup: yes), Apr. 2017. $46.00 ISBN 9781440843273; Price not yet set ebook ISBN 9781440843280
+
+**Towards Gendering Institutionalism: Equality in Europe**, ed. by Heather MacRae and Elaine Weiner. (link: http://rowman.com/ text: Rowman & Littlefield popup: yes), May 2017. $120.00 ISBN not yet set
+
+**Understanding How Women Vote: Gender Identity and Political Choices**, by Kelly L. Winfrey. (link: http://www.abc-clio.com/Praeger.aspx text: Praeger popup: yes), Mar. 2017e. $60.00 ISBN 9781440840302; price not yet set ebook ISBN 9781440840319
+
+**Women as Republican Party Activists, Candidates, and Legislators**, ed. by Malliga Och and Shauna L. Shames. (link: http://www.abc-clio.com/Praeger.aspx text: Praeger popup: yes), Sep. 2017.  $60.00e ISBN 9781440851629; Price not yet set ebook ISBN 9781440851636
+
+**Women in Africa: Politics and Power**, by Judith Van Allen. (link: http://rowman.com/ text: Rowman & Littlefield popup: yes), Oct. 2017. $75.00 ISBN not yet set
+
+**Women’s Antiwar Diplomacy during the Vietnam War Era**, by Jessica M. Frazier. (link: http://www.uncpress.unc.edu/ text: North Carolina popup: yes), Mar. 2017. $29.95 pbk ISBN 9781469631790
+
+#### Sociology
+
+**Beauty Sick: How the Cultural Obsession with Appearance Hurts Girls and Women**, by Renee Engeln. (link: http://www.harpercollins.com/ text: HarperCollins popup: yes), Apr. 2017. $26.99 ISBN 9780062469779; $21.99 ebook ISBN 9780062469793
+
+**Consumptive Chic: A History of Fashion, Beauty, and Disease**, by Carolyn Day. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Oct. 2017. $29.95 pbk ISBN 9781350009370; price not yet set ebook ISBN 9781350009394
+
+**De-militarizing Masculinities in the Age of Empire**, by Simona Sharoni. (link: http://rowman.com/ text: Rowman & Littlefield popup: yes), Jul. 2017. $125.00 ISBN not yet set
+
+**Flâneuse: Wanderers, Walkers, Outliers, Travelers**, by Lauren Elkin. (link: http://us.macmillan.com/fsg text: Farrar, Strauss, and Giroux popup: yes), Feb. 2017. $26.00 ISBN 9780374156046
+
+**Food, Masculinities, and Home: Interdisciplinary Perspectives**, ed. by Michelle Szabo and Shelley Koch. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), May 2017.  $104.00 ISBN 9781474262323; price not yet set ebook ISBN 9781474262347
+
+**Free Women, Free Men: Sex, Gender, and Feminism**, by Camille Paglia. (link: http://knopfdoubleday.com/imprint/pantheon/ text: Pantheon popup: yes), Mar. 2017. $25.00 ISBN 9780375424779; price not yet set ebook ISBN 9781101871812
+
+**Gaming Representation: Race, Gender, and Sexuality in Video Games**, ed. by Jennifer Malkowski and TreaAndrea M. Russworm. (link: http://www.iupress.indiana.edu/ text: Indiana popup: yes), Jul. 2017. $90.00 ISBN 9780253025739; $38.00 pbk ISBN 9780253026477; $37.99 ebook ISBN 9780253026606
+
+**Gender and Food: A Critical Look at the Food System**, by Shelley Koch. (link: http://rowman.com/ text: Rowman & Littlefield popup: yes), Aug. 2017. $80.00 ISBN not yet set
+
+**Gender and Informal Institutions**, ed. by Georgina Waylen. (link: http://rowman.com/ text: Rowman & Littlefield popup: yes), Apr. 2017. $120.00 ISBN not yet set
+
+**Gender and Mobility: A Critical Introduction**, by Elina Penttinen and Anitta Kynsilehto. (link: http://rowman.com/ text: Rowman & Littlefield popup: yes), Jun. 2017. $120.00 ISBN not yet set
+
+**Historicizing Post-Discourses: Postfeminism and Postracialism in United States Culture**, by Tanya Ann Kennedy. (link: http://www.sunypress.edu/ text: SUNY popup: yes), Mar. 2017. $85.00 ISBN 9781438464770; $85.00 ebook ISBN 9781438464794
+
+**Jane Crow: The Life of Pauli Murray**, by Messina Rosenberg. (link: http://global.oup.com/?cc=us text: Oxford popup: yes), Apr. 2017. $29.95 ISBN 9780190656454
+
+**Manufacturing Urgency: The Development Industry and Violence against Women**, by Corinne L. Mason. (link: http://uofrpress.ca/ text: Regina popup: yes), Mar. 2017. $29.95 pbk ISBN 9780889774711; Price not yet set ebook ISBN 9780889774735
+
+**Mothering through Precarity: Women’s Work and Digital Media**, by Julie A. Wilson and Emily Chivers Yochim. (link: http://www.dukeupress.edu/ text: Duke popup: yes), Mar. 2017e. $84.95e ISBN 9780822363361; $23.95e pbk ISBN 9780822363477; $84.95e ebook ISBN 9780822373193
+
+**Paths to Fulfillment**, by Ruthellen Josselson. (link: http://global.oup.com/?cc=us text: Oxford popup: yes), Jun. 2017. $29.95 ISBN 9780190250393
+
+**Reference Shelf: LGBTQ in the 21st Century**. (link: http://www.hwwilsoninprint.com/ text: H.W. Wilson popup: yes), Oct. 2017. $75.00 pbk ISBN 9781682174555
+
+**Sexuality and Gender at Home: Experience, Politics, Transgression**, ed. by Brent Pilkey et al. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), May 2017. $104.00 ISBN 9781474239622; price not yet set ebook ISBN 9781474239646
+
+**WE: A Manifesto for Modern Women**, by Gillian Anderson and Jennifer Nadel. (link: http://www.simonandschusterpublishing.com/atria/ text: Atria popup: yes), Mar. 2017. $24.99 ISBN 9781501126277; price not yet set ebook ISBN 9781501126291
+
+**When the Girls Come Out to Play: Teenage Working-Class Girls’ Leisure between the Wars**, by Katharine Milcoy. (link: http://www.bloomsbury.com/us/academic/ text: Bloomsbury popup: yes), Apr. 2017. $112.00 ISBN 9781474279598; $29.95 pbk ISBN 9781474279581
+
+**Women, Insecurity, and Violence in a Post-9/11 World**, by Bronwyn Winter. (link: http://www.syracuseuniversitypress.syr.edu/ text: Syracuse popup: yes), Mar. 2017e. $70.00 ISBN 9780815635024; $39.95 pbk ISBN 9780815635253; Price not yet set ebook ISBN 9780815654025
+
+----
+
+Line2: 
+
+----
+
+Author: Choice Staff
+
+----
+
+Author-img: 
+
+----
+
+Byline: 
+
+----
+
+References: 

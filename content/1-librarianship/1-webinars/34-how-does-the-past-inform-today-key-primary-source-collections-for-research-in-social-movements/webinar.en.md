@@ -1,0 +1,64 @@
+Title: How Does the Past Inform Today? Key Primary Source Collections for Research in Social Movements
+
+----
+
+Category: Special Collections and Resources
+
+----
+
+Date: 2017-03-28
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Sponsor-name: ProQuest
+
+----
+
+Sponsor-url: http://www.proquest.com
+
+----
+
+Line1: 
+
+----
+
+Registration-url: https://choicereviews.webex.com/choicereviews/onstage/g.php?MTID=e09c704ddf50bdfdf4a9d7db1a5fa28ad
+
+----
+
+Youtube-id: bdxkruZcw3c
+
+----
+
+Thumb: 
+
+----
+
+Text: 
+
+### Summary:
+
+How have social movements taken shape? What was accomplished? How does the past inform today’s events? Primary source collections foster critical thinking skills to help students address these types of questions.
+
+ In this live webinar, you’ll hear from collection curators on how their primary sources come together, how they are used in research and teaching, and their impact on research outcomes. A special focus on the cross-section of the women’s movement and the Black Freedom movement spotlights unique and award-winning resources, including videos, newspapers, books, articles and dissertations.
+ ****
+### Speakers:
+<h4 class="u-no_margin delta">Thomas Dublin</h4>
+Bartle Distinguished Professor, Department of History
+State University of New York at Binghamton
+
+Thomas Dublin has taught and written history for more than 40 years and serves as co-editor of three Women and Social Movements (WASM) websites co-published by the Center for the Historical Study of Women at Gender at SUNY Binghamton and Alexander Street. He is the author or editor of eight books including the prize-winning works, Women at Work: The Transformation of Work and Community in Lowell, Massachusetts, 1826-1860 (1979) and The Face of Decline: The Pennsylvania Anthracite Region in the Twentieth Century (2005). At WASM he has had particular responsibility for constructing the Black Women Suffragists collection, consisting of more than 1,800 writings by or about more than 100 African American supporters of woman suffrage.
+#### Kathryn Sklar
+Distinguished Professor of History, Emerita
+State University of New York at Binghamton
+
+Kathryn Kish Sklar is the author of prize-winning books about women and social movements in the United States, 1800-1930. Her research compares American women with British and European women--in the context of imperial movements globally. She is particularly interested in how women's participation in social movements illuminates large questions in U.S. and world history, such as those associated with political culture, class formation, state formation, and the construction of gender, religious and ethnic identities. With Thomas Dublin she has been at the forefront of making primary sources pertaining to women and social movements available online--in Women and Social Movements in the U.S., 1600-2000, an online journal and database; and in two online archives and databases, Women and Social Movements International (completed in 2013), and Women and Social Movements in Modern Empires (to be completed in 2017). She graduated from Harvard/Radcliffe in 1965, completed her PhD at the University of Michigan in 1969, and taught for several years at UCLA before moving to SUNY Binghamton in 1988. In 2005-2006 she was Harmsworth Professor of U.S. History at the University of Oxford. At Michigan and UCLA she chaired the committees that established the women’s studies programs.
+#### Daniel Lewis
+Senior Product Manager
+ProQuest
+
+ Daniel has worked with the content in History Vault since 1999 and played a major role in the original design and development of History Vault. Since the launch of History Vault in 2011, Daniel has been responsible for the addition of new collections to History Vault and improvements to the History Vault interface. Daniel has worked with several advisers and with many archival institutions to digitize important collections. Daniel received a B.A. from Williams College with a major in History and an M.A. from American University. At American, Daniel studied labor and civil rights and served as a teaching fellow to Bernice Johnson Reagan. He also received an archives fellowship to the George Meany Memorial Archives and a junior fellowship to the Library of Congress where he helped with the processing of the NAACP Records collection.

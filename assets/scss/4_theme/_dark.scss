@@ -1,0 +1,128 @@
+// dark theme
+.t-dark {
+  background: $black;
+
+  * {
+    color: $gray;
+    @include text-shadow;
+  }
+
+
+  // headings
+  h1, h2, h3, h4, h5, h5 {
+    &, & em, & i {
+      color: $white;
+    }
+  }
+
+
+  // links
+  a {
+    color: $light-2;
+
+    &:hover, &:active, &:focus {
+      color: $white;
+    }
+  }
+
+  a[href*=twitter] {
+    &:hover g,
+    &:focus g {
+      fill: $twitter-blue;
+    }
+  }
+
+  a[href*=linkedin] {
+    &:hover g,
+    &:focus g {
+      fill: $linkedin-blue;
+    }
+  }
+
+  a[href*=facebook] {
+    &:hover g,
+    &:focus g {
+      fill: $facebook-blue;
+    }
+  }
+
+  a[href*=youtube] {
+    &:hover path,
+    &:focus path {
+      fill: $google-red;
+    }
+  }
+
+  a:not(.share__link):active g {
+    fill: $light-1;
+  }
+
+
+  // dark buttons
+  .button {
+    color: $black;
+    background: $light-2;
+    box-shadow: none;
+
+    &:hover, &:focus {
+      box-shadow: none;
+      background: $white;
+    }
+
+    &:active {
+      background: $brand-color;
+      color: $white;
+
+      g, path {
+        fill: $black;
+      }
+    }
+  }
+
+  .scale--lg .button,
+  .button.delta  {
+
+    &:hover, &:focus {
+      box-shadow:
+        inset 0 0 0 $stroke-width--lg $black,
+        inset 0 0 0 ($stroke-width--lg*2) $brand-color;
+    }
+  }
+
+
+  // form elements
+  input, textarea, button {
+    text-shadow: none;
+  }
+
+  label {
+    color: $light-1;
+  }
+
+  input:not([type=submit]), textarea {
+    border: none;
+    background: $dark-1;
+    color: $white;
+
+    &:hover, &:focus {
+      background: $dark-2;
+      box-shadow: inset 0 0 0 $stroke-width $dark-1;
+    }
+  }
+
+  ::placeholder {
+    color: $light-2;
+  }
+
+  // enhancements
+  ::selection {
+    background: $white;
+    color: $dark-2;
+    text-shadow: none;
+  }
+
+  *:focus {
+    outline: none;
+    box-shadow: none;
+  }
+}

@@ -1,0 +1,114 @@
+Title: Why We Need Digital Literacies
+
+----
+
+Subtitle: Learning how to learn is the single most important skill one can master for a rapidly changing world.
+
+----
+
+Category: Guest of Choice
+
+----
+
+Date: 2016-08-04
+
+----
+
+Description: Learning how to learn is the single most important skill one can master for a rapidly changing world
+
+----
+
+Line1: 
+
+----
+
+Thumb: 1468498833-cathy_davidson.jpg
+
+----
+
+Hero: 
+
+----
+
+Hero-caption: 
+
+----
+
+Text: 
+
+When I teach my undergraduate course on “Digital Literacies,” I begin with an exercise in “meta-cognition,” deep reflection about how we think. I start by distributing a technology that was cutting-edge in 1760 when Linnaeus invented it:  index cards. He needed a tool to help him sort discrete bits of data to create his world-changing classification systems. Two centuries later, Melvil Dewey used these as the basis for his card catalog system, and the notch-edged versions were used in the 1960s and 1970s for relational data bases or “Knitting Needle Computers.” History, I tell my students, is one of the digital literacies.
+
+Next, I pass around the revolutionary technology known as “pencils.”  And I take out a timer. It’s analog. It even ticks. I’ve not yet introduced myself or passed around the syllabus, so the students are on edge. None of this is what my students expect from “Digital Literacies.”
+
+When I set the timer for ninety seconds and ask my students, “Who invented the printing press?” they immediately get to work. After a lifetime of timed school tests, they are now in their comfort zone and need no instructions. In a matter of seconds, they’ve written out their answer and have set their pencils down and are looking at me, waiting for the next question.
+
+We all know what name they’ve written on their cards.
+
+I tell them if they believe their answer is correct, they can sign the card, hand it in, and they have earned an A for the course. They don’t have to come back again or do another assignment for “Digital Literacies.” 
+
+“But what if the answer is wrong?” a student invariably asks.
+
+“Well, you fail, of course,” I say.
+
+I like to leave a silence. Someone asks if there are other choices. “Sure, you can turn over the card. Do research using any devices you have with you, work in groups if you want. Make sure you have reputable sources and proper citations, of course. Ninety seconds.”
+
+In the ten years I’ve been doing this, no student has ever handed in an index card for the easy A. Their first answer may be correct, but they know it can’t be right.
+
+By the time I’ve set the timer again, students are already busy on laptops, tablets, and smart phones. They investigate. They explore. And they are talking to one another. We’ve gone from the silent, timed test to a burst of curiosity and collaboration, with no guidance from me and with an efficiency and creativity that, after a decade of doing this, I still find mind-boggling. I’ve had groups delegate one person to summarize the main Wikipedia entry, while another fact checks or another tracks down articles in the references and had others go straight to Google Scholar or other scholarly sources. Over the years, I’ve had students use Zotero or WorldCat for citations, and I’ve had multilingual students pursue research in Mandarin, Korean, Persian, Italian, and German sources. *In 90 seconds*. 
+
+When the timer goes off and I ask students to report on the invention of the printing press, I never hear a student say “Gutenberg” and leave it at that. With obvious excitement, students report on their research on Bi Sheng, who developed the basics of movable type in 1040 AD, during the Song Dynasty, using ceramic materials in which he could produce and then reproduce over 100,000 ancient Chinese characters and on how, in Korea, the first metallic, movable type was invented to print the *Jikji*, the world’s oldest extant books. The pathway to Europe in 1455 and Johannes Gutenberg’s printing of the Bible turns out to be long, meandering, and complex. 
+
+And so is what happens in my “Digital Literacies” classroom. In beginning with the index card exercise, I am employing a pedagogical technique that Victor Shklovsky called “defamiliarization.”  In turning something familiar (an easy timed test) into something unexpected (a high-stakes wager), I’m making it unfamiliar, unexpected, something that must be questioned, analyzed, and viewed critically. What is a test anyway?  What is its purpose?  What is a right answer?  What is knowledge?  In one simple movement—the turn of a card—a paradigm shifts. Digital literacy becomes not a matter of shiny new tools but of epistemology:  a theory of knowledge and the process by which we come to acquire it.
+
+By beginning with this index card exercise, I begin a course in student-centered pedagogy, a digital literacies class that in form, method, structure, content as well as actual technology embodies new forms of learning. My students end up designing alternative models for our present system of higher education. These include formative peer-to-peer feedback systems to replace summative assessment, often using a combination of contract grading, open digital badges or eportfolios in an array of areas (“collaboration” or “aesthetic design,” for example) to supplement the institutionally required conventional grade. They design cross-disciplinary projects that they work on collaboratively, in which each team is formed to include someone with artistic, humanistic, social science, and computational abilities. They collect some kind of data, analyze it using new software they master, and visualize the results in a way that communicates effectively to the audience they have defined. The ultimate goal is not to please me, their professor, but to serve some public goal and public good beyond our classroom, using websites, social media, and other digital tools for that purpose. They are not learning *about* digital literacies but practicing and implementing them. They are learning what, in library science, would be called the “information literacies,” and, not surprisingly, students work with professional librarians as they arrive at an array of decisions about archives, data bases, security, privacy, copyright, access, cost, and implementation, as well as software and other tools they will need to complete their projects.
+
+All of what they do is also contrasted to more conventional practices, histories, and theories of higher education. My students learn a lot about the design of the modern American research university, created between 1860 and 1925. They read about Taylorism, ideas of output and standardization, and the ways the research university standardized credit hours, course loads, majors, minors, graduate and professional schools, accreditation, and much more, all very much in keeping with Industrial Age ideals. They see how much of our present system needs to be unlearned before we can begin to learn the best ways to succeed in the world we live in now.
+
+Let’s start with testing. I’m not sure which is more stunning, the rapidity with which my students write “Gutenberg” on their card (without instruction) or the equal speed with which they recalibrate and, also without instruction, find ways to collaborate in a challenging research project to find a range of pre-Modern and non-Western antecedents to Gutenberg’s movable type. Until I ask them to think about the two different ways of responding—one rote, one research-based—they don’t even notice that they are using alternative ways of knowing. Once we do reflect on these practices, they become eloquent about how frequently they must switch between “school” and “Internet” versions of knowledge, one mostly rote and one more about questing, getting it wrong, trying again, searching, exploring. The latter or iterative method, I assure them, is much more the way a real scholar researches a subject, whether in the humanities or in architecture or in writing code. This is often a revelation for them. They are used to what Paulo Freire calls the “banking model” of formal education, where the goal is for an expert to transfer expertise to a student, who is then tested to ensure the transfer has taken place. Student-centered knowledge is about giving students the cognitive (and, I would add, digital) tools to become experts themselves.
+
+All education, today, should be about this latter, iterative, process-way of developing ideas based on research and then knowing how to accept feedback and making the idea better. Interestingly, in making this case, I find my most frequent allies are artists (in all areas of visual, musical, and digital media), engineers, composition teachers, programmers (but often not computer scientists), teaching and learning centers, engineers, professional schools, and, *always*, librarians. All of these areas have long histories of learning by doing, exploring, researching, experimenting, engaging in trial and error, and poking around (in archives or labs ). I’ve often taught along with an “embedded librarian” who can constantly point out such things as the way Dewey’s Industrial Age classification system (index card) overtly structured hierarchies of knowledge, whereas Wikipedia’s folksonomies seem to be completely open and free of hierarchy. It is only when one is directed to the article “Gender Bias in Wikipedia” on Wikipedia that one learns how few of the editors, contributors, and contributions are by women. Other disparities of race, place, region, religion, and so forth also abide. That index card always seems to have yet another side.
+
+Learning how to learn is the single most important skill one can master for a rapidly changing world—and part of that skill is learning to ask what you’re missing. Teaching our students how to become serious, dedicated researchers—how to learn, how to become experts—is crucial; anything less shortchanges their future, no matter what field they may pursue.
+
+It is a national tragedy, really, that, despite all the fervor for “workforce readiness,” most pundits who harp on the skills the workforce needs are posing a model of work that is at least a generation out-of-date. The kind of mechanical STEM training one hears about has been outsourced to robots for well over a decade. Once we are talking about human-level management, then cross-disciplinary and cross-cultural practices must be part of “workforce readiness.”  We have extensive research to prove that. Similarly, standards-based and outcomes-based education is belated by at least a hundred years. Given all the sophisticated ways our data is mined, carefully analyzed, and then fed back to us in the form of recommendations of books to read and products to buy, it is ironic that, *in education*, of all places, we rely on archaic, non-responsive, mass-produced, pre-Internet, one-way testing systems. In fact, for college admissions—and even for many tests for graduate and professional schools–exams take virtually the same form as the first multiple choice exam, the Kansas Silent Reading, that was invented in 1914 and became Scholastic Aptitude Test in 1926.
+
+In our era, being able to write “Gutenberg” matters far less than being able to work, alone or in teams, toward a complex, cross-cultural vision, connecting and interpreting information from multiple sources in order to form the most interesting and relevant narrative possible. No matter how many facts we know, our knowledge is paltry when you compare us to the robots. Deep Blue can beat us at chess, Watson thumps us at Jeopardy, and now—in what no one thought would happen for a decade or two or maybe never—AlphaGo has taken down the world’s finest Go master in a game of strategy many thought was distinctly human. We’re lost if coming up with the single best answer to a timed test is the way we measure what counts as “higher education” in today’s world.
+
+Our world changed on April 22, 1993. That is the day scientists at the National Center for Supercomputing Applications at the University of Illinois announced that the Mosaic 1.0 browser would now be available to the public, free for non-profit and educational use and for a modest fee for commercial purposes. By some estimates, Internet use increased by 250,000 times by the end of that year—the fastest, most global adoption of a new technology in human history.
+
+And what was the meaning of that change? For the first time in history, anyone with an Internet connection could communicate anything to anyone else with access to an Internet connection—without an editor, a central broadcast center, a filter, or a pause button. I could sit alone at my desk and send or receive just about anything, from anyone. That’s an astonishing expansion of our human capacities, one rife with possibility and ripe for misuse.
+
+We have adapted to our new digital capacity so quickly that we haven’t really taken the full measure of how much we have all been changed—not just our youth but all of us. My simple index card exercise in “Digital Literacies” makes visible the binary ways we all live and know the world. We have both accepted the digital into our daily lives and, at the same time, are very quick to blame many things on “the Internet”—and we do both rather cavalierly.
+
+We do the same in education, kindergarten through professional school. We require expensive content management systems in every school, on the one hand, and then pass rules prohibiting laptops in the classrooms. We penalize public school teachers whose students don’t do well on archaic, summative standardized tests and then turn around and encourage other teachers, in more affluent school districts, to use more flexible ePortfolios on the grounds that they are far better at gauging and promoting student learning than standardized testing. We insist that edtech such as clickers and Massive Online Open Courseware (MOOCs) are the revolutionary future but then champion studies supposedly showing that taking notes by hand is the best way to learn and retain information. There is an “I told you so!” crowing tone in every new edtech study—even when the studies contradict one another. 
+
+ I advocate teaching digital and Web literacy precisely because these issues are unresolved. Unless we make the study of information part of general education we aren’t preparing youth for the complexities of a world none of us fully fathoms. We need to be integrating these literacies into instructions in every subject and at every age, from kindergarten to professional school.
+
+True digital literacy is understanding the meaning and implications of how our world has been changed by our ability to contribute and obtain information from anyone else with an Internet connection—including the ways that being able to extract data and labor so efficiently from everyone in the world have contributed to environmental and economic catastrophes of global proportions. To solve such problems requires not just STEM learning but creative, critical, and computational thinking. Creativity is being able to explore all possibilities and express them in the most unexpected, daring, and beautiful ways. Critical thinking means understanding contexts, histories, data, evidence, implications, and limitations of any answer or solution—even the most creative. And computational thinking is making the best computers by being able to appreciate which things humans do better than computers, which things computers do better than humans, and appreciating that creativity and critical thinking can make computers better tools for addressing and redressing the catastrophic problems and emergent possibilities we all face together. 
+
+My goal for “Digital Literacies” is to encourage students to understand how to maximize the relationships between creative, critical, and computational thinking so humans can think through the very best ways to make computers do what they do in ways that are ethical (not just efficient), environmentally sound, and that offer economic opportunities to the many, not just to the opportunistic few. It starts with index cards, epistemology, research, and a paradigm shift. We need “Digital Literacies” in order to prepare this generation to design the next generation of digital tools, the ones we humans need most:  tools to help make a world that is more equitable, compelling, just, and, for lack of a better word, humane.
+
+---
+
+*“Guest of Choice” is an editorial initiative offering original contributions by librarians, academics, and public intellectuals who have something of interest to say to our core audience. The views or opinions expressed in this column are solely those of the author and do not necessarily represent those of Choice, ACRL, or the American Library Association.
+*
+
+----
+
+Line2: 
+
+----
+
+Author: 
+
+----
+
+Author-img: 1468498833-cathy_davidson.jpg
+
+----
+
+Byline: Cathy N. Davidson is Distinguished Professor and Founding Director of the Futures Initiative at the Graduate Center, City University of New York. A scholar of the history of technology, she is the cofounder of the Humanities, Arts, Science, and Technology Alliance and Collaboratory. In 2011, President Obama appointed her to the National Council on the Humanities. She is currently completing a book on the future of higher education for Basic Books.
+
+----
+
+References: 

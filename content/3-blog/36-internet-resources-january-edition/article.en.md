@@ -1,0 +1,89 @@
+Title: Internet Resources: January Edition
+
+----
+
+Subtitle: Selected reviews of digital reference resources from the January issue of Choice.
+
+----
+
+Category: Newsletters
+
+----
+
+Date: 2017-01-05
+
+----
+
+Description: Selected reviews of digital reference resources from the January issue of Choice.
+
+----
+
+Line1: 
+
+----
+
+Thumb: ir-jan-17.jpg
+
+----
+
+Hero: ir-jan-17.jpg
+
+----
+
+Hero-caption: 
+
+----
+
+Text: 
+
+Each month, Choice compiles a selection of reviews of internet resources and makes them available in the Internet Resources newsletter. The following three reviews originally appeared in the January issue and are also featured on (link: http://www.choicereviews.org text: Choice Reviews popup: yes).
+
+###
+
+**Eighteenth Century Drama: Censorship, Society and the Stage**. Adam Matthew. Contact publisher for pricing (based on FTE, purchase history, and Carnegie Classification); a typical one-time purchase with nominal hosting fee (0.5% of purchase price) ranges from $13,500.00 to $45,000.00.  (link: http://www.eighteenthcenturydrama.amdigital.co.uk/ text: www.eighteenthcenturydrama.amdigital.co.uk/ popup: yes)
+
+[Visited Oct'16] This ambitious collection of databases is centered on the digitized contents of the Larpent Plays held by the Huntington Library. These handwritten plays were submitted to John Larpent and his predecessors in their capacity as Examiner of Plays (a post necessitated by the Licensing Act of 1737), resulting in a collection of 2,500 plays written between 1737 and 1824—many never subsequently published—with revisions and changes made by the inspector, the authors, and others. A few of these plays were turned down for performance; others were modified to make them less controversial. Supplementing this database is the digitized manuscript diary of Mrs. Anna Larpent, who functioned as an unofficial inspector and provided extensive comment about the plays, the theater world, and the times.
+
+Also included are digitized works originally published by Southern Illinois University Press: The London Stage, 1660-1800 (in five volumes, published 1960-68) ((link: http://www.choicereviews.org text: CH, Sep'79 popup: yes)) and A Biographical Dictionary of Actors, Actresses, Musicians, Dancers, Managers and Other Stage Personnel in London, 1660-1800 (15 volumes completed 1973–93) ((link: http://www.choicereviews.org text: CH, Feb'94, 31-3012 popup: yes)). Using these two tools and the Boolean search capability built into them, one can research a variety of matters, such as ascertaining which actors appeared in particular plays or theaters. Supplementing these resources is a vast array of digital material, including relevant full-text holdings of other libraries such as the British Library, University of London, and the Victoria and Albert Museum. One also finds supplemental materials such as playbills, scrapbooks, illustrations, correspondence between theatrical figures, a historical time line, essays, links to the websites of relevant associations, and a history of London's theaters.
+
+For researchers specializing in English drama, history, or culture, *Eighteenth Century Drama* is obviously a trove of source material. For the average undergraduate, however, the product would seem sprawling, complex, and confusing. It would be vastly enhanced by the addition of a digitized collection of the printed versions of 18th-century plays, but these are lacking. It would also help to link the Larpent plays and the contents of Mrs. Larpent's diary to pertinent materials in *The London Stage and Biographical Dictionary*—undoubtedly a tall order. Despite the designers' efforts to create an integrated interface, some digitized material is awkward to enlarge and view. Moreover, the title of the product is somewhat misleading and problematic, with its scope built around the Huntington's Larpent collections: the 18th century did not begin in 1737, even though licensing did. The "long 18th century" is defined as running from 1660 to 1830, but Restoration drama is entirely absent here, as are plays before 1737, except for revivals reported in *The London Stage*. These caveats aside, the collection is of great value to researchers willing to slog through it. **Summing Up:** Highly recommended. Upper-division undergraduates through researchers/faculty; professionals/practitioners. *—W. Miller, Florida Atlantic University*
+
+****
+
+**Global Road Warrior**. World Trade Press. Annual academic subscription ranges from $400.00 to $12,000.00, based on FTE. (link: http://www.globalroadwarrior.com/ text: www.globalroadwarrior.com/ popup: yes)
+
+[Visited Oct'16] This fee-based resource is designed for business executives who are travelling worldwide or hosting international visitors. The streamlined homepage offers two menus to quickly access information about 175 countries. Searching can be done alphabetically by country name or by using a hyperlinked world map. Once users select a country they are presented with uniform, well-organized pages. The center frame features a country snapshot (signed by the writer) with headings labeled "The Land," "The People," and "History." Arrayed along the right are several photos with captions of famous country landmarks, attractions, and events. The pane on the left-hand side provides access to 28 content sections organized alphabetically (e.g., Business Culture, Climate, Food and Recipes, Human Rights, Life Cycles, Maps, Money and Banking). Sections often are subdivided by relevant subsections, such as Women in Business, or under discussion of Travel Essentials, a subsection opens to information about Tipping.
+
+The Overview section offers Country Snapshot and Country Facts sections, and access to Top Stories News Feeds that enable users to identify 15 freely accessible, newsworthy articles, constantly updated, from global Internet resources such as *The New York Times*, *Los Angeles Times*, *Forbes*, *ABC News*, *Reuters Business News*, and other large and small online publications (including some clearly partisan political sources)—all interspersed with sponsored advertising. The articles are presented by title and their first few sentences; sources, bylines, and dates are presented after a user clicks the title or Read More links.
+
+Rather than being an scholarly source for academic research, content generally addresses specific information that professionals as well as students need to know about interacting with individuals or doing business in these countries. Tools, such as video language glossaries, assist users in learning key phrases. The website's comprehensive design will help alert business executives to country information and succeed in many different types of situations. Comparable resources include Economist Intelligence Unit Country Reports ((link: http://www.choicereviews.org text: CH, Mar'16, 53-2904 popup: yes)) or CountryWatch ((link: http://www.choicereviews.org text: CH Mar'13, 50-3623 popup: yes)). **Summing Up:** Recommended. All readership levels. *—C. E. Geck, independent scholar*
+
+****
+
+**Music Online: Listening**. Alexander Street. Annual academic subscription ranges from $3,300.00 to $12,500.00. (link: http://search.alexanderstreet.com/musc text: search.alexanderstreet.com/musc popup: yes)
+
+[Visited Oct'16] For a product boasting more than 10 million tracks (and the number of albums exceeding 800,000), it seems unfair to state that the *Music Online: Listening* package is strongest on features but somewhat uneven in content. A collation of all of Alexander Street Press's separate audio collections—forming part of their *Complete Music & Dance* package encompassing scores, video, and audio content, along with textual materials such as the Classical Music Reference Library ((link: http://www.choicereviews.org text: CH, Mar'08, 45-3518 popup: yes))—the database is undeniably strong in classical and world music, but spotty for jazz and unrepresentative for popular music. However, it seems unlikely that students will seek out a subscription database for those genres, instead turning to more familiar streaming services available commercially or through social media.
+
+The features of the Alexander Street Press platform make this product highly desirable for acquisition by academic music libraries. The Playlist function remains a strength, as do the varied browsing and search options. Other browsing options are comparable to popular music-streaming services. One may search or browse the entire *Listening* package or focus on individual collections, while the presentation is uniform from collection to collection. The visual design is streamlined from earlier platform versions, allowing for easier comprehension of content and features. Text can be translated into more than 100 languages. There are also numerous helpful video tutorials on navigating the database and utilizing the features.
+
+Track and album metadata are primarily descriptive and contextual, not technical. Keywords are derived from the entire album and not specific to individual tracks, which can prove bewildering when multiple cultures are represented on a particular album. However, the track metadata provides liner notes and the name for featured performers (when known), although the instruments are not always identified. And alas, the release date is not consistently the original release date for the recording itself but instead sometimes the date of digitization—a serious oversight in cataloging procedure. Despite flaws, the *Music Online: Listening* database succeeds as a product that complements other basic music media collections; selectors in academic libraries serving broad-based music programs should nonetheless not cease collecting media in the expectation that they can rely solely on this database resource. **Summing Up:** Recommended. Community college and undergraduate students through researchers/faculty; professionals/practitioners. *—V. J. Novara, University of Maryland*
+
+----
+
+Line2: 
+
+----
+
+Author: Choice Staff
+
+----
+
+Author-img: 
+
+----
+
+Byline: 
+
+----
+
+References: 

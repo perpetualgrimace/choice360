@@ -1,0 +1,80 @@
+// main content
+.content {
+
+  p + p,
+  ul + p, ol + p {
+    margin-top: 0.875em;
+  }
+
+  * + {
+    h2, h3, h4, h5, h6 {
+      margin-top: 2.75em;
+    }
+  }
+
+  ul, ol, dl {
+    margin-top: $grid-padding * 1.25;
+  }
+
+  li + li {
+    margin-top: $grid-padding / 4;
+  }
+
+  * + .u-video,
+  .u-video + * {
+    margin-top: $grid-padding * 2;
+  }
+
+  // fix alignment for floated figures
+  p + figure[class*='float'] {
+    margin-top: 1.25em !important;
+    margin-bottom: 1.25em !important;
+  }
+
+  p + figure[class*='float'] + p {
+    margin-top: 1.5em;
+  }
+
+}
+
+.scale--lg,
+.scale--xl,
+.cta {
+
+  .button {
+    margin-top: 1rem;
+  }
+
+}
+
+.scale--normal {
+  li + li {
+    margin-top: $grid-padding / 2;
+  }
+}
+
+
+// sidebar elements
+.sidebar__nav + .tablet,
+.tablet + h2,
+.sidebar__nav + h2,
+form + h2 {
+  margin-top: $section-padding;
+}
+
+
+// Q+A spacing
+body.article .content h3 {
+  margin-bottom: $section-padding / 2;
+}
+
+
+// reset margin
+.samples h3 + hr {
+  margin-top: 0;
+}
+
+.u-no_margin,
+.u-margin-top-off {
+  margin-top: 0 !important;
+}

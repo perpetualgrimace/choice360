@@ -1,0 +1,37 @@
+Title: Ebooks Usage on a Global Scale: Patterns, Trends, and New Conclusions
+
+----
+
+Youtube_id: aW52YHXV2ik
+
+----
+
+Registration_url: http://acrlchoice.learningtimesevents.org/webinar-june142016/
+
+----
+
+Date: 14-06-2016
+
+----
+
+Text:
+
+In this webinar, you will learn about the conclusion of a long-term, large-scale study of ebook usage on a global scale. This study demonstrates trends across over 10,000 libraries of all types and sizes. With data from ebrary and EBL, covering well over a half a million titles, trends show broad patterns of usage and establish benchmarks that prove useful for libraries and consortia in collection development planning.
+
+Successive versions of this worldwide usage analysis has been presented to audiences at multiple library conferences across the US and in webinars across the web. The data analyzed for the study have been gathered anonymously from libraries across the globe, looking at usage at the subject, regional, and title level. All academic disciplines are covered and organized by LC Class, with identified subject usage trends that can inform collection development strategies, and implications for the future expansion of ebooks in libraries.
+
+----
+
+Sponsor_name: ProQuest
+
+----
+
+Sponsor_url: http://www.proquest.com/
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Category: eBooks and Electronic Resources in Academic Libraries

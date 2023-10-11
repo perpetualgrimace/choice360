@@ -1,0 +1,53 @@
+Title: Advancing Research Capabilities at Academic Libraries
+
+----
+
+Category: Reference Works and Research
+
+----
+
+Date: 2017-04-18
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Sponsor-name: Springer Nature
+
+----
+
+Sponsor-url: http://www.springernature.com
+
+----
+
+Line1: 
+
+----
+
+Registration-url: https://choicereviews.webex.com/choicereviews/onstage/g.php?MTID=eadb55a6a9e349cd732c40c713c345338
+
+----
+
+Youtube-id: 
+
+----
+
+Thumb: 
+
+----
+
+Text: 
+
+### Summary: 
+Researchers today are challenged with identifying the most relevant papers in a rapidly increasing volume of published research. In addition, restrictions on content sharing impede collaboration. This one-hour interactive webinar will explore the difficulties faced during the research process and introduce two new solutions from Springer Nature that help researchers discover and share content: Recommended, a personalized service that suggests relevant primary research papers to users from across all published literature and SharedIt, a content sharing initiative that allows authors and subscribers to easily and legally share links to view-only versions of research articles anywhere. Demonstrations and examples will be provided to show how these services can be used to support researchers and advance learning at academic libraries.
+*****
+### Speakers:
+<h4 class="u-no_margin delta">Maureen Naff</h4> 
+Director, Author & Partner Marketing and Services
+Springer Nature
+
+#### Paul Rissen
+Product Manager, Product and Platform
+Springer Nature

@@ -1,0 +1,52 @@
+Title: The Times They Are a Changin’: How Stacks for Books are Transforming into Spaces for Makers
+
+----
+
+Category: Future of Libraries and Education
+
+----
+
+Date: 2016-10-13
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Sponsor-name: ProQuest
+
+----
+
+Sponsor-url: http://www.proquest.com
+
+----
+
+Line1: 
+
+----
+
+Registration-url: https://choicereviews.webex.com/choicereviews/onstage/g.php?MTID=e97d111ff265e3e703a2c5508d60b75cc
+
+----
+
+Youtube-id: mW4vKWmXeAI
+
+----
+
+Thumb: 
+
+----
+
+Text: 
+
+"We need to remake the perception of our entire library, proving that we’re more than just a warehouse for books,” a librarian from a university in Topeka shared, a goal that many of the 400+ librarians who responded to a recent ProQuest survey about space reclamation priorities are working towards. 
+
+ During this session, we’ll walk through the preliminary findings of the survey, providing insight into how libraries are innovating their physical spaces to support hands-on learning. 
+
+ We will be joined by Tesse Santoro, Head Librarian, Dobbs Ferry Library at MERCY College and Mark McCallon, Associate Dean for Library Services, Abilene Christian University Library. They will highlight the rising popularity of makerspaces in academic libraries and share the challenges they’ve faced as they’ve evolved to support this trend. We’ll end with a working session that will give you the opportunity to tell content aggregators what types of content your library needs to provide the best level of service possible to your users during these changing times. 
+
+About the speakers:
+Tesse Santoro oversees circulation, reference and instruction for the Dobbs Ferry Campus. Tesse has been instrumental in completing the transformation of the Library Learning Commons into a 24/7 Virtual Library with the addition of EBooks, EJournals, and EReference. She received a campus MicroGrant to develop 3D printing initiatives within the college curriculum. She also coordinates and teaches Library Instruction sessions for General Education and Humanities courses and is very involved in the Library’s Information Literacy program and its assessment.
+
+Mark McCallon is Associate Dean for Library Information Services at Abilene Christian University. His research interests include library history and library administration. He has been involved in numerous renovations of spaces in the library at Abilene Christian University, including ACU's Learning Commons in 2005 and the AT&T Learning Studio in 2010. Mark is an avid fan of the Maker Movement and has supported ACU's efforts in creating the Maker Lab through staffing and special programs.

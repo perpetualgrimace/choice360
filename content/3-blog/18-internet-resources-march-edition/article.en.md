@@ -1,0 +1,144 @@
+Title: Internet Resources: March Edition
+
+----
+
+Subtitle: Selected reviews of digital reference resources from the March issue of Choice.
+
+----
+
+Category: Newsletters
+
+----
+
+Date: 2017-03-02
+
+----
+
+Description: Selected reviews of digital reference resources from the March issue of Choice.
+
+----
+
+Line1: 
+
+----
+
+Thumb: ir-mar-2017.jpg
+
+----
+
+Hero: ir-mar-2017.jpg
+
+----
+
+Hero-caption: 
+
+----
+
+Text: 
+
+**Art History Teaching Resources**. 
+(link: http://arthistoryteachingresources.org/ text: http://arthistoryteachingresources.org/ popup: yes)
+
+[Visited Nov'16] Funded by the Samuel H. Kress Foundation and the CUNY Graduate Center, *Art History Teaching Resources *(*AHTR*) describes itself as a "peer-populated platform for art history teachers." The site incorporates resources such as lesson plans for survey and thematic courses, syllabi, assignments, rubrics, suggestions for museum visits and writing about art, plus a section devoted to advanced-placement AP art history courses. It also features the *AHTR Weekly*, an online newsletter published since 2012, and a Tweets column. Plans are to launch a scholarship-of-teaching ejournal called *Art History Pedagogy & Practice* in late 2016. The editorial staff includes academic and museum professionals, with contributions from a growing community of teachers, curators, and art experts.
+
+The lesson plans are nicely organized with basic definitions, a list of resources, a selection of visual materials, some content notes, and suggestions for assignments. The survey lessons are basic, with references pointing mainly to free materials hosted at Smarthistory ((link: http://www.choicereviews.org text: CH, 47-1815 popup: yes)) and the Khan Academy. The thematic lessons offer greater challenges in their selection of resources, and future growth in this section will enhance the site's value for coursework above the survey level. AP art history and art appreciation instructors as well as those teaching art history surveys at the college level will want to bookmark this site and visit it regularly. It provides a very helpful basic framework for those in their first years of teaching who are juggling the development of content simultaneously with refining their methodology. It also invites contributions from members of the art history teaching community and contributes to continuing professional education. Having access to such a resource helps mitigate the fact that at many institutions, art historians frequently work in isolation without colleagues in their field. A good resource, designed for growth and diversification and the potential to address the needs of undergraduate art history teaching above the survey level. **Summing Up:** Recommended. All academic levels; professionals/practitioners. *—M. Nilsen, Indiana University South Bend*
+
+***
+
+**Art Museum Teaching**, from Mike Murawski, Dana Carlisle Kletchka, and Briley Rasmussen. 
+(link: https://artmuseumteaching.com/ text: https://artmuseumteaching.com/ popup: yes)
+
+[Visited Nov'16] This digital community of museum educators has been facilitating the sharing of information since 2011. Set up for interactive contributions through blog and other public media platforms, *Art Museum Teaching* is coedited by three museum educators and enlists the contributions of about 50 members of the museum and art education communities (with their profiles linked under the about section). The site invites users to join the 900-plus-member *Google* community *Art Museum Teaching* forum moderated by one of the site's coeditors. As described on its masthead, the site strives to be a forum for reflecting on practice, showcasing successful strategies and raising questions about best practices. The site includes a bookshelf and sections on inclusive practices, museum tech, teaching tools, and teens in museums. The web format provides a welcome alternative to the types of publications produced by museum associations, and enables a focus on art museums, which might not be a sustainable option in print for this specific museum constituency. The site reflects the energy and enthusiasm of committed museum educators and disseminates information to a community of museum staff members whose public mission is often pursued in isolation among other museum units, and with limited support. Access to such a resource provides both a source of information and a forum to disseminate information about successful programs and innovative approaches. This site is a valuable contribution, offering museum docents and students in museum studies programs an inroad to the inner workings of museum education. **Summing Up:** Recommended. All academic levels; professionals/practitioners. *—M. Nilsen, Indiana University South Bend*
+
+***
+
+**CAB Direct**. CABI. Contact publisher for pricing. 
+(link: https://www.cabdirect.org/ text: https://www.cabdirect.org/ popup: yes)
+
+[Revisited Nov'16] The newly updated *CAB Direct* platform provides access to a pair of the world's most extensive research databases for the applied life sciences and public health: *CAB Abstracts* and *Global Health*. Produced by the nonprofit CABI (Centre for Agriculture and Biosciences International), an international organization based in the UK, it integrates the full archives of bibliographic records dating back to the early 1900s in subjects ranging across agricultural engineering, animal sciences, and the environmental sciences, with a focus on food safety, biofuels, ecoterrorism, climate change effects on crops, ecotourism, plant protection, invasive species, soil sciences, farm management, aquaculture, and forestry. The *Global Health *database covers biomedical/health science fields internationally, including chronic disease diagnosis and therapy, pharmacology, physiology, toxicology, occupational health, gerontology, nutrition, sanitation and waste disposal, health policy and economics, and tropical health. This enormous collection of scientific research and policy studies has more than doubled in size since *CAB Abstracts* was last reviewed almost a decade ago ((link: http://www.choicereviews.org text: CH, Apr'08, 45-4130 popup: yes)); currently *CAB Direct* contains nearly 12 million bibliographic references (including more than 340,000 full-text articles), plus conference papers and reports published in 120 countries. New material is uploaded within days of publication.
+
+An example of the interdisciplinary nature of the resource can be seen in a search on the Olympic games recently hosted in Brazil. Retrieved results range from the consequences of poor sanitation control, the Zika virus and public health, the effects of infectious diseases on tourism, the politics of Brazilian development, and gender justice in sports, to the social impact of large-scale sporting events on local populations. The interface features bar graphs displaying results by year—a handy visual revealing changing research interests over time.
+
+Searching is intuitive and documents load quickly. The online *CAB Thesaurus* provides a controlled vocabulary of almost 2.5 million descriptive terms in English and all major European languages. A significant update entailed revising terms for flowering plants (monocots) to conform to the APG III (Angiosperm Phylogeny Group, version 3) classification system. Additionally, over 2,000 taxonomic names of invasive plants have been added. A well-developed help guide enables researches to enhance their skills in constructing search strategies. Additional training is available through tools that include training videos, webinars, FAQs, and a users group to which registered individuals can submit questions by email. Researchers can organize their search activities in project files and highlight, annotate, and share them with others. Libraries supporting programs in the life sciences and public health have the flexibility of licensing *CAB Direct* from CABI or through US vendors including EBSCO, Ovid, STN International, and Thomson Reuters, among others. Academic subscription pricing is based on institutional size and research level, and the archives are available as a one-time purchase. **Summing Up:** Highly recommended. Undergraduates through researchers/faculty; technical program students; professionals/practitioners. *—J. C. Stachacz, Wilkes University*
+
+***
+
+**Colonial America: Module 2, Towards Revolution**. Adam Matthew. Contact publisher for pricing (based on FTE, purchase history, and Carnegie Classification); a typical one-time purchase with nominal hosting fee (0.5% of purchase price) ranges from $15,000.00 to $50,000.00. 
+(link: http://www.colonialamerica.amdigital.co.uk/ text: http://www.colonialamerica.amdigital.co.uk/ popup: yes)
+
+[Visited Nov'16] This second of five planned modules, *Towards Revolution*, focusing on the 1760s and 1770s, is the latest release of Colonial Office (CO) series 5 files in a collaboration between the National Archives (UK) and publisher Adam Matthew. Largely manuscript material that has been digitized, the collection contains original correspondence between British government offices and colonial government offices in mainland North America and the Caribbean, in addition to treaties, negotiations, and military correspondence. Consistent with the type of materials in Module 1: Early Settlement, Expansion and Rivalries ((link: http://www.choicereviews.org text: CH, Nov'16, 54-0991 popup: yes)), which covers roughly the years 1606–1776, this module provides researchers with additional content dating from the last two decades of this period. While mostly primary sources such as legislative materials and letters written to colonial governors and military commanders, the collection also includes a limited selection of colonial broadsheets and published maps.
+
+Similar to The Prize Papers Online 1: American Revolutionary War and Fourth Anglo-Dutch War ((link: http://www.choicereviews.org text: CH, Jan'15, 52-2326 popup: yes)) published by Brill, content here documents the years leading up to the American Revolution from the perspective of the governing authority, and not that of the revolutionary forces. At the height of British expansionism and on the cusp of erupting colonial bitterness, official correspondence between offices of the Crown in England to colonial authorities in America combine with personal correspondence and journal entries from officials on both sides of the Atlantic to illuminate the complex political and bureaucratic events leading up to the American Revolution.
+
+Beyond the American War for Independence, the mid- to late-18th-century period was a decidedly volatile time for the British Empire. Locked in a fierce competition with France, Britain's leaders struggled to cement their grip on the vast spaces of Canada and throughout the islands of the Caribbean. In addition to assembling for easy access the early documents of the American Revolution, *Colonial America: Module 2* also connects scholars to a large cache of British colonial documents concerning Canada and the Caribbean. This release illuminates British efforts to grapple with disparate local interests while maintaining daily control of a far-flung empire. Official treaties between the British Crown and native tribes in both Canada and what would become the US provide a unique vantage point for understanding the early struggles of indigenous peoples trying to deal with invading forces governed from across an ocean. Each module within the series is priced individually with a one-time purchase fee and annual hosting fees providing perpetual access to purchased modules. This newest collection offers libraries a trove of primary source materials for research on 18th-century colonial North America and the British Caribbean. **Summing Up:** Highly recommended. Beginning students through researchers/faculty; professionals/practitioners. *—R. J. Erlandson, independent scholar*
+
+***
+
+**Digital Dictionary of Buddhism**, from A. Charles Muller.
+(link: http://www.buddhism-dict.net/ddb/ text: http://www.buddhism-dict.net/ddb/ popup: yes)
+
+[Visited Dec'16] A specialist in East Asian philosophies, Muller (Univ. of Tokyo) is known for his pioneering role in establishing an information network for Buddhist studies. The *Digital Dictionary of Buddhism* is a companion database to the linked *CJKV-English Dictionary* (a multilingual Chinese-Japanese-Korean-Vietnamese resource) accessible on the same platform; *DDB* is a compilation of Chinese ideograph-based terms, texts, temples, schools, and persons found in Buddhist canonical sources, while *CJKV-E* is a compilation of Chinese ideographs or ideograph-comprised compound words found primarily in the Confucian and Taoist classics. The interface also offers some smaller lexical sources, such as *Cologne Digital Sanskrit Lexicon*, *The Online Tibetan to English Dictionary and Translation Tool*, and *Pali-English Dictionary*. Because of its comprehensive coverage—more than 66,000 entries (plus another some 50,000 entries in *CJKV-E*), with both resources updated monthly—the *DDB* has become a basic reference tool for the field of Buddhist and East Asian studies, subscribed to by major universities around the world. The recommended institutional subscription fee is $300.00 per year. While non-subscribers who register as guests are allowed a limited daily number of searches, individuals who need unlimited access are asked to pay $60.00 every two years—a fee waived for those scholars who contribute to the resource, which has evolved into an open-source platform supporting research around the world.
+
+The interface employs a very simple design structure, providing only linear hypertext links. A general keyword search box retrieves all matches, but there is no advanced search option to narrow these results. Probably the most efficient way of maneuvering around the dictionary is through various topical indexes, organized into sections listing Chinese Radicals and Total Strokes, along with Terms, Texts, Persons, Temples, Schools, or Places (each subdivided by languages and countries), and Names (animals, bodhisattvas, buddhas, etc.). These linear alphabetical listings may appear primitive nowadays, but the site's straightforward design nonetheless facilitates scholarship. Each entry is organized around a Chinese word with its pronunciations in Chinese, Japanese, and Korean, and meanings are explained in English. Detailed dictionary references are fully cited. One tool, the full-text *SAT Daizōkyō Text Database*, is a site integrated within each entry so that one can easily cross-check words with their contexts in the 85-volume *Taisho Tripitaka*—the recorded Buddhist canon. The *SAT* database has also incorporated the *DDB* entries so words highlighted in the Taisho canon display an instant English definition. This cooperative, inter-resource functionality will prove to be the most useful contribution of this authoritative site to scholarly research and translation. **Summing Up:** Highly recommended. Upper-level undergraduates through researchers/faculty; professionals/practitioners. *—M. Meng, St. John's University (NY)*
+
+***
+
+**Frick Art Reference Library Periodicals Index**. EBSCO. Contact publisher for pricing. 
+(link: http://www.ebscohost.com/ text: http://www.ebscohost.com/ popup: yes)
+
+[Visited Nov'16] Based on the meticulously maintained files of the Frick Art Reference Library, the *Frick Art Reference Library Periodicals Index* provides exhaustive indexing for articles appearing in nearly 300 art history journals and periodicals published between the mid-1850s and the late 1960s. The subject content of indexed materials covers the breadth of Western European and American art, including sculpture and some decorative arts spanning the 4th through the 19th centuries. The publications indexed are international in scope, including journals issued in Western European and Scandinavian languages and Russian.
+
+The library's original catalog cards were converted to digital format, maintaining the same access points carefully established over the years to facilitate research by museum staff and library patrons seeking information about artists, exhibitions, collectors, reproductions, the art market, and holdings of public and private collections. For decades, Frick staff members systematically combed fine art and historical journals to cast as wide a net as possible, providing consistent, precisely formatted entries for both mainstream and obscure publications that reflected trends in art historical scholarship, connoisseurship, and museum acquisition and documentation practices. The database is a research tool for advanced scholarship by researchers who understand the complexity of art writing during the decades since the the library was established in 1920 by the daughter of industrialist Henry Clay Frick and the Frick collections were opened to the public in 1935. The resource also proves useful to those involved in tracing provenance and exhibition records for specific artists. Citations include primarily basic bibliographic data, but their value is significantly enhanced by comprehensive name-authority files and subject headings. Subject analysis entails applying both broad, descriptive categories and keyword terms evident in the indexed documents.
+
+Now widely available in digital format through the EBSCOhost interface familiar to most academic library users, the resource offers an intuitive basic or advanced search option and the expected functionality of recording search histories, obtaining accurate bibliographic formatting for records, and saving, exporting, or sharing records. The database is a historical archive that, aside from minor corrections, is not being updated. A detailed publication coverage list is available in PDF, HTML, and Excel file format from EBSCO's unified *Digital Archives* site at (link: https://www.ebscohost.com/archives text: https://www.ebscohost.com/archives popup: yes). This highly specialized research tool is of particular value to programs supporting advanced art history students, scholars and museum-studies research, and museum library staff or specialized auction houses and brokers that track and verify provenance. **Summing Up:** Highly recommended. Upper-level undergraduates through researchers/faculty; professionals/practitioners. *—M. Nilsen, Indiana University South Bend*
+
+***
+
+**Glossary of Poetic Terms**, from the Poetry Foundation.
+(link: https://www.poetryfoundation.org/resources/learning/glossary-terms text: https://www.poetryfoundation.org/resources/learning/glossary-terms popup: yes)
+
+[Visited Nov'16] This extensive glossary of poetry terms is one component of the multifaceted web presence of the Poetry Foundation ((link: http://www.choicereviews.org text: CH, Aug'09, 46-6546 popup: yes)), which features poems published over the past century in *Poetry *magazine, essays by prominent critics, educational resources, audio and video productions, and listings of events and awards sponsored by the foundation. The direct link to this glossary is visible on the home page at the bottom, among Site Index links. Another access point is via the Resources section, alongside Learning Lab, Core Learning Poems, and article and essay sections for students and teachers. An RSS feed is available for the "Glossary Term of the Day." Users may enter terms in a search box or explore by category (form, rhythm and meter, school and period, technique and figures of speech, theory and criticism) using the filters. Terms range from the commonly known (allegory, motif) to the more obscure (cretic, litotes). Definitions tend to be concise and clearly written for undergraduate students or serious readers of this genre. While some entries contain lines of poetry as examples of usage, most simply list poem titles, occasionally with a link to the poem's text. More frequent use of illustrations (e.g., of different types of meter, showing where stresses occur) would be helpful. Cross-references frequently point to similar or substitute terms.
+
+There is much to see on every screen of this tastefully designed site. A sidebar offers poems for browsing or lists of authors and subjects, but these are not correlated with glossary terms—a missed opportunity to inform students. Two other freely available web sites that emphasize an educational mission, Poetry Archive ((link: http://www.choicereviews.org text: CH, Aug'08, 45-6507 popup: yes)) at (link: http://www.poetryarchive.org/ text: http://www.poetryarchive.org/ popup: yes) and the Academy of American Poets' *Poets.org* website ((link: http://www.choicereviews.org text: CH, Jul'15, 52-5655 popup: yes)) are also attractively designed, but the glossaries they provide are smaller and more basic. **Summing Up:** Recommended. Upper-level undergraduates through researchers/faculty; professionals/practitioners.* —M. P. Shapiro, American University*
+
+***
+
+**History of Mass Tourism**. Adam Matthew. Contact publisher for pricing (based on FTE, purchase history, and Carnegie Classification); a typical one-time purchase with nominal fee (0.5% of purchase price) ranges from $18,000.00 to $60,000.00. 
+(link: http://www.masstourism.amdigital.co.uk/ text: http://www.masstourism.amdigital.co.uk/ popup: yes)
+
+[Visited Nov'16] Adam Matthew is well known for producing digital collections of historical primary source material. This new offering features documents and images dealing with travel and tourism largely focusing on the British and US working classes over the period spanning about 1850–1980. As the collection reveals, the history of travel and tourism touches on many important cultural and socioeconomic subjects. Whether one is interested in claims made by 19th-century promoters of the healing properties of mineral springs, changes in the marketing of exotic destinations over time, events leading to the recovery of British tourism following WW II, or ascendancy of vacation advertising aimed at women (to name just a few prospective topics for research), this resource serves up fascinating documents and colorful images to supplement customary research strategies tracing leads in secondary sources. These documents—encompassing brochures, correspondence, films, maps, memorabilia, and photographs, as well as some periodicals—originate from impressive archival collections on both sides of the Atlantic. Contributing US institutions include—to name just a few repositories—Duke University, University of Florida, Michigan State University, Massachusetts Historical Society, Brooklyn Historical Society, Newberry Library, and New York Academy of Medicine Library. Institutions in the UK include the National Archives, Thomas Cook Archives, Camping and Caravanning Club, and University of Westminster Archive, among others.
+
+The database interface offers numerous methods for searching relevant materials. Users can find documents through a simple search box or through a variety of advanced-search filters, including document type, theme, particular library or archive, and region. The Galleries section offers several browsing options: Image Gallery, Maps, Promotional Tourism Films, and Online Exhibition. The latter two sound especially exciting, but one finds only a handful of films (mainly British sources) and only two online exhibitions (supporting comparison of the Blackpool and Coney Island seaside resorts). A chronology feature allows users to scroll through a histogram that displays key events from the mid-18th century to the present day. Another option is the Interactive Map that allows users to select resources pertaining to specific countries or regions.
+
+The documents are beautifully captured in full color and supplied with ample metadata and information about copyright, and the system supports export of records to popular citation-management tools. Users can manipulate items by zooming in and out, viewing thumbnails, and searching within documents. The database also includes My Archive and My Lightbox, options that allow users to save searches and selected documents or create custom scrapbooks or slideshows. Overall, the database is visually appealing, relatively easy to use, and full of interesting documents that will enhance historical study of a broad range of time periods and support research at all levels in various disciplines concerned with popular culture and recreation topics. **Summing Up:** Highly recommended. Undergraduates through advanced scholars. *—T. Bottorff, University of Central Florida*
+
+****
+
+**Shakespeare in Performance**. Adam Matthew. Contact publisher for pricing (based on FTE, purchase history, and Carnegie Classification); a typical one-time purchase with nominal fee (0.5% of purchase price) ranges from $12,000.00 to $40,000.00. 
+(link: http://www.amdigital.co.uk/m-products/product/shakespeare-in-performance/ text: http://www.amdigital.co.uk/m-products/product/shakespeare-in-performance/ popup: yes)
+
+[Visited Dec'16] This curated online collection features digitized promptbooks and related materials from the Folger Shakespeare Library. Performances from the 1670s–1970s (staged primarily in Great Britain and the US) can be searched and downloaded, with "scholarly sharing" permitted among an unlimited number of concurrent users. Including such items as written manuscripts, typescripts, drawings, lighting, and music cues, the site contains more than 1,000 promptbooks of 34 plays giving performance directions for use by theater prompters; some editions are marked up by notable actors, directors, and stage managers, and an introduction succinctly explains the features of a promptbook. Additional materials include illustrations and drawings, photographs, scores, and correspondence. The website offers short case studies of 17 performances, a glossary, a searchable visual gallery (sets, costumes, photographs), brief biographies of 27 actors and directors, and an interactive chronology charting performances, historical events, births, marriages, deaths, and publications.
+
+Document images can be searched, and results highlight specific pages, although retrieval is sometimes understandably inconsistent. A master index is available with a sophisticated advanced-search option offering stemming and proximity searching. Document-level searching provides act and scene keyword searching, and thumbnail images in descriptive records provide page access. Tables of contents for specific scenes appear below the fold or in a pop-up box once documents open. Many plays can be compared side by side, and the interface supports movement through hits, zooming in/out, and image rotation. Facets allow narrowing by categories such as country or document type (autograph, radio script, etc.). A Search Directories section offers pre-selected searches (and related terms) for people, theaters, and keywords. Document records list the play title, document type, associated names, dates, theater, genre, themes, roles, content keywords (e.g., love, mischief) and context keywords (e.g., cues, script), Shattuck code, and other descriptive metadata. My Archive lets registered users store searches, images, and documents.
+
+The site's six-member editorial board includes Michael Dobson (Shakespeare Institute), Gregory Doran (Royal Shakespeare Company), and Heather Wolfe (Folger Shakespeare Library). Few broad-range works like this exist, even in printed collections, and none offer global access to these often-fragile materials. Charles Shattuck's *The Shakespeare Promptbooks: A Descriptive Catalogue* (1965) gives the nomenclature for nearly 2,200 promptbooks with description and physical location. William Halstead compiled 5,000 acting editions and promptbooks in *Shakespeare as Spoken* (12 volumes, 1977–79) and a two-volume supplement (1983), but these provide text changes only. G. Blakemore Evan edited the eight-volume *Shakespearean Prompt-Books of the Seventeenth Century* (1996), and Jill Levenson created an online database of 170 promptbooks of Romeo and Juliet productions at (link: http://www.itergateway.org/romeo_juliet/ text: http://www.itergateway.org/romeo_juliet/ popup: yes), freely searchable on the Iter: Gateway to the Middle Ages and Renaissance ((link: http://www.choicereviews.org text: CH, Feb'17, 54-2549 popup: yes)) platform. But nothing currently matches the scope of the *Shakespeare in Performance* digital promptbook collection. **Summing Up:** Highly recommended. Upper-level undergraduates through faculty; professionals/practitioners. *—R. A. Aken, University of Kentucky*
+
+----
+
+Line2: 
+
+----
+
+Author: Choice Staff
+
+----
+
+Author-img: 
+
+----
+
+Byline: 
+
+----
+
+References: 

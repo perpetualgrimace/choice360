@@ -1,0 +1,51 @@
+Title: Exploring Data Visualization Approaches to Enhance Student Engagement
+
+----
+
+Category: Future of Libraries and Education
+
+----
+
+Date: 2017-03-29
+
+----
+
+Time: 2:00pm ET
+
+----
+
+Sponsor-name: McGraw-Hill Education
+
+----
+
+Sponsor-url: http://www.accessengineeringlibrary.com
+
+----
+
+Line1: 
+
+----
+
+Registration-url: https://choicereviews.webex.com/choicereviews/onstage/g.php?MTID=efb025e82ce13ed0ea3ac127bc48e8734
+
+----
+
+Youtube-id: ZY0rtzcNkfE
+
+----
+
+Thumb: 
+
+----
+
+Text: 
+
+### Summary:
+Join AccessEngineering with Dr. Anselm Spoerri for a live webinar that explores a range of data visualization methods and how they enhance teaching and student engagement. A researcher and instructor in the field of data visualization, Dr. Spoerri presents examples of varied data sources--simple, curated, and raw--and explains the insights they reveal and how they support learning and retention.
+**** 
+### Speaker:
+<h4 class="u-no_margin delta"> Anselm Spoerri</h4>
+Lecturer/Assistant Professor, School of Communication and Information
+Rutgers University
+
+Dr. Anselm Spoerri has a Ph.D. from MIT and is a faculty member at the School of Communication and Information at Rutgers University. He has conducted research in the field of information visualization for the last 20 years and teaches students how best to visualize data. A recent co-authored paper about how to visualize what is most controversial in Wikipedia received widespread media attention, including articles in Wired, MIT Technology Review, The Washington Post, and The Economist. Dr. Spoerri leveraged his data visualization expertise to guide the visual display and interactive functionality that are key to AccessEngineering’s DataVis.
