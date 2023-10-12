@@ -2,6 +2,7 @@ node_modules
 .DS_Store
 dploy.yaml
 thumbs/
+media/
 /site/snippets/nk2edit/NK2Edit.cfg
 /site/snippets/nk2edit/NK2Edit.zip
 /site/snippets/nk2edit/NK2Edit.exe
