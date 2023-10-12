@@ -1,4 +1,4 @@
-<?
+<?php
 
   // check for optional variables passed from template
   if(isset($alignment)): $alignment = $alignment; else: $alignment = 'u-left'; endif;
@@ -17,18 +17,18 @@
         <ul class="inline_list u-unbullet">
 
           <li class="sidebar__item">
-            <a class="milli <? if (kirby()->request()->params()->category() == NULL): echo 'is-active_pg'; endif; ?>" href="<? echo url('librarianship/essays/all/') ?>">
+            <a class="milli <?php if (kirby()->request()->params()->category() == NULL): echo 'is-active_pg'; endif; ?>" href="<?php echo url('librarianship/essays/all/') ?>">
               All
             </a>
           </li>
 
-          <? foreach($categories as $category): ?>
+          <?php foreach($categories as $category): ?>
           <li class="sidebar__item">
-            <a class="milli <? if($category == kirby()->request()->params()->category()): echo 'is-active_pg'; endif; ?>" href="<? echo url('librarianship/essays/all/' . url::paramsToString(['category' => $category])) ?>">
+            <a class="milli <?php if($category == kirby()->request()->params()->category()): echo 'is-active_pg'; endif; ?>" href="<?php echo url('librarianship/essays/all/' . url::paramsToString(['category' => $category])) ?>">
               <?= $category ?>
             </a>
           </li>
-          <? endforeach ?>
+          <?php endforeach ?>
 
         </ul>
       </nav>
@@ -36,7 +36,7 @@
     </aside>
 
     <div class="column g-4 sidebar__search">
-      <? snippet('search.bar', array(
+      <?php snippet('search.bar', array(
         'search_target' => 'essays',
         'search_placeholder' => 'Search essays...'
       )) ?>

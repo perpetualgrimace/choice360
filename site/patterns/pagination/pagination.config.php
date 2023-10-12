@@ -1,12 +1,12 @@
-<?
+<?php
 
 return [
   'defaults' => [
     'collection' => function() {
-      return site()->homePage()->children()->visible()->flip()->paginate(10);
+      return site()->homePage()->children()->published()->flip()->paginate(10);
     },
     'pagination' => function() {
-      return site()->homePage()->children()->visible()->flip()->paginate(10)->pagination();
+      return site()->homePage()->children()->published()->flip()->paginate(10)->pagination();
     }
   ]
 ];

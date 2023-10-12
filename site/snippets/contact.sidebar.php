@@ -1,4 +1,4 @@
-<?
+<?php
 
   // check for optional variables passed from template
   if(isset($alignment)): $alignment = $alignment; else: $alignment = 'u-left'; endif;

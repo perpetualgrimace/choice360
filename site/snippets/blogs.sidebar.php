@@ -1,4 +1,4 @@
-<?
+<?php
 
   // check for optional variables passed from template
   if(isset($alignment)): $alignment = $alignment; else: $alignment = 'u-left'; endif;
@@ -8,7 +8,7 @@
 
     <aside class="sidebar column <?= $alignment . ' ' . $layout ?>">
 
-      <? snippet('search.bar', array(
+      <?php snippet('search.bar', array(
         'search_target' => 'articles',
         'search_placeholder' => 'Search articles...'
       )) ?>
@@ -18,13 +18,13 @@
       <nav class="sidebar__nav">
         <ul class="u-unbullet">
 
-          <? foreach($categories as $category): ?>
+          <?php foreach($categories as $category): ?>
           <li class="sidebar__item">
-            <a class="milli" href="<? echo url('blog/articles/' . url::paramsToString(['category' => $category])) ?>">
+            <a class="milli" href="<?php echo url('blog/articles/' . url::paramsToString(['category' => $category])) ?>">
               <?= $category ?>
             </a>
           </li>
-          <? endforeach ?>
+          <?php endforeach ?>
 
         </ul>
       </nav>

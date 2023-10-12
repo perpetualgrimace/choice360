@@ -1,4 +1,4 @@
-<?
+<?php
   // check for optional variables passed from template
   if(isset($alignment)): $alignment = $alignment; else: $alignment = 'u-left'; endif;
   if(isset($layout)): $layout = $layout; else: $layout = 'g-8'; endif;
@@ -22,41 +22,41 @@
 
       <section class="scale--lg">
 
-        <? if ($hero != NULL): ?>
+        <?php if ($hero != NULL): ?>
         <figure class="content__hero">
           <img src="<?= $hero->url() ?>" alt="" />
-          <? if ($page->hero_caption() != ''): ?>
+          <?php if ($page->hero_caption() != ''): ?>
             <figcaption><?= $page->hero_caption(); ?></figcaption>
-          <? endif; ?>
+          <?php endif; ?>
         </figure>
-        <? endif ?>
+        <?php endif ?>
 
         <h3>Introduction:</h3>
 
-        <?= kirbytext(excerpt($page->text(), 100, 'words')) ?>
+        <?php // TODO: replace with chopper = excerpt($page->text(), 100, 'words')->kirbytext() ?>
 
-        <? if ($page->libguides_url() != ''): ?>
+        <?php if ($page->libguides_url() != ''): ?>
           <p><a class="button" href="<?= $page->libguides_url() ?>">View the full essay<span class="u-screenreader"> on the ala-choice libguides site</span></a></p>
-        <? endif; ?>
+        <?php endif; ?>
 
-        <? if ($page->byline() != ''): ?>
+        <?php if ($page->byline() != ''): ?>
           <h3>About the author:</h3>
           <div class="scale--normal">
             <?= $page->byline()->kt() ?>
           </div>
-        <? endif; ?>
+        <?php endif; ?>
 
-        <? if ($page->references() != ''): ?>
+        <?php if ($page->references() != ''): ?>
           <h3>References:</h3>
           <div class="scale--normal">
             <?= $page->references()->kt() ?>
           </div>
-        <? endif; ?>
+        <?php endif; ?>
 
-        <? if ($page->footnote() != ''): ?>
+        <?php if ($page->footnote() != ''): ?>
           <div class="scale--normal">
             <?= $page->footnote()->kt() ?>
           </div>
-        <? endif; ?>
+        <?php endif; ?>
 
       </section>

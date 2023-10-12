@@ -2,7 +2,7 @@
   <div class="columns g-vcenter">
 
     <div class="column g-6">
-        <?= pattern('perspective', [
+        <? snippet('perspective', [
           'src' => image($page->rcl_img()),
           'link' => 'products/rcl'
         ]) ?>

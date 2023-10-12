@@ -1,4 +1,4 @@
-<?
+<?php
   // check for optional variables passed from template
   if(isset($alignment)): $alignment = $alignment; else: $alignment = 'u-left'; endif;
   if(isset($layout)): $layout = $layout; else: $layout = 'g-8 scale--lg'; endif;
@@ -13,7 +13,7 @@
       <div class="columns scale--normal g-vcenter">
 
         <div class="column g-7">
-            <?= pattern('perspective', [
+            <? snippet('perspective', [
               'src' => $page->image($page->product_img()),
               'shadow' => TRUE
             ]) ?>

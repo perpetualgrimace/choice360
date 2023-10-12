@@ -1,9 +1,9 @@
-<?
+<?php
 
   $category       = $page->category();
   $template       = $page->template();
 
-  $blogs          = $page->siblings()->visible()->sortBy('date')->flip()->not($page);
+  $blogs          = $page->siblings()->published()->sortBy('date')->flip()->not($page);
   $articles       = $blogs->filterBy('template', 'article');
   $related_items  = $blogs->filterBy('category', $category)->filterBy('template', $template);
 
@@ -17,27 +17,27 @@
   <div class="columns u-left">
     <div class="column">
 
-        <? if ($related_items->count() > 0): ?>
+        <?php if ($related_items->count() > 0): ?>
           <h2>More <a class="u-linked_heading" href="articles/category:<?= $category ?>"><i><?= $category ?></i></a> <?= $template ?>s:</h2>
 
           <div class="columns cards">
             <?php if ($template == 'press release'): $layout = 'g-6'; else: $layout = 'g-4'; endif; ?>
 
-            <? foreach ($related_items->limit($limit) as $item): ?>
-              <?= pattern('card', array('item' => $item, 'layout' => $layout)) ?>
-            <? endforeach; ?>
+            <?php foreach ($related_items->limit($limit) as $item): ?>
+              <? snippet('card', array('item' => $item, 'layout' => $layout)) ?>
+            <?php endforeach; ?>
           </div>
 
-        <? else: ?>
+        <?php else: ?>
           <h2>More articles:</h2>
 
           <div class="columns cards">
-            <? foreach ($articles->limit($limit) as $item): ?>
-              <?= pattern('card', array('item' => $item, 'layout' => 'g-4')) ?>
-            <? endforeach; ?>
+            <?php foreach ($articles->limit($limit) as $item): ?>
+              <? snippet('card', array('item' => $item, 'layout' => 'g-4')) ?>
+            <?php endforeach; ?>
           </div>
 
-        <? endif ?>
+        <?php endif ?>
 
 
     </div>

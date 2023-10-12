@@ -1,0 +1,129 @@
+Title: Internet Resources: February Edition
+
+---
+
+Subtitle: Selected reviews of digital reference resources from the February issue of Choice.
+
+---
+
+Category: Newsletters
+
+---
+
+Date: 2017-02-02
+
+---
+
+Description: Selected reviews of digital reference resources from the February issue of Choice.
+
+---
+
+Line1:
+
+---
+
+Thumb: feb-ir-2017.jpg
+
+---
+
+Hero: feb-ir-2017.jpg
+
+---
+
+Hero-caption:
+
+---
+
+Text:
+
+**Commonwealth Club.**
+(link: http://www.commonwealthclub.org/ text: http://www.commonwealthclub.org/ target: \_blank)
+
+[Revisited Nov'16] According to its banner, the _Commonwealth Club_ is the "Leading national forum open to all for the impartial discussion of public issues important to the membership, community and nation." To this end, the club (founded in 1903) hosts panel discussions and interviews on a wide range of issues of local and national significance. Events include, for example, "Paradise Burning" (on California wildfires), "Autonomous Vehicles and the Future of Transport," discussion of the 2016 presidential race with Robert Reich, "True or False? A Field Guide to Lies in the Information Age," "Above the Law? Addressing Sexual Assault on Campus and Beyond," a weekly election roundtable, a series of forums on "The Future of Work," Steve Forbes on the economy, and sessions with celebrity guests (NBA star Kareem Abdul-Jabbar, Food Network host Ayesha Curry, actor-activist Alan Cumming, etc.) or politicians (e.g., Condoleezza Rice, Hillary Clinton).
+
+The site contains forums and other material for members, but the chief attraction for nonmembers is the video archive. Videos are housed on _YouTube_, giving viewers the option of watching clips or entire shows. The site contains podcasts (also available through _iTunes_ and* Google Play*), transcripts of events, mobile apps, press releases, and a blog. Sample searches on a range of subjects yielded results that include a mix of videos, transcripts, blog entries, and podcasts. Featured programs (Climate One, Good Lit, Food Lit, and Inforum) are found under the Events section. Visitors who like to browse can go directly to Watch & Listen, where menu options include Video, Audio, Radio Schedule, Broadcast Stations, Images, Buy a CD, and Commonwealth Club TV; video content dates back to 2009, although most is more recent. A detailed subject menu would improve the site's organization for easier browsing of its remarkably rich, informative content. **Summing Up:** Highly recommended. All readership levels. _—S. Clerc, Southern Connecticut State University_
+
+---
+
+**FRASER: Federal Reserve Archival System for Economic Research**, Federal Reserve Bank of St. Louis.
+(link: http://fraser.stlouisfed.org/ text: https://fraser.stlouisfed.org/ target: \_blank)
+
+[Revisited Nov'16] Established in 2004 by the Federal Reserve Bank of St. Louis ((link: http://www.choicereviews.org text: CH, Dec'05, 43-1935 target: \_blank)), FRASER provides digital access to economic history through policy documents, press coverage, and economic and banking data. Digital material is added from, among other sources, the Library of Congress's broad digital program American Memory ((link: http://www.choicereviews.org text: CH, Dec'05, 43-2404 target: \_blank)) and the Internet Archive ((link: http://www.choicereviews.org text: CH, Jun'13, 50-5327 target: \_blank)), providing historical context to the Federal Reserve materials. A search box accesses all site resources, while the logo allows easy return to the homepage. A navigation bar provides access to economic data, Federal Reserve history, archival collections, and education, with classroom materials developed by Federal Reserve education specialists. The toolbar has browsing by author, title, and date. The last item on the toolbar points to the Theme section, which refers to collections of important documents relating to a range of topics. Below the toolbar are Explore (exploring themes), Access (economic data), Learn (Federal Reserve history), Inside FRASER (recently added topics and major resources), What's New (with a handful of recently added items), Popular Themes, Popular Items, @FedFRASER on _Twitter_, and a useful Need Help section.
+
+FRASER data are supplemented by other Federal Reserve Bank of St. Louis sites, including FRED ((link:www.choicereviews.org http:// text: CH, Jan'14, 51-2766 target: \_blank)) at (link: http://fred.stlouisfed.org/ text: https://fred.stlouisfed.org/ target: \_blank), that supply data sets and tools to download, graph, and track more than 400,000 US and international time series from nearly 80 sources, while the archival economic data discoverable at _ALFRED_ (_Archival FRED_) at (link: http://alfred.stlouisfed.org/ text: https://alfred.stlouisfed.org/ target: \_blank) preserves older versions of economic data available from specific dates. _Federal Reserve History_ at (link: http://www.federalreservehistory.org/ text: http://www.federalreservehistory.org/ target: \_blank) provides topical essays with bibliographies on the people, events, and purposes of the Federal Reserve. Educators will find a range of print and online education resources for economics and personal finance at (link: http://www.stlouisfed.org/education/ text: https://www.stlouisfed.org/education/ target: \_blank). _FRASER_ and these several companion sites are valuable resources for history and economics research. **Summing Up: **Recommended. All libraries. All levels. _—P. A. Frisch, Our Lady of the Lake University_
+
+---
+
+**International Bibliography of Humanism and the Renaissance**. Brepols. Annual academic subscription begins at $545.00, based on FTE and Carnegie Classification.
+(link: http://www.brepols.net/ text: http://www.brepols.net/ target: \_blank)
+
+[Visited Nov'16] In concentrating on 16th- and 17th-century European history and culture, European exploration, and European influence throughout the world, the _International Bibliography of Humanism and the Renaissance_ (_IBHR_) indexes a variety of scholarly publications, including monographs, articles, chapters, encyclopedias, theses, exhibition catalogues, and more. Also indexed are materials related to the interpretation and teaching of texts from the Renaissance and early modern eras. Compiled originally by Librairie Droz starting in 1965 as the _Bibliographie Internationale de l'Humanisme et de la Renaissance_, the resource was acquired by Brepols only in 2013. To make it fully cross-searchable using the same interface as other Brepols databases, such as the International Medieval Bibliography ((link: http://www.choicereviews.org text: CH, Sep'12, 50-0004 target: \_blank)) or the Bibliography of British and Irish History Online ((link: http://www.choicereviews.org text: CH, Jan'11, 48-2439 target: \_blank)), the editors are in the process of adjusting the indexing and thesauri as needed. Presently, over 333,000 records are included, and an international team of contributors adds 20,000 new titles annually.
+
+The basic interface allows users to search by general keyword, author, century, "discipline tree" (an expandable list of broad fields of study, including art history, economics, literature, science, women's studies, and more), and geographic area (from Africa to southeastern Europe, displayed in a pop-up window like the discipline tree). The advanced search offers these options plus field searching by title, journal or series, publication type, publication year, or century; the help files explain that pre-2010 publications are not yet indexed by century. Typing in the search boxes activates an autocomplete function (showing spelling variations and abbreviated elements), and the interface reveals the number of hits before a search is performed—two very helpful features.
+
+_IBHR_ is a multilingual database, with interfaces offered in English, French, German, Spanish, and Italian. Resources from all languages and formats are included, but one must locate materials written in a particular language by doing a general keyword search. Search results can be exported into popular bibliographic management programs, including EndNote ((link: http://www.choicereviews.org text: CH, Feb'08, 45-2929 target: \_blank)), Zotero ((link: http://www.choicereviews.org text: CH, Jun'08, 45-5309 target: \_blank)), _RefWorks_, or Microsoft Word, and researchers can set up email alerts for subjects of interest. The database is open-URL compliant, and retrieved records easily link to the external full-text resources available through an institution's licensed online journals or Google Books ((link: http://www.choicereviews.org text: CH, Dec'12, 50-1800 target: \_blank)), for example. The contents could be amplified in some areas—there are comparatively few theses indexed, for example—but _IBHR_ is a work in progress, with the editors making a concerted effort to add new and retrospective content. Overall, this versatile, content-rich, interdisciplinary source offers good international coverage that complements not only Brepols's other database offerings but also Iter: Gateway to the Middle Ages and Renaissance ((link: http://www.choicereviews.org text: CH, Feb'17, 54-2549 target: \_blank)), the University of Toronto's bibliographic tool, which is comparable but has a broader historical scope. **Summing Up:** Recommended. Undergraduates through researchers/faculty; general readers. _—S. L. Johnson, Eastern Illinois University_
+
+---
+
+**Iter: Gateway to the Middle Ages and Renaissance**. University of Toronto Libraries. Annual academic subscription ranges from $280.00 to $1,125.00 based on FTE.
+(link: http://www.itergateway.org/ text: http://www.itergateway.org/ target: \_blank)
+
+[Visited Nov'16] This bibliographic database, whose name in Latin means "journey or path," indexes studies on medieval and early modern history and culture—the period spanning 400–1700. Produced since 1994 by a consortium of universities and societies and centered at the University of Toronto, its 1.3 million indexed resources include journal articles, edited volumes, monographs, book reviews, dissertation abstracts, and more. Journal coverage is quite deep (nearly 2,000 titles), although in some instances core journals are not covered in their entirety nor analyzed quickly; indexing at the time of this review of _Renaissance Quarterly_, for example, covers volume 20, 1967, to the beginning of 2015, whereas the indexing is complete and more current in the field's comparable resource, published by Brepols, the International Bibliography of Humanism and the Renaissance ((link: http://www.choicereviews.org text: CH, Feb'17, 54-2547 target: \_blank)). Significant collections of essays have been recently added to provide historic depth back to 1874.
+
+The interface features both basic and advanced searches—the latter allowing multifield (title, author, subject, and call number) searching, as well as an unstructured Boolean option for locating terms within the same field. However, not all records carry LC subject headings, and individual essays in books and journal articles are notably without subject entries. Results can be usefully filtered by various categories, including publication type, language, author, and publishing year, while some filter categories—subject time period and geographical area—will become more meaningful when these metadata are applied consistently to more records. The interface allows for easy marking, emailing, and checking for full text, and bibliographic management is enabled for Zotero ((link: http://www.choicereviews.org text: CH, Jun'08, 45-5309 target: \_blank)).
+
+The database had a large-scale annual update in October 2015 that added 20,000 records, and smaller updates occur monthly. Iter is one of a number of resources—bibliographies, journals, and ebooks—accessible on the Itergateway platform, most of which require a subscription. For students interested in Renaissance and early modern Europe, Iter offers wide coverage of the scholarship. But for the Middle Ages (particularly the centuries prior to the 1300s), material is far richer in Brepols' companion International Medieval Database ((link: http://www.choicereviews.org text: CH, Sep'12, 50-0004 target: \_blank)). **Summing Up:** Recommended. Undergraduates through researchers/faculty; general readers. _—M. C. Schaus, Haverford College_
+
+---
+
+**Oceanus Magazine**. Woods Hole Oceanographic Institution.
+(link: http://www.whoi.edu/oceanus/ text: http://www.whoi.edu/oceanus/ target: \_blank)
+
+[Visited Nov'16] Oceanus Magazine is a glossy print magazine that is also available in an appealing, freely accessible, electronic format. Indexed by ProQuest and EBSCO and several other publishers of popular periodical indexes, including GREENR (Global Reference on the Environment, Energy, and Natural Resources) ((link: http://www.choicereviews.org text: CH, Jan'10, 47-2353 target: \_blank)). The goal of the magazine is to highlight and explain the ongoing research in ocean exploration performed by the Woods Hole Oceanic Institute. The editors successfully accomplish this mission with a publication that is highly informative and profusely illustrated. The home page of the online magazine is well laid out and clearly highlights the latest articles. Additional stories can also be located through hyperlinks for broad topics, special issues, and multimedia. Hyperlinks are also available for featured videos, photographs, and interactive articles. Readers who prefer the more traditional layout can access a digital page-image copy of the magazine. Access to the archives of both the print and digital issues is available, and all segments of the website load easily and quickly. Subscribers can also sign up for email notifications to learn about new articles. The publication, reasonably priced in its print edition, is written at a level that is accessible to both the layperson and the scholar. **Summing Up:** Highly recommended. All readership levels. _—J. C. Stachacz, Wilkes University_
+
+---
+
+**Opera**. Exact Editions. Annual academic subscription begins at $375.00.
+(link: http://institutions.exacteditions.com/opera text: https://institutions.exacteditions.com/opera target: \_blank)
+
+[Visited Nov'16] A subscription to the online edition of _Opera_ magazine provides fully searchable access to the contents of every issue—beginning with the first, published in 1950, through each new monthly issue. The site provides IP-authenticated remote web access, with no requirement to log in with username and password, and access is seamless, crossing iOS and Android platforms. As is well known to regular readers, the content of _Opera_, published in London, is similar to that of its American counterpart, the Metropolitan Opera's _Opera News_ at (link: http://www.operanews.com/ text: http://www.operanews.com/ target: \_blank), whose online archive, composed of issues dating back to 1949, is also accessible to subscribers. Both _Opera_ and _Opera News_ contain articles dealing with operatic repertoire, singers, conductors, and other personnel, as well as reviews of performances, important books and recordings, and performance schedules of opera companies worldwide. Although articles in both periodicals are geared to performers and opera enthusiasts rather than scholars (and keyword search finds matches in the ads as well as the features), many of those in _Opera_ are written with the connoisseur in mind, while those in _Opera News_ tend to be more popular in tone. Furthermore, the international coverage is more extensive in _Opera_, whereas the online version of _Opera News_ provides access to videotapes, a feature lacking in the online _Opera_ magazine. Conservatories and colleges with strong music programs will benefit from subscriptions to both digital periodicals. **Summing Up:** Highly recommended. Undergraduates through researchers/faculty; general readers; professionals/practitioners. _—D. Ossenkop, SUNY College at Potsdam_
+
+---
+
+**The Pulitzer Prizes**.
+(link: http://www.pulitzer.org text: www.pulitzer.org/ target: \_blank)
+
+[Revisited Nov'16] Established in 1917, the Pulitzer Prize is recognized as one of the most prestigious awards in journalism, literature, and musical composition, awarding prizes and fellowships annually in 21 fields. _The Pulitzer Prizes_ website is the place to learn more about the history of the awards and their creator, Joseph Pulitzer, a Hungarian émigré. It is also a tool for submitting work for consideration by the awards committees. Since the site was first reviewed nearly two decades ago ((link: http://www.choicereviews.org text: CH, Mar'98, 35-3626 target: \_blank)), it has been expanded to offer original articles written for the site about the prizes and their histories, along with details about the finalists and winners. Users will find the sleek, attractive design easy to navigate and its basic search tool easy to use.
+
+The site includes a complete listing of all winners from the first awards in 1917 (for editorial writing, the _New York Tribune_ on the sinking of the Lusitania one year earlier) through the most recent winners of 2016 (for investigative reporting, breaking news reporting, feature writing, commentary, fiction, drama, poetry, music, and a range of other categories that casual observers might not be aware of), reflecting 100 years of US history. When the award-winning work itself is available online, the site provides a link. Winners may be sorted by year or category for easy browsing. Also included are news releases from the Pulitzer Prize Board, links to articles appearing in the mainstream press, a listing of upcoming events sponsored by the organization, and a separate section on the year-long centennial celebration with links to events, lectures, and exhibits. The layout and graphics are eye-catching, the pages load quickly, and the site functions equally well on computers and mobile devices. Like its namesake award, _The Pulitzer Prizes_ website is tops in its field. **Summing Up:** Highly recommended. All libraries. All levels. _—C. A. Collins, Saint Joseph's University_
+
+---
+
+**The Women's Wear Daily Archive**. ProQuest. Contact publisher for pricing (based on FTE, purchase history, and other factors); annual academic subscription for 15,000 FTE begins at about $2,387.00; perpetual-access licensing also available.
+(link: http://www.proquest.com/products-services/www.html text: http://www.proquest.com/products-services/www.html target: \_blank)
+
+[Visited Nov'16] The digital archive to _Women's Wear Daily_—originally _Women's Wear_, now simply _WWD_, and forever America's "rag trade rag"—has been a long time coming. From its inception, this publication has dutifully reported on both the big money and the big fluff that is the fashion industry. In the first issue of June 1, 1910, this huffy editorial protest from the _New York Times_ was reprinted: "This spring's hats are the worst in shape and decoration that have ever disfigured the landscape, shocked artistic taste, and transformed tolerably good looking women into monstrosities." Hmm, nothing's changed it seems. Starting as a newspaper reporting on the openings, closings, and mergers of fashion companies, it covered the latest Parisian fashions, industry personnel changes, workplace actions, raw materials shortages, and news about fashionable socialites. It also ran advertisements. Now, more than 106 years later, the content is the same, only now it's bigger, full color, and often supplemented with special issues on fashion's auxiliaries: cosmetics, fragrance, and accessories. The archive allows one to browse or search articles and advertisements by decade, year, month, and day. As a trade newspaper, "daily" means Monday to Friday, and any particular day can have multiple issues.
+
+Search screens are cleanly designed. Basic Search is simple: one rectangular box. Advanced Search supports command line searching, combining keywords with Boolean operators, and field searching by abstract, title, author, company/product, and document types (e.g., advertisements, obituaries) or features (e.g., illustrations, photographs, diagrams). A search for "baby boom" without quotes yielded more than a 1,000 hits, including bath products and booms in sales. Using double quotes yielded about half that number but also many irrelevant hits, reporting on baby fashion, not necessarily on the tens of millions in their mid-fifties and up. For that, "baby boomer" produced a more focused set and pluralized, even more (the assumption that ProQuest's interface can read one's mind is incorrect). Still, the strategy scored a terrific article: "The Neglected Market: Famous Boomers: Boomer Nostalgia: Boomer Advertising Boomers: $21 Billion," with a further banner in the PDF facsimile: "Ignore Them at Your Peril."
+
+A bar graph allows filtering items by decade, revealing that "baby boomer" truncated is the focus of more than 700 articles from the 2000s, plummeting during 2010–16; the great recession perhaps? Or maybe time to pass the torch to the millennials, whose numbers began to supplant the boomers in the current decade. With this database, libraries can ditch their tatty paper _WWD_ issues after about one year. Librarians who want to work effectively with fashion students should read this magazine regularly to develop a feel for its gossipy signature sections, like "Eye." The archive is an essential, easy-to-use, engrossing resource for all fashion collections. **Summing Up:** Essential. All readership levels. _—C. Donaldson, North Seattle College_
+
+---
+
+Line2:
+
+---
+
+Author: Choice Staff
+
+---
+
+Author-img:
+
+---
+
+Byline:
+
+---
+
+References:

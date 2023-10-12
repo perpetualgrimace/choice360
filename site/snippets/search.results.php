@@ -1,4 +1,4 @@
-<?
+<?php
   // check for optional variables passed from template
   if(isset($layout)): $layout = $layout; else: $layout = 'g-8'; endif;
 
@@ -9,36 +9,39 @@
 ?>
 
 <section class="section">
-  <div class="columns<? if($results->count() == 0): ?> content u-left--center<? else: ?> u-left<? endif ?>">
+  <div class="columns<?php if($results->count() == 0): ?> content u-left--center<?php else: ?> u-left<?php endif ?>">
     <article class="column <?= $layout ?>">
 
 
       <!-- if results are found -->
-      <? if($results->count() != 0): ?>
+      <?php if($results->count() != 0): ?>
 
-        <h2>Your search for &lsquo;<?= $query ?>&rsquo; returned <?= $results->count() ?> page<? if($results->count() > 1): echo 's'; endif ?>:</h2>
+        <h2>Your search for &lsquo;<?= $query ?>&rsquo; returned <?= $results->count() ?> page<?php if($results->count() > 1): echo 's'; endif ?>:</h2>
 
         <ol class="search">
-          <? foreach($paginated as $result): ?>
+          <?php foreach($paginated as $result): ?>
           <li class="search__item">
             <h3 class="delta search__title">
               <a class="u-linked_heading search__link" href="<?= $result->url() ?>">
                 <?= $result->title() ?>
               </a>
             </h3>
-            <p class="search__excerpt milli"><? if ($result->description() != ''): echo $result->description(); else: echo excerpt($result->text()->kirbytext(), 500); endif ?></p>
+            <p class="search__excerpt milli"><?php if ($result->description() != ''): echo $result->description(); else: echo
+              // TODO: replace with chopper excerpt($result->text()->kirbytext(), 500);
+              $result->text()->kirbytext();
+            endif ?></p>
             <a class="search__more_link milli" href="<?= $result->url() ?>"><?= $result->uri() ?></a>
           </li>
-          <? endforeach ?>
+          <?php endforeach ?>
         </ol>
 
-        <? if ($pagination->items() > $pag_num): ?>
-          <?= pattern('pagination', array('pagination' => $pagination)) ?>
-        <? endif; ?>
+        <?php if ($pagination->pages() > $pag_num): ?>
+          <? snippet('pagination', array('pagination' => $pagination)) ?>
+        <?php endif; ?>
 
 
     <!-- if no results are found -->
-    <? elseif (($query != '') && $results->count == ''): ?>
+    <?php elseif (($query != '') && $results->count == ''): ?>
 
       <h2>Your search for '<?= $query ?>' returned 0 results.</h2>
 
@@ -52,4 +55,4 @@
 
       <p>You could try a different search or <a href="<?= $site->url() ?>">visit the home page</a>?</p>
 
-    <? endif ?>
+    <?php endif ?>

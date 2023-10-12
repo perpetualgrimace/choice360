@@ -1,4 +1,4 @@
-<?
+<?php
 
   // check for optional variables passed from template
   if(isset($alignment)): $alignment = $alignment; else: $alignment = 'u-left'; endif;
@@ -9,13 +9,13 @@
 
     <aside class="sidebar column <?= $alignment . ' ' . $layout ?>">
 
-      <? snippet('sidebar.products') ?>
+      <?php snippet('sidebar.products') ?>
 
-      <? if ($page->template() == 'products' || $page->template() == 'product.reviews'): ?>
-        <? snippet('sidebar.tablet') ?>
-      <? endif ?>
+      <?php if ($page->template() == 'products' || $page->template() == 'product.reviews'): ?>
+        <?php snippet('sidebar.tablet') ?>
+      <?php endif ?>
 
-      <? snippet('sidebar.librarianship') ?>
+      <?php snippet('sidebar.librarianship') ?>
 
     </aside>
 

@@ -1,4 +1,4 @@
-<?
+<?php
 
 // set search scope
 if (isset($search_target) && ($search_target == 'articles')): // passed from template
@@ -36,6 +36,6 @@ endif;
 
   <input class="search__input milli" type="search" name="q" placeholder="<?= $search_placeholder ?>">
 
-  <button class="search__submit milli button" type="submit"><? snippet('icon--search') ?><span class="u-screenreader">Search</span></button>
+  <button class="search__submit milli button" type="submit"><?php snippet('icon--search') ?><span class="u-screenreader">Search</span></button>
 
 </form>

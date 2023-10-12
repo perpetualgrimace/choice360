@@ -1,4 +1,4 @@
-<?
+<?php
   // check for optional variables passed from template
   if(isset($depth)): $depth = $depth; else: $depth = null; endif;
   if(isset($theme)): $theme = $theme; else: $theme = null; endif; // used in opening main block
@@ -15,8 +15,8 @@
     <div class="container u-left--center">
       <div class="columns">
       <h1 class="header__headline column g-8 g-center gamma">
-        <? if($page->headline() != ''): echo $page->headline(); else: echo $page->title(); endif; ?>
-          <? snippet('search.bar') ?>
+        <?php if($page->headline() != ''): echo $page->headline(); else: echo $page->title(); endif; ?>
+          <?php snippet('search.bar') ?>
       </h1>
     </div>
     </div>

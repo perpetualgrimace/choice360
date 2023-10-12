@@ -5,7 +5,7 @@ const sourcemaps = require("gulp-sourcemaps");
 const browserSync = require("browser-sync").create();
 
 // PATHS
-const proxy = "localhost:8888/_kirby2-starterkit-choice/";
+const proxy = "localhost:8888/_kirby3-starterkit-choice/";
 // const paths = {
 //   scss: {
 //     src: "./src/scss/*.scss",

@@ -1,4 +1,4 @@
-<?
+<?php
   // check for optional variables passed from template
   if(isset($alignment)): $alignment = $alignment; else: $alignment = 'u-left'; endif;
   if(isset($layout)): $layout = $layout; else: $layout = 'g-8'; endif;
@@ -22,44 +22,44 @@
 
       <section class="scale--lg">
 
-        <? if ($page->hero() != ''): ?>
+        <?php if ($page->hero() != ''): ?>
         <figure class="content__hero">
-          <? $img = $page->image($page->hero()) ?>
+          <?php $img = $page->image($page->hero()) ?>
           <img src="<?= thumb($img, array('width' => 760))->url() ?>" alt="" />
-          <? if ($page->hero_caption() != ''): ?>
+          <?php if ($page->hero_caption() != ''): ?>
             <figcaption><?= $page->hero_caption(); ?></figcaption>
-          <? endif; ?>
+          <?php endif; ?>
         </figure>
-        <? endif ?>
+        <?php endif ?>
 
         <?= $page->text()->kirbytext() ?>
 
         <div class="scale--normal byline">
-        <? if ($page->byline() != ''): ?>
-          <? if ($page->author_img() != ''): ?>
-            <? $img = $page->image($page->author_img()) ?>
+        <?php if ($page->byline() != ''): ?>
+          <?php if ($page->author_img() != ''): ?>
+            <?php $img = $page->image($page->author_img()) ?>
             <div class="author">
               <img class="author__img" src="<?= thumb($img, array('width' => 140, 'height' => 60, 'crop' => true))->url() ?>" alt="<?= $page->author() ?>">
             </div>
-          <? endif ?>
+          <?php endif ?>
           <div class="byline__text">
-            <h3><? if ($page->category() == 'Ask an Archivist'): ?>About the interviewer:<? else: ?>About the author:<? endif ?></h3>
+            <h3><?php if ($page->category() == 'Ask an Archivist'): ?>About the interviewer:<?php else: ?>About the author:<?php endif ?></h3>
             <?= $page->byline()->kt() ?>
           </div>
         </div>
-        <? endif ?>
+        <?php endif ?>
 
-        <? if ($page->references() != ''): ?>
+        <?php if ($page->references() != ''): ?>
           <h3>References:</h3>
           <div class="scale--normal">
             <?= $page->references()->kt() ?>
           </div>
-        <? endif; ?>
+        <?php endif; ?>
 
-        <? if ($page->footnote() != ''): ?>
+        <?php if ($page->footnote() != ''): ?>
           <div class="scale--normal">
             <?= $page->footnote()->kt() ?>
           </div>
-        <? endif; ?>
+        <?php endif; ?>
 
       </section>

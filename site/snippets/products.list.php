@@ -1,4 +1,4 @@
-<?
+<?php
   // check for optional variables passed from template
   if(isset($alignment)): $alignment = $alignment; else: $alignment = 'u-left'; endif;
 
@@ -11,7 +11,7 @@
 <div class="columns scale--normal u-no_margin">
   <div class="column">
 
-    <? foreach ($products as $product):
+    <?php foreach ($products as $product):
       $productText = $page->$product()->kt();
       $productImgTitle = $product . '_img';
     ?>
@@ -19,26 +19,26 @@
       <div class="g-vcenter columns">
 
         <!-- straight ahead image -->
-        <? if ($product == 'cards' || $product == 'acrl'): ?>
+        <?php if ($product == 'cards' || $product == 'acrl'): ?>
           <div class="column g-4">
             <img src='<?= $page->image($page->$productImgTitle())->url() ?>' alt="">
           </div>
 
 
         <!-- perspective image -->
-        <? else:
+        <?php else:
           // to shadow or not to shadow
           if ($product == 'magazine') { $shadow = FALSE; } else { $shadow = TRUE; }
         ?>
           <div class="column g-4">
-            <?= pattern('perspective', [
+            <? snippet('perspective', [
               'src' => $page->image($page->$productImgTitle()),
               'shadow' => $shadow
             ]) ?>
           </div>
 
 
-        <? endif ?>
+        <?php endif ?>
 
         <!-- caption -->
           <div class="column g-8">
@@ -47,7 +47,7 @@
 
         </div><!-- .columns -->
 
-    <? endforeach ?>
+    <?php endforeach ?>
 
   </div>
 </div>

@@ -1,4 +1,4 @@
-<?
+<?php
   // check for optional variables passed from template
   if(isset($depth)): $depth = $depth; else: $depth = 'u-back'; endif;
   if(isset($theme)): $theme = $theme; else: $theme = 't-dark'; endif;
@@ -16,9 +16,9 @@
         <h2 class="delta">Follow Choice</h2>
 
         <ul class="inline_list">
-          <li><a class="milli" href="http://facebook.com/<?= $pages->find('contact')->facebook() ?>"><? snippet('icon--facebook') ?> Facebook</a></li>
-          <li><a class="milli" href="http://twitter.com/<?= $pages->find('contact')->twitter() ?>"><? snippet('icon--twitter') ?> Twitter</a></li>
-          <li><a class="milli" href="https://youtube.com/channel/UC4AQ1G-u32Y9OX5hRzxdXrQ/<?= $pages->find('contact')->youtube() ?>"><? snippet('icon--youtube') ?> YouTube</a></li>
+          <li><a class="milli" href="http://facebook.com/<?= $pages->find('contact')->facebook() ?>"><?php snippet('icon--facebook') ?> Facebook</a></li>
+          <li><a class="milli" href="http://twitter.com/<?= $pages->find('contact')->twitter() ?>"><?php snippet('icon--twitter') ?> Twitter</a></li>
+          <li><a class="milli" href="https://youtube.com/channel/UC4AQ1G-u32Y9OX5hRzxdXrQ/<?= $pages->find('contact')->youtube() ?>"><?php snippet('icon--youtube') ?> YouTube</a></li>
         </ul>
 
       </div>
@@ -27,15 +27,15 @@
         <h2 class="delta">Site map</h2>
 
         <ul class="sitemap">
-          <? foreach($pages->visible() as $page): ?>
-            <? if($page->depth() == 1): ?>
+          <?php foreach($pages->published() as $page): ?>
+            <?php if($page->depth() == 1): ?>
               <li class="sitemap__item">
                 <a class="sitemap__link milli" href="<?= $site->url() . '/' . $page->slug() ?>">
                   <?= $page->title() ?>
                 </a>
               </li>
-            <? endif ?>
-          <? endforeach ?>
+            <?php endif ?>
+          <?php endforeach ?>
 
           <li class="sitemap__item">
             <a class="sitemap__link milli" href="<?= $site->url() . '/copyright' ?>">Copyright</a>
@@ -52,7 +52,7 @@
 
         <h2 class="delta">Search</h2>
 
-        <? snippet('search.bar') ?>
+        <?php snippet('search.bar') ?>
 
       </div>
     </div>
@@ -76,7 +76,7 @@
 
     <div class="columns copyright milli">
       <p>Choice is a publishing unit of the <abbr title="Association of College and Research Libraries">ACRL</abbr></p>
-      <p><?= kirbytext($site->copyright()) ?></p>
+      <p><?= $site->copyright()->kirbytext() ?></p>
     </div>
   </div>
 </footer>

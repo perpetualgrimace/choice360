@@ -1,4 +1,4 @@
-<?
+<?php
 
   // check for optional variables passed from template
   if(isset($alignment)): $alignment = $alignment; else: $alignment = 'u-left'; endif;
@@ -25,56 +25,56 @@
 ?>
 
 
-<section class="section<? if ($page->template() == 'articles'): ?> section--small_padding<? endif ?>">
+<section class="section<?php if ($page->template() == 'articles'): ?> section--small_padding<?php endif ?>">
   <div class="columns g-fullheight <?= $alignment ?>">
-    <div class="column content <? if ($page->template() != 'articles'): ?> article-border<? endif ?> <?= $layout ?>">
+    <div class="column content <?php if ($page->template() != 'articles'): ?> article-border<?php endif ?> <?= $layout ?>">
 
       <!-- blog front page heading -->
-      <? if ($page->template() == 'blogs'): ?>
+      <?php if ($page->template() == 'blogs'): ?>
         <h2>Articles</h2>
-      <? endif ?>
+      <?php endif ?>
 
       <!-- check for a search query and display result count in a heading -->
-      <? if (isset($query)): ?>
+      <?php if (isset($query)): ?>
 
-        <? if ($results->count() > 0): ?>
-          <h2>Your search for &lsquo;<?= $query ?>&rsquo; returned <?= $results->count() ?> article<? if($results->count() > 1): echo 's'; endif ?>:</h2>
+        <?php if ($results->count() > 0): ?>
+          <h2>Your search for &lsquo;<?= $query ?>&rsquo; returned <?= $results->count() ?> article<?php if($results->count() > 1): echo 's'; endif ?>:</h2>
 
-        <? elseif ($results->count() == 0): ?>
+        <?php elseif ($results->count() == 0): ?>
           <h2>Your search for '<?= $query ?>' returned 0 results.</h2>
 
           <p>Try a different search or <a href="<?= $page->url() ?>">browse all articles</a>.</p>
 
-        <? endif ?>
+        <?php endif ?>
 
-      <? endif ?>
+      <?php endif ?>
 
 
       <!-- display cards -->
-      <? if ($items->count() != 0): ?>
+      <?php if ($items->count() != 0): ?>
         <div class="columns cards">
-          <? foreach ($items as $item): ?>
-            <?= pattern('card', array('item' => $item, 'layout' => $card_layout)) ?>
-          <? endforeach; ?>
+          <?php foreach ($items as $item): ?>
+            <? snippet('card', array('item' => $item, 'layout' => $card_layout)) ?>
+          <?php endforeach; ?>
         </div>
-      <? endif ?>
+      <?php endif ?>
 
 
       <!-- display pagination if necessary... -->
-      <? if (($page->template() == 'articles') && isset($pagination) && ($pagination->items() > $pag_num)): ?>
-        <?= pattern('pagination', array('pagination' => $pagination)) ?>
+      <?php if (($page->template() == 'articles') && isset($pagination) && ($pagination->pages() > $pag_num)): ?>
+        <? snippet('pagination', array('pagination' => $pagination)) ?>
 
       <!-- ...or link to more (if on the blog front page) -->
-      <? elseif($page->template() == 'blogs'): ?>
+      <?php elseif($page->template() == 'blogs'): ?>
         <p class="more_cards">
           <a href="<?= $page->url() ?>/articles">View all articles</a>
         </p>
 
-      <? endif; ?>
+      <?php endif; ?>
 
     </div>
 <!-- close out the container if using the articles template -->
-<? if($page->template() == 'articles'): ?>
+<?php if($page->template() == 'articles'): ?>
   </div>
 </section>
-<? endif ?>
+<?php endif ?>

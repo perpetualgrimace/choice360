@@ -12,13 +12,13 @@
 
 
   <!-- Search engines -->
-  <meta name="description" content="<?
+  <meta name="description" content="<?php
   if($page->description() != ''):
     echo $page->description();
   else:
     echo $site->description();
   endif ?>">
-  <meta name="keywords" content="<?
+  <meta name="keywords" content="<?php
   if($page->tags() != ''):
     echo $page->tags();
   else:
@@ -29,13 +29,13 @@
   <!-- Update your html tag to include the itemscope and itemtype attributes. -->
   <!-- html itemscope itemtype="http://schema.org/{CONTENT_TYPE}" -->
   <meta itemprop="name" content="<?= $page->title() ?>">
-  <meta itemprop="description" content="<?
+  <meta itemprop="description" content="<?php
   if($page->description() != ''):
     echo $page->description();
   else:
     echo $site->description();
   endif ?>">
-  <meta itemprop="image" content="<?
+  <meta itemprop="image" content="<?php
   if($page->image('thumb@2x.png')):
     echo $page->url(); echo '/thumb@2x.png';
   elseif($page->image('thumb@2x.jpg')):
@@ -50,13 +50,14 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@<?= $pages->find('contact')->twitter() ?>">
   <meta name="twitter:title" content="<?= $page->title() ?>">
-  <meta name="twitter:description" content="<?
+  <meta name="twitter:description" content="<?php
   if($page->description() != ''):
     echo $page->description();
   else:
-    echo excerpt($page->text(), 150);
+    // TODO: replace with chopper echo excerpt($page->text(), 150);
+    echo $page->text();
   endif ?>">
-  <meta name="twitter:image:src" content="<?
+  <meta name="twitter:image:src" content="<?php
   if($page->image('social.png')):
     echo $page->url(); echo '/social.png';
   elseif($page->image('social.jpg')):
@@ -71,14 +72,15 @@
   <!-- Open Graph General (Facebook & Pinterest) -->
   <meta property="og:url" content="<?= $page->url() ?>">
   <meta property="og:title" content="<?= $page->title() ?>">
-  <meta property="og:description" content="<?
+  <meta property="og:description" content="<?php
   if($page->description() != ''):
     echo $page->description();
   else:
-    echo excerpt($page->text(), 150);
+    // TODO: replace with chopper echo excerpt($page->text(), 150);
+    echo $page->text();
   endif ?>">
   <meta property="og:site_name" content="<?= $site->title() ?>">
-  <meta property="og:image" content="<?
+  <meta property="og:image" content="<?php
   if($page->image('social.png')):
     echo $page->url(); echo '/social.png';
   elseif($page->image('social.jpg')):

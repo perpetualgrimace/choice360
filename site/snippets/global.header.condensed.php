@@ -1,4 +1,4 @@
-<?
+<?php
   // check for optional variables passed from template
   if(isset($depth)): $depth = $depth; else: $depth = null; endif;
   if(isset($theme)): $theme = $theme; else: $theme = null; endif; // used in opening main block
@@ -17,17 +17,17 @@
   <nav class="breadcrumbs" role="navigation">
     <ul class="breadcrumbs__list container inline_list">
 
-    <? foreach($site->breadcrumb() as $crumb): ?>
-      <? if($crumb->uri() != 'home'): ?>
+    <?php foreach($site->breadcrumb() as $crumb): ?>
+      <?php if($crumb->uri() != 'home'): ?>
 
       <li class="breadcrumbs__item">
-        <a class="breadcrumbs__link milli<? e(($crumb->slug() == $page->slug()), ' is-active_pg') ?>" href="<?= $crumb->url() ?>">
+        <a class="breadcrumbs__link milli<?php e(($crumb->slug() == $page->slug()), ' is-active_pg') ?>" href="<?= $crumb->url() ?>">
           <?= $crumb->title() ?>
         </a>
       </li>
 
-      <? endif ?>
-    <? endforeach ?>
+      <?php endif ?>
+    <?php endforeach ?>
 
     </ul>
   </nav>

@@ -278,7 +278,7 @@ class MarkdownField extends InputField
 
         /*
             FIX: Prevent Google Chrome from trying to validate the underlying
-            invisible textarea. the Panel will handle this instead.
+            unlisted textarea. the Panel will handle this instead.
 
             See: https://github.com/JonasDoebertin/kirby-visual-markdown/issues/42
          */

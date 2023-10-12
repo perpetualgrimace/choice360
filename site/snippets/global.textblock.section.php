@@ -1,4 +1,4 @@
-<?
+<?php
   // check for optional variables passed from template
   if(isset($field)): $target = $page->$field(); else: $target = $page->text(); endif;
   if(isset($alignment)): $alignment = $alignment; else: $alignment = 'u-left'; endif;

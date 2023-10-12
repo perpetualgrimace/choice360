@@ -1,15 +1,15 @@
-<?
+<?php
 
-  $webinars = $pages->find('librarianship/webinars')->children()->visible();
+  $webinars = $pages->find('librarianship/webinars')->children()->published();
 
   $upcoming = $webinars->filterBy('date', '>', time());
   $archived = $webinars->filterBy('date', '<', time());
 
   // page template
-  if($page->date() > time()):
+  if($page->date()->toDate() > time()):
   $category = 'upcoming webinar';
 
-  elseif($page->date() < time()):
+  elseif($page->date()->toDate() < time()):
   $category = 'archived webinar';
 
   endif;
@@ -24,25 +24,25 @@
   <div class="columns u-left">
     <div class="column">
 
-        <? if (($category == 'upcoming webinar') && ($upcoming_items->count() > 1)): ?>
+        <?php if (($category == 'upcoming webinar') && ($upcoming_items->count() > 1)): ?>
           <h2>More upcoming webinars:</h2>
 
           <div class="columns cards">
-            <? foreach ($upcoming_items as $item): ?>
-              <?= pattern('card', array('item' => $item)) ?>
-            <? endforeach; ?>
+            <?php foreach ($upcoming_items as $item): ?>
+              <? snippet('card', array('item' => $item)) ?>
+            <?php endforeach; ?>
           </div>
 
-        <? else: ?>
+        <?php else: ?>
           <h2>More from the archive:</h2>
 
           <div class="columns cards">
-            <? foreach ($archived_items as $item): ?>
-              <?= pattern('card', array('item' => $item)) ?>
-            <? endforeach; ?>
+            <?php foreach ($archived_items as $item): ?>
+              <? snippet('card', array('item' => $item)) ?>
+            <?php endforeach; ?>
           </div>
 
-        <? endif ?>
+        <?php endif ?>
 
 
     </div>

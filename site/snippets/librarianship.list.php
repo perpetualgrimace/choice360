@@ -1,4 +1,4 @@
-<?
+<?php
   // check for optional variables passed from template
   if(isset($alignment)): $alignment = $alignment; else: $alignment = 'u-left'; endif;
 ?>
@@ -21,7 +21,7 @@
 
     <h3>Outstanding Academic Titles</h3>
     <?= $page->oat()->kirbytext() ?>
-	
+
 	<h3>Choice Research</h3>
 	<?= $page->whitepaper()->kirbytext() ?>
 

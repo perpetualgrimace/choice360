@@ -1,7 +1,7 @@
-<?
+<?php
 
-  $products = $pages->find('products')->children()->visible();
-  $libs = $pages->find('librarianship')->children()->visible();
+  $products = $pages->find('products')->children()->published();
+  $libs = $pages->find('librarianship')->children()->published();
 
   // check for optional variables passed from template
   if(isset($alignment)): $alignment = $alignment; else: $alignment = 'u-left'; endif;
@@ -12,9 +12,9 @@
 
     <aside class="sidebar column <?= $alignment . ' ' . $layout ?>">
 
-      <? snippet('sidebar.librarianship') ?>
+      <?php snippet('sidebar.librarianship') ?>
 
-      <? snippet('sidebar.products') ?>
+      <?php snippet('sidebar.products') ?>
 
     </aside>
 

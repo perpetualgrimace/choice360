@@ -1,4 +1,4 @@
-<?
+<?php
 
   // check for optional variables passed from template
   if(isset($alignment)): $alignment = $alignment; else: $alignment = 'u-left'; endif;
@@ -28,47 +28,47 @@
     <div class="column <?= $layout ?>">
 
       <!-- webinars front page - archive heading -->
-      <? if ($page->template() == 'webinars'): ?>
+      <?php if ($page->template() == 'webinars'): ?>
         <h2>From the archive:</h2>
-      <? endif ?>
+      <?php endif ?>
 
       <!-- check for a search query and display result count in a heading -->
-      <? if(isset($query)): ?>
+      <?php if(isset($query)): ?>
 
-        <? if ($results->count() > 0): ?>
-          <h2>Your search for &lsquo;<?= $query ?>&rsquo; returned <?= $results->count() ?> webinar<? if($results->count() > 1): echo 's'; endif ?>:</h2>
+        <?php if ($results->count() > 0): ?>
+          <h2>Your search for &lsquo;<?= $query ?>&rsquo; returned <?= $results->count() ?> webinar<?php if($results->count() > 1): echo 's'; endif ?>:</h2>
 
-        <? elseif ($results->count() == 0): ?>
+        <?php elseif ($results->count() == 0): ?>
           <h2>Your search for '<?= $query ?>' returned 0 results.</h2>
 
           <p>Try a different search or <a href="<?= $page->url() ?>">browse archived webinars</a>.</p>
 
-        <? endif ?>
+        <?php endif ?>
 
-      <? endif ?>
+      <?php endif ?>
 
 
       <!-- display cards -->
-      <? if ($items->count() != 0): ?>
+      <?php if ($items->count() != 0): ?>
         <div class="columns cards">
-          <? foreach ($items as $item): ?>
-            <?= pattern('card', array('item' => $item)) ?>
-          <? endforeach; ?>
+          <?php foreach ($items as $item): ?>
+            <? snippet('card', array('item' => $item)) ?>
+          <?php endforeach; ?>
         </div>
-      <? endif ?>
+      <?php endif ?>
 
 
       <!-- display pagination if necessary... -->
-      <? if (($page->template() == 'webinars.archive') && isset($pagination) && ($pagination->items() > $pag_num)): ?>
-        <?= pattern('pagination', array('pagination' => $pagination)) ?>
+      <?php if (($page->template() == 'webinars.archive') && isset($pagination) && ($pagination->pages() > $pag_num)): ?>
+        <? snippet('pagination', array('pagination' => $pagination)) ?>
 
       <!-- ...or link to more (if on the webinars front page) -->
-      <? elseif($page->template() == 'webinars'): ?>
+      <?php elseif($page->template() == 'webinars'): ?>
         <p class="more_cards">
           <a href="<?= $page->url() ?>/archive">View all webinars</a>
         </p>
 
-      <? endif; ?>
+      <?php endif; ?>
 
 
     </div>

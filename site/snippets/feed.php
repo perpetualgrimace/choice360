@@ -1,4 +1,4 @@
-<?
+<?php
 
 // defaults
 if(!isset($descriptionExcerpt)) $descriptionExcerpt = true;
@@ -21,27 +21,27 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
     <lastBuildDate><?= (isset($modified)) ? date('r', $modified) : date('r', $site->modified()) ?></lastBuildDate>
     <atom:link href="<?= xml(thisURL()) ?>" rel="self" type="application/rss+xml" />
 
-    <? if($page->description() || isset($description)): ?>
+    <?php if($page->description() || isset($description)): ?>
     <description><?= (isset($description)) ? xml($description) : xml($page->description()) ?></description>
-    <? endif ?>
+    <?php endif ?>
 
-    <? foreach($items as $item): ?>
+    <?php foreach($items as $item): ?>
     <item>
       <title><?= xml($item->title()) ?></title>
       <link><?= xml($item->url()) ?></link>
       <guid><?= xml($item->url()) ?></guid>
-      <pubDate><?= ($item->date()) ? date('r', $item->date()) : date('r', $item->modified()) ?></pubDate>
+      <pubDate><?= ($item->date()->toDate()) ? date('r', $item->date()->toDate()) : date('r', $item->modified()) ?></pubDate>
 
-      <? if(isset($descriptionField)): ?>
-        <? if($item->description() != ''): ?>
+      <?php if(isset($descriptionField)): ?>
+        <?php if($item->description() != ''): ?>
         <description><![CDATA[<?= $item->description() ?>]]></description>
-        <? else: ?>
-        <description><![CDATA[<?= excerpt($item->text('150')) ?>]]></description>
-        <? endif ?>
-      <? endif ?>
+        <?php else: ?>
+        <description><![CDATA[<?php // TODO: replace with chopper = excerpt($item->text('150')) ?>]]></description>
+        <?php endif ?>
+      <?php endif ?>
 
     </item>
-    <? endforeach ?>
+    <?php endforeach ?>
 
   </channel>
 </rss>

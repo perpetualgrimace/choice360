@@ -1,16 +1,27 @@
-<?php snippet('global.head') ?>
+<?php
+  snippet('global.head');
+  snippet('global.menu', ['depth' => 'u-front']);
 
-  <main class="main" role="main">
-    <header class="wrap">
-      <h1><?= $page->title()->html() ?></h1>
-      <div class="intro text">
-        <?= $page->intro()->kirbytext() ?>
-      </div>
-      <hr />
-    </header>
+  snippet('home.header');
 
-    <div class="text wrap">
-      <?= $page->text()->kirbytext() ?>
-    </div>
+  snippet('global.section', [
+    'field' => 'intro',
+    'alignment' => 'u-left--center',
+    'layout' => 'g-10 g-center scale--lg'
+  ]);
 
-  </main>
+  snippet('home.reviews');
+  snippet('global.section', [
+    'field' => 'librarianship',
+    'alignment' => 'u-left--center',
+    'layout' => 'g-10 g-center scale--lg'
+  ]);
+  snippet('home.magazine');
+  snippet('home.ccadvisor');
+  snippet('home.rcl');
+  snippet('home.blog');
+
+  snippet('global.cta');
+
+  snippet('global.footer');
+?>

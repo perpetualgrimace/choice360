@@ -1,4 +1,4 @@
-<?
+<?php
 
   // title
   if ($affiliate->title() != "") {
@@ -40,32 +40,32 @@
 <li class="affiliate-item columns">
 
   <!-- main column -->
-  <span class="affiliate-content column<? e($imgURL != null, " g-10") ?>">
+  <span class="affiliate-content column<?php e($imgURL != null, " g-10") ?>">
 
     <span class="affiliate-title heading delta"><?= $title ?></span>
 
-    <? if($meta != null): ?>
+    <?php if($meta != null): ?>
       <span class="affiliate-meta"><?= $meta ?></span>
-    <? endif ?>
+    <?php endif ?>
 
-    <? if($choiceMeta != null): ?>
+    <?php if($choiceMeta != null): ?>
       <span class="affiliate-choice-meta epsilon"><?= $choiceMeta ?></span>
-    <? endif ?>
+    <?php endif ?>
 
-    <? if($link != null): ?>
+    <?php if($link != null): ?>
       <a class="affiliate-link milli" href="<?= $link ?>">
         View on Amazon
       </a>
-    <? else: ?>
+    <?php else: ?>
       <span class="affiliate-link milli">Missing IBN or Seller ID</span>
-    <? endif ?>
+    <?php endif ?>
   </span>
 
   <!-- optional img -->
-  <? if($imgURL != null): ?>
+  <?php if($imgURL != null): ?>
     <div class="affiliate-figure column g-2">
       <img className="affiliate-img" src="<?= $page->image($imgURL)->url() ?>" />
     </div>
-  <? endif ?>
+  <?php endif ?>
 
 </li>
