@@ -1,7 +1,9 @@
 <?php
   // main menu items
-  // $items = $pages->listed();
-  $items = $site->index()->listed();
+  $items = $pages->listed();
+
+  // text that applies next to menu icon
+  $menutext = 'menu';
 
   // check for optional variables passed from template
   if(isset($depth)): $depth = $depth; else: $depth = 'u-front'; endif;
@@ -10,7 +12,7 @@
 
 ?>
 
-<div class="nav_container <?= $depth || "u-front" . ' ' . $theme ?>">
+<div class="nav_container <?= $depth . ' ' . $theme ?>">
   <nav class="nav_main container" role="navigation">
 
     <!-- logo -->
@@ -29,7 +31,7 @@
         <span class="nav_hamburger__bun nav_hamburger__bun--patty"></span>
         <span class="nav_hamburger__bun nav_hamburger__bun--bottom"></span>
       </div>
-      <span class="nav_toggle__text delta">menu</span>
+      <span class="nav_toggle__text delta"><?= $menutext ?></span>
     </a>
 
     <!-- main nav -->
@@ -39,7 +41,7 @@
 
       <li class="nav_main__item<?php if (($item->hasChildren()) && (in_array($item->uri(), $site->dropdownable()->yaml()))): echo ' has-dropdown'; endif; ?>" role="menuitem">
         <a <?php if($items->first()->title() == $item->title()): echo 'id="nav__menu " '; endif ?>class="nav_main__link <?php e($item->isOpen(), 'is-active_pg') ?>" href="<?php if($item->isOpen() && ($page->slug() == $item->slug())): echo '#top'; else: echo $item->url(); endif ?>">
-          <?php /* = $item->title(); if(strtolower($item->title()) == 'about'): echo '<span class="u-screenreader"> ' . $site->title() . '</span>'; endif; */ ?>
+          <?= $item->title(); if(strtolower($item->title()) == 'about'): echo '<span class="u-screenreader"> ' . $site->title() . '</span>'; endif; ?>
         </a>
 
         <!-- dropdown, checked against $site->dropdownable() list -->
@@ -49,10 +51,10 @@
         <!-- dropdown list -->
         <ul class="nav_dropdown__list" role="group" aria-label="submenu">
 
-        <?php foreach($item->children()->listed() as $child): ?>
+        <?php foreach($item->children()->published() as $child): ?>
           <li class="nav_dropdown__item" role="menuitem">
             <a class="nav_dropdown__link<?php e($child->isOpen(), ' is-active_pg') ?>" href="<?php if($child->isOpen() && ($page->slug() == $child->slug())): echo '#top'; else: echo $child->url(); endif ?>" role="menuitem" aria-haspopup="true">
-              <?php //= $child->title() ?>
+              <?= $child->title() ?>
             </a>
           </li>
 
@@ -63,10 +65,10 @@
 
           <li class="nav_nested">
             <ul class="nav_nested__list" role="group" aria-label="submenu">
-              <?php foreach($child->children()->listed() as $grandchild): ?>
+              <?php foreach($child->children()->published() as $grandchild): ?>
               <li class="nav_nested__item" role="menuitem">
                 <a class="nav_nested__link<?php e($grandchild->isOpen(), ' is-active_pg') ?>" href="<?php if($grandchild->isOpen() && ($page->slug() == $grandchild->slug())): echo '#top'; else: echo $grandchild->url(); endif ?>">
-                  <span class="u-screenreader">Subcategory </span><?php //= $grandchild->title() ?>
+                  <span class="u-screenreader">Subcategory </span><?= $grandchild->title() ?>
                 </a>
               </li>
               <?php endforeach ?>
