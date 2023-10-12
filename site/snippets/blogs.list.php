@@ -54,7 +54,7 @@
       <?php if ($items->count() != 0): ?>
         <div class="columns cards">
           <?php foreach ($items as $item): ?>
-            <? snippet('card', array('item' => $item, 'layout' => $card_layout)) ?>
+            <?php snippet('card', array('item' => $item, 'layout' => $card_layout)) ?>
           <?php endforeach; ?>
         </div>
       <?php endif ?>
@@ -62,7 +62,7 @@
 
       <!-- display pagination if necessary... -->
       <?php if (($page->template() == 'articles') && isset($pagination) && ($pagination->pages() > $pag_num)): ?>
-        <? snippet('pagination', array('pagination' => $pagination)) ?>
+        <?php snippet('pagination', array('pagination' => $pagination)) ?>
 
       <!-- ...or link to more (if on the blog front page) -->
       <?php elseif($page->template() == 'blogs'): ?>

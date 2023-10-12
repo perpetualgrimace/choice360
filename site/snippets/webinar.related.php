@@ -29,7 +29,7 @@
 
           <div class="columns cards">
             <?php foreach ($upcoming_items as $item): ?>
-              <? snippet('card', array('item' => $item)) ?>
+              <?php snippet('card', array('item' => $item)) ?>
             <?php endforeach; ?>
           </div>
 
@@ -38,7 +38,7 @@
 
           <div class="columns cards">
             <?php foreach ($archived_items as $item): ?>
-              <? snippet('card', array('item' => $item)) ?>
+              <?php snippet('card', array('item' => $item)) ?>
             <?php endforeach; ?>
           </div>
 

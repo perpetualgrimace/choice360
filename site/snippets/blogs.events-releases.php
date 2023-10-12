@@ -18,7 +18,7 @@
 
       <div class="columns cards">
         <?php foreach ($events->published() as $item): ?>
-          <? snippet('card', array('item' => $item, 'layout' => '')) ?>
+          <?php snippet('card', array('item' => $item, 'layout' => '')) ?>
         <?php endforeach; ?>
       </div>
 

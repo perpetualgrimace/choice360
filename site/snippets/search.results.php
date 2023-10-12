@@ -36,7 +36,7 @@
         </ol>
 
         <?php if ($pagination->pages() > $pag_num): ?>
-          <? snippet('pagination', array('pagination' => $pagination)) ?>
+          <?php snippet('pagination', array('pagination' => $pagination)) ?>
         <?php endif; ?>
 
 

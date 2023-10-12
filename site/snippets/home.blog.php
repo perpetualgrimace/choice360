@@ -17,7 +17,7 @@
 
       <div class="columns cards u-left">
         <?php foreach ($items as $item): ?>
-          <? snippet('card', array('item' => $item)) ?>
+          <?php snippet('card', array('item' => $item)) ?>
         <?php endforeach; ?>
       </div>
 

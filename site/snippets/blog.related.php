@@ -24,7 +24,7 @@
             <?php if ($template == 'press release'): $layout = 'g-6'; else: $layout = 'g-4'; endif; ?>
 
             <?php foreach ($related_items->limit($limit) as $item): ?>
-              <? snippet('card', array('item' => $item, 'layout' => $layout)) ?>
+              <?php snippet('card', array('item' => $item, 'layout' => $layout)) ?>
             <?php endforeach; ?>
           </div>
 
@@ -33,7 +33,7 @@
 
           <div class="columns cards">
             <?php foreach ($articles->limit($limit) as $item): ?>
-              <? snippet('card', array('item' => $item, 'layout' => 'g-4')) ?>
+              <?php snippet('card', array('item' => $item, 'layout' => 'g-4')) ?>
             <?php endforeach; ?>
           </div>
 

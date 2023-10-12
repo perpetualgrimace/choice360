@@ -1,5 +1,7 @@
 <?php
 
+  if(isset($layout)): $layout = $layout; else: $layout = "g-6"; endif;
+
   // determine card type
   if(($item->template() == 'webinar') && ($item->date()->toDate() > time())):
   $category = 'upcoming webinar';
@@ -33,7 +35,7 @@
     <img class="card__img" src="<?php
     if ($item->thumb() != ''):
       $img = $item->image($item->thumb());
-      echo thumb($img, array('width' => 100, 'height' => 66, 'crop' => true))->url();
+      // echo thumb($img, array('width' => 100, 'height' => 66, 'crop' => true))->url();
 
     elseif ($item->youtube_id() != ''):
       echo 'http://img.youtube.com/vi/' . $item->youtube_id() . '/1.jpg';

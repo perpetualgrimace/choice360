@@ -16,7 +16,7 @@
 
           <div class="columns cards">
             <?php foreach ($related_items->limit($limit) as $item): ?>
-              <? snippet('card', array('item' => $item)) ?>
+              <?php snippet('card', array('item' => $item)) ?>
             <?php endforeach; ?>
           </div>
 
@@ -25,7 +25,7 @@
 
           <div class="columns cards">
             <?php foreach ($essays->limit($limit) as $item): ?>
-              <? snippet('card', array('item' => $item)) ?>
+              <?php snippet('card', array('item' => $item)) ?>
             <?php endforeach; ?>
           </div>
 

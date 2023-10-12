@@ -13,7 +13,7 @@
       <div class="columns scale--normal g-vcenter">
 
         <div class="column g-7">
-            <? snippet('perspective', [
+            <?php snippet('perspective', [
               'src' => $page->image($page->product_img()),
               'shadow' => TRUE
             ]) ?>

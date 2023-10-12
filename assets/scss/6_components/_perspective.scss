@@ -1,6 +1,5 @@
 // perspective
 .perspective {
-
   @include bp-max(m2) {
     &__img {
       width: 28rem;
@@ -37,7 +36,6 @@
     }
   }
 }
-
 
 // three items stacked horizontally
 // introduced positioning and interation issues

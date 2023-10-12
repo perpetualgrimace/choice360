@@ -24,10 +24,13 @@
 @import "5_layout/breadcrumbs";
 @import "5_layout/tables";
 
-// who's got time for a pattern library?
-@import "6_non-pattern-library-components/affiliate";
-
-@import "../../site/patterns/components";
+@import "6_components/affiliate";
+@import "6_components/big_number";
+@import "6_components/button";
+@import "6_components/figure";
+@import "6_components/pagination";
+@import "6_components/perspective";
+@import "6_components/card";
 
 @import "7_pages/home";
 @import "7_pages/contact";

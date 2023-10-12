@@ -31,7 +31,7 @@
           if ($product == 'magazine') { $shadow = FALSE; } else { $shadow = TRUE; }
         ?>
           <div class="column g-4">
-            <? snippet('perspective', [
+            <?php snippet('perspective', [
               'src' => $page->image($page->$productImgTitle()),
               'shadow' => $shadow
             ]) ?>
