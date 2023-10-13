@@ -1,13 +1,12 @@
 {
-  "name": "gulp-config",
-  "version": "1.0.0",
-  "description": "Default Gulp configuration with Browser Sync",
+  "name": "choice-website",
+  "version": "2.0.0",
+  "description": "Website built for Choice Reviews by Berman Advertising.",
   "main": "index.php",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "gulp"
   },
-  "author": "",
+  "author": "James Ferrell",
   "license": "ISC",
   "browserslist": [
     "defaults"
