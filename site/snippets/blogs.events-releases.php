@@ -29,16 +29,12 @@
 
       <h2>Press releases</h2>
 
-      <span>
-
-		<a href="blog/articles/category:Press%20Releases">
-		<img height="66" src="blog/archive_color.png">
-		</img></a>
-	  </span>
-
+      <div class="columns cards">
+        <?php foreach ($releases->published() as $item): ?>
+          <?php snippet('card', array('item' => $item, 'layout' => '')) ?>
+        <?php endforeach; ?>
+      </div>
 
     </div>
-
-
   </div>
 </section>
