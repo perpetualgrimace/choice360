@@ -1,4 +1,9 @@
-<?php if(isset($shadow)): $shadow = $shadow; else: $shadow = TRUE; endif; ?>
+<?php
+
+if(isset($shadow)): $shadow = $shadow; else: $shadow = TRUE; endif;
+if(isset($link)): $link = $link; else: $link = FALSE; endif;
+
+?>
 
 <figure class="perspective u-center">
   <?php if ($link != ''): ?>

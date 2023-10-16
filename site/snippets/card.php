@@ -34,7 +34,7 @@
   <a class="card__img_link" href="<?= $item->url() ?>" tabindex="-1">
     <img class="card__img" src="<?php
     if ($item->thumb() != ''):
-      $img = $item->image($item->thumb());
+      $img = $item->hero()->thumb(array('width' => 100, 'height' => 66, 'crop' => true));
       // echo thumb($img, array('width' => 100, 'height' => 66, 'crop' => true))->url();
 
     elseif ($item->youtube_id() != ''):
@@ -42,7 +42,7 @@
 
     elseif ($item->hero() != ''):
       $img = $item->image($item->hero());
-      echo thumb($img, array('width' => 100, 'height' => 66, 'crop' => true))->url();
+      echo $img->thumb(array('width' => 100, 'height' => 66, 'crop' => true))->url();
 
     elseif ($item->parent()->file('placeholder.png')):
       echo $item->parent()->file('placeholder.png')->url();

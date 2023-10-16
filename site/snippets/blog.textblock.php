@@ -25,7 +25,7 @@
         <?php if ($page->hero() != ''): ?>
           <figure class="content__hero">
             <?php $img = $page->image($page->hero()) ?>
-            <img src="<?= thumb($img, array('width' => 760))->url() ?>" alt="" />
+            <img src="<?= $img->thumb(array('width' => 760))->url() ?>" alt="" />
             <?php if ($page->hero_caption() != ''): ?>
               <figcaption><?= $page->hero_caption(); ?></figcaption>
             <?php endif; ?>
@@ -47,7 +47,7 @@
             <?php if ($page->author_img() != ''): ?>
               <?php $img = $page->image($page->author_img()) ?>
               <div class="author">
-                <img class="author__img" src="<?= thumb($img, array('width' => 140, 'height' => 140, 'crop' => true))->url() ?>" alt="<?= $page->author() ?>">
+                <img class="author__img" src="<?= $img->thumb(array('width' => 140, 'height' => 140, 'crop' => true))->url() ?>" alt="<?= $page->author() ?>">
               </div>
             <?php endif ?>
             <div class="byline__text">

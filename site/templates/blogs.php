@@ -3,8 +3,9 @@
 $blogs = $page->children()->published();
 
 $articles = $blogs->filterBy('template', 'article');
-$events   = $blogs->filterBy('template', 'event')->sortby('date')->filterBy('date', '>', time());
-$releases = $blogs->filterBy('template', 'release')->sortby('date', 'desc');
+// $events = $blogs->filterBy('template', 'event')->sortBy('date')->filterBy('date', '>', time());
+$events = $blogs->filterBy('template', 'event')->sortBy('date', 'desc');
+$releases = $blogs->filterBy('template', 'release')->sortBy('date', 'desc');
 
 $categories = $articles->pluck('category', ',', true);
 
