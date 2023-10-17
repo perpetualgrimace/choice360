@@ -26,9 +26,7 @@
                 <?= $result->title() ?>
               </a>
             </h3>
-            <p class="search__excerpt milli"><?php if ($result->description() != ''): echo $result->description(); else: echo
-              // TODO: replace with chopper excerpt($result->text()->kirbytext(), 500);
-              $result->text()->kirbytext();
+            <p class="search__excerpt milli"><?php if ($result->description() != ''): echo $result->description(); else: echo $result->text()->kirbytext()->chopper(500);
             endif ?></p>
             <a class="search__more_link milli" href="<?= $result->url() ?>"><?= $result->uri() ?></a>
           </li>

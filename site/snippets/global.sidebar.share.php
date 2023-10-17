@@ -72,8 +72,7 @@
 
           <li class="share__item">
             <a class="share__link share__link--twitter" target="_blank"
-            href="https://twitter.com/share?url=<?= $page->url() ?>&text=<?php
-            // TODO: replace with chopper = excerpt($page->title(), 60)
+            href="https://twitter.com/share?url=<?= $page->url() ?>&text=<?= $page->title()->chopper(60)
             ?>&via=<?= $pages->find('contact')->twitter()
             ?>&hashtags=<?= $hashtag ?>">
             <?php snippet('icon--twitter') ?>Twitter</a>

@@ -90,7 +90,7 @@
           <?php if($item->description() != ''): ?>
             <?= $item->description() ?>
           <?php else: ?>
-            <?php // TODO: replace with chopper = excerpt($item->text(), 25, 'words') ?>
+            <?php $item->text()->chopper(150) ?>
           <?php endif; ?>
         </span>
       <?php endif ?>

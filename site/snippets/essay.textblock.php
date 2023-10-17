@@ -33,7 +33,7 @@
 
         <h3>Introduction:</h3>
 
-        <?php // TODO: replace with chopper = excerpt($page->text(), 100, 'words')->kirbytext() ?>
+        <?= $page->text()->kirbytext()->chopper(600) ?>
 
         <?php if ($page->libguides_url() != ''): ?>
           <p><a class="button" href="<?= $page->libguides_url() ?>">View the full essay<span class="u-screenreader"> on the ala-choice libguides site</span></a></p>
