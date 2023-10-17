@@ -38,7 +38,7 @@ Error-text: Wasn’t there something you wanted to say?
 
 ----
 
-Success: 
+Success:
 
 ## Thank you for your message
 
@@ -46,7 +46,7 @@ We’ll get back to you as soon as we can.
 
 ----
 
-Fail: 
+Fail:
 
 ## Our apologies
 
@@ -118,7 +118,7 @@ Advertising: adsales@ala-choice.org
 
 ----
 
-Permissions: permissions@ala-choice.org
+ContactPermissions: permissions@ala-choice.org
 
 ----
 

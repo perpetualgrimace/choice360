@@ -44,7 +44,7 @@
 
           <dt class="contact_links__subheading heading milli">Permissions:</dt>
           <dd class="contact_links__caption milli">
-            <a class="contact_links__link" href="mailto:<?= $page->permissions() ?>" target="_blank"><?= $page->permissions() ?></a>
+            <a class="contact_links__link" href="mailto:<?= $page->contactpermissions() ?>" target="_blank"><?= $page->contactpermissions() ?></a>
           </dd>
 
           <dt class="contact_links__subheading heading milli">Suggestions:</dt>
