@@ -28,55 +28,40 @@ The following rates apply to all new subscriptions with a start date of Septembe
 
 All rates are for a single site. For multisite locations, please (link: contact text: inquire about our discount policy).
 
-(table…)
-
-#### Academic Library (United States)
-////
-$599
-
-++++
-
-#### Academic Library (Non-US, including Canada and Mexico)
-////
-$689
-
-++++
-
-#### School Library (K-12)
-////
-$375
-
-++++
-
-#### Govt. Library (including USIA, etc.)
-////
-$600
-
-++++
-
-#### Public Library (United States)
-////
-$530
-
-++++
-
-#### Public Library (Non-US)
-////
-$579
-
-++++
-
-#### Other Library
-////
-$630
-
-++++
-
-#### Publishers/Dealers
-////
-$630
-
-(…table)
+<table>
+  <tr>
+    <th>Academic Library (United States)</th>
+    <td>$599</td>
+  </tr>
+  <tr>
+    <th>Academic Library (Non-US, including Canada and Mexico)</th>
+    <td>$689</td>
+  </tr>
+  <tr>
+    <th>School Library (K-12)</th>
+    <td>$375</td>
+  </tr>
+  <tr>
+    <th>Govt. Library (including USIA, etc.)</th>
+    <td>$600</td>
+  </tr>
+  <tr>
+    <th>Public Library (United States)</th>
+    <td>$530</td>
+  </tr>
+  <tr>
+    <th>Public Library (Non-US)</th>
+    <td>$579</td>
+  </tr>
+  <tr>
+    <th>Other Library</th>
+    <td>$630</td>
+  </tr>
+  <tr>
+    <th>Publishers/Dealers</th>
+    <td>$630</td>
+  </tr>
+</table>
 
 ----
 

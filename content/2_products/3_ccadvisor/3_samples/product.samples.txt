@@ -29,38 +29,28 @@ Art & Architecture Source (EBSCO) is a robust database focused on various art fo
 
 ### At a glance
 
-(table…)
-
-#### Primary Subject
-////
-Art & Architecture
-
-++++
-
-#### Review Type
-////
-Discovery tool, Aggregator Database
-
-++++
-
-#### Audience Level
-////
-Secondary, General public, Undergraduate, Graduate/Faculty/Researcher
-
-++++
-
-#### Access
-////
-Subscription
-
-++++
-
-#### Composite Score
-////
-3.75
-
-(…table)
-
+<table class="milli">
+  <tr>
+    <th>Primary Subject</th>
+    <td>Art & Architecture</td>
+  </tr>
+  <tr>
+    <th>Review Type</th>
+    <td>Discovery tool, Aggregator Database</td>
+  </tr>
+  <tr>
+    <th>Audience Level</th>
+    <td>Secondary, General public, Undergraduate, Graduate/Faculty/Researcher</td>
+  </tr>
+  <tr>
+    <th>Access</th>
+    <td>Subscription</td>
+  </tr>
+  <tr>
+    <th>Composite Score</th>
+    <td>3.75</td>
+  </tr>
+</table>
 
 
 ### Overview
@@ -164,47 +154,36 @@ Elizabeth McMunn-Tetangco is an Instruction Librarian at the University of Calif
 
 ### Scorecard
 
-(table…)
+<table class="milli">
+  <tr>
+    <th>Composite Score</th>
+    <td>3.75</td>
+  </tr>
 
-### Composite Score
-////
-3.75
+  <tr>
+    <th>Content</th>
+    <td>3.5</td>
+    <td>Art & Architecture Source includes content from a wide array of sources.</td>
+  </tr>
 
+  <tr>
+    <th>User Interface/Searchability</th>
+    <td>4.5</td>
+    <td>Intuitive and clear, Art & Architecture Source is easy to search and highly customizable.</td>
+  </tr>
 
-++++
+  <tr>
+    <th>Pricing</th>
+    <td>3.0</td>
+    <td>Since EBSCO sets prices based on a variety of criteria, it is difficult to know exactly how much it charges per individual library. That being said, EBSCO does work with libraries to determine cost and takes into consideration pricing for groups as well.</td>
+  </tr>
 
-#### Content
-////
-3.5
-////
-Art & Architecture Source includes content from a wide array of sources.
-
-++++
-
-#### User Interface/Searchability
-////
-4.5
-////
-Intuitive and clear, Art & Architecture Source is easy to search and highly customizable.
-
-++++
-
-#### Pricing
-////
-3.0
-////
-Since EBSCO sets prices based on a variety of criteria, it is difficult to know exactly how much it charges per individual library. That being said, EBSCO does work with libraries to determine cost and takes into consideration pricing for groups as well.
-
-++++
-
-#### Purchase/Contract Options
-////
-4.0
-////
-Art & Architecture Source allows generous use of both articles and citations, and defines users fairly broadly, which facilitates its use within a library setting.
-
-(…table)
-
+  <tr>
+    <th>Purchase/Contract Options</th>
+    <td>4.0</td>
+    <td>Art & Architecture Source allows generous use of both articles and citations, and defines users fairly broadly, which facilitates its use within a library setting.</td>
+  </tr>
+</table>
 
 
 
@@ -233,37 +212,28 @@ McGraw-Hill’s AccessScience offers a broad array of information on major scien
 
 ### At a glance
 
-(table…)
-
-#### Primary Subject
-////
-Science, Technology, Computers, Engineering (including Environment)
-
-++++
-
-#### Review Type
-////
-Bibliographic tool, Image database, Encyclopedia/Handbook, Newspaper or news source, Other
-
-++++
-
-#### Audience Level
-////
-Secondary, General public, Undergraduate
-
-++++
-
-#### Access
-////
-Subscription
-
-++++
-
-#### Composite Score
-////
-3.38
-
-(…table)
+<table class="milli">
+  <tr>
+    <th>Primary Subject</th>
+    <td>Science, Technology, Computers, Engineering (including Environment)</td>
+  </tr>
+  <tr>
+    <th>Review Type</th>
+    <td>Bibliographic tool, Image database, Encyclopedia/Handbook, Newspaper or news source, Other</td>
+  </tr>
+  <tr>
+    <th>Audience Level</th>
+    <td>Secondary, General public, Undergraduate</td>
+  </tr>
+  <tr>
+    <th>Access</th>
+    <td>Subscription</td>
+  </tr>
+  <tr>
+    <th>Composite Score</th>
+    <td>3.38</td>
+  </tr>
+</table>
 
 
 
@@ -343,47 +313,36 @@ Kimberly O’Neill is Assistant Professor, Health Sciences Liaison, and Research
 
 ### Scorecard
 
-(table…)
+<table class="milli">
+  <tr>
+    <th>Composite Score</th>
+    <td>3.38</td>
+  </tr>
 
-#### Composite Score
-////
-3.38
+  <tr>
+    <th>Content</th>
+    <td>4.0</td>
+    <td>Covers a broad range of topics. Useful curriculum maps, videos and images. Credible and authoritative sources. Language often above a high school level.</td>
+  </tr>
 
+  <tr>
+    <th>User Interface/Searchability</th>
+    <td>3.5</td>
+    <td>Searching capability is basic, would like more search links and tutorials. Add back links to major sections like News and Projects to top of page.</td>
+  </tr>
 
-++++
+  <tr>
+    <th>Pricing</th>
+    <td>3.0</td>
+    <td>Pricing is by FTE with no consortia pricing or specials. Vendor would only provide minimum price, need more information.</td>
+  </tr>
 
-#### Content
-////
-4.0
-////
-Covers a broad range of topics. Useful curriculum maps, videos and images. Credible and authoritative sources. Language often above a high school level.
-
-++++
-
-#### User Interface/Searchability
-////
-3.5
-////
-Searching capability is basic, would like more search links and tutorials. Add back links to major sections like News and Projects to top of page.
-
-++++
-
-#### Pricing
-////
-3.0
-////
-Pricing is by FTE with no consortia pricing or specials. Vendor would only provide minimum price, need more information.
-
-++++
-
-#### Purchase/Contract Options
-////
-3.0
-////
-Information supplied by vendor, but actual contract not reviewed. No archiving of content, ILL, or MARC records. If database is no longer offered, there is no access to purchased content.
-
-
-(…table)
+  <tr>
+    <th>Purchase/Contract Options</th>
+    <td>3.0</td>
+    <td>Information supplied by vendor, but actual contract not reviewed. No archiving of content, ILL, or MARC records. If database is no longer offered, there is no access to purchased content.</td>
+  </tr>
+</table>
 
 ----
 
