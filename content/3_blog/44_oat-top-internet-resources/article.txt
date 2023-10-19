@@ -1,38 +1,38 @@
 Title: Outstanding Academic Titles of 2016: An Internet Resources Preview
 
----
+----
 
 Subtitle: Three of the best digital resources from the 2016 OATs.
 
----
+----
 
 Category: Newsletters
 
----
+----
 
 Date: 2016-12-13
 
----
+----
 
 Description: Three of the best digital resources from the 2016 OATs.
 
----
+----
 
 Line1:
 
----
+----
 
 Thumb: oat-top-3-ir.jpg
 
----
+----
 
 Hero: oat-top-3-ir.jpg
 
----
+----
 
 Hero-caption:
 
----
+----
 
 Text:
 
@@ -40,7 +40,7 @@ _The Choice subject editors recognize the most significant titles reviewed durin
 
 _Don't miss the full "Outstanding Academic Titles: 2016" list, featuring 494 titles and appearing in the January 2017 issue and online at (link: http://www.choicereviews.org text: ChoiceReviews.org). More information about Choice's Outstanding Academic Titles can be found at (link: http://www.ala.org/acrl/choice/outstanding text: www.ala.org/acrl/choice/outstanding target: \_blank)._
 
----
+----
 
 **Encyclopaedia of Islam Three**, ed. by Kate Fleet et al. Brill. Annual academic subscription is $3,800.00; outright purchase for bundled editions is $31,730.00, with annual fee of $1,170.00. (link: http://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-3 text: http://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-3 target: \_blank)
 
@@ -50,7 +50,7 @@ Issued on a quarterly basis in both online and print formats, topics cover Musli
 
 Each quarterly paper supplement—covering the entire alphabet, with a plan to reissue in its entirety in hard copy once the project is completed—contains a Cumulative List of Entries to aid users in locating earlier articles. The print version lacks references to related articles, but the online version recommends an array of broadly "related" works automatically generated from _Brill Online_. While the online searching of terms seems preferable, it is not perfect. Searches for "Mohammed" and "Muhammad," as but one example, produce different results (in this edition, as in the second), revealing a transliteration or cross-referencing problem that the publishers will want to address as the work grows in size and complexity. Despite the challenges, the new _EI3_ continues the heritage of the previous editions in striving to achieve excellence, and it remains an essential acquisition for libraries supporting academic study of Islam, Middle Eastern studies, or the Arabic language. **Summing Up:** Essential. Undergraduates through researchers/faculty. _—C. A. Sproles, University of Louisville_
 
----
+----
 
 **MLA International Bibliography**. ProQuest. Contact publisher for pricing. (link: http://www.proquest.com/ text: http://www.proquest.com/ target: \_blank)
 
@@ -60,7 +60,7 @@ ProQuest's search interface was recently overhauled and is cleanly designed. Bas
 
 Links to full-text resources contained in Project Muse ((link: http://www.choicereviews.org text: CH, May'12, 49-4789 target: \_blank)), JSTOR ((link: http://www.choicereviews.org text: CH, Jan'11, 48-2403 target: \_blank)), and ProQuest Dissertations & Theses Global ((link: http://www.choicereviews.org text: CH, Sep'08, 46-0008 target: \_blank)) are available to licensed subscribers of those resources. Updated nine times per year, the ProQuest interface offers numerous pop-up "just in time" help screens, webinars, video tutorials, and a collaboratively produced _LibGuide_ at (link: http://proquest.libguides.com/mla/ text: http://proquest.libguides.com/mla/ target: \_blank). The interface supports citation exporting in standard RIS and RTF formats, Zotero ((link: http://www.choicereviews.org text: CH, Jun'08, 45-5309 target: \_blank)) integration, and options to print, download, and email citations or full-text articles and create user accounts for saving searches and alerts. Scholars and students at all levels will find the MLA database indispensable for research. **Summing Up:** Highly recommended. All academic levels; professionals/practitioners. —J. Stevens, George Mason University
 
----
+----
 
 **Victorian Popular Culture.** Adam Matthew. Contact publisher for pricing (based on Carnegie Classification and JISC); includes nominal hosting fee, payable annually. (link: http://www.victorianpopularculture.amdigital.co.uk text: http://www.victorianpopularculture.amdigital.co.uk target: \_blank)
 
@@ -70,22 +70,22 @@ The goal of the portal is to demonstrate just how interconnected these four worl
 
 While this resource may seem a bit pricey for the average library, the resources Adam Matthew Digital presents are still unavailable through any other resource that this reviewer is aware of. The expanded portal will be of interest to scholars in a variety of subject areas, including the expected music and theater fields, but also to those pursuing research in art, sociology, and religion. **Summing Up:** Highly recommended. Upper-level undergraduates and above. _—C. Cox, University of Northern Iowa_
 
----
+----
 
 Line2:
 
----
+----
 
 Author:
 
----
+----
 
 Author-img:
 
----
+----
 
 Byline:
 
----
+----
 
 References:

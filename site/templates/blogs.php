@@ -5,7 +5,7 @@ $blogs = $page->children()->published();
 $articles = $blogs->filterBy('template', 'article');
 // $events = $blogs->filterBy('template', 'event')->sortBy('date')->filterBy('date', '>', time());
 $events = $blogs->filterBy('template', 'event')->sortBy('date', 'desc');
-$releases = $blogs->filterBy('template', 'release')->sortBy('date', 'desc')->limit(5);
+$releases = $blogs->filterBy('template', 'release')->sortBy('date', 'desc')->limit(3);
 
 $categories = $articles->pluck('category', ',', true);
 

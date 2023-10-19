@@ -1,38 +1,38 @@
 Title: Forthcoming Academic Titles: October Edition
 
----
+----
 
 Subtitle: The October edition of Choice's Forthcoming series, featuring upcoming Political Science and Economics titles.
 
----
+----
 
 Category: Newsletters
 
----
+----
 
 Date: 2016-10-13
 
----
+----
 
 Description: The October edition of Choice's Forthcoming series, featuring upcoming Political Science and Economics titles.
 
----
+----
 
 Line1:
 
----
+----
 
 Thumb: oct-forthcoming-pic.jpg
 
----
+----
 
 Hero: oct-forthcoming-pic.jpg
 
----
+----
 
 Hero-caption:
 
----
+----
 
 Text:
 
@@ -731,28 +731,28 @@ Wilfrid Laurier University Press
 World Scientific Publishing
 (link: http://www.worldscientific.com/ target: \_blank)
 
----
+----
 
 For access to the full archive of almost 200,000 reviews, updated daily, (link: http://www.choice360.org/products/reviews/subscribe text: subscribe to Choice Reviews target: \_blank).
 
 To subscribe to more of Choice’s monthly newsletters, including Hot Topics, Forthcoming Titles, the Top 75 Community College Titles, and Editors’ Picks, (link: http://visitor.constantcontact.com/manage/optin?v=0010opz9yIv184Gh2bkxt6mwreNrmLmRnX9lUbLqhOUsCWpFHBuk_CQauQqgmz8WJsZ6P2M_NXRl1I%3D text: click here target: \_blank).
 
----
+----
 
 Line2:
 
----
+----
 
 Author: Choice Staff
 
----
+----
 
 Author-img:
 
----
+----
 
 Byline:
 
----
+----
 
 References:

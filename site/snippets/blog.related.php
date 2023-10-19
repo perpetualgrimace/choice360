@@ -8,7 +8,7 @@
   $related_items  = $blogs->filterBy('category', $category)->filterBy('template', $template);
 
   if ($template == 'release'): $template = 'press release'; endif;
-  if ($template == 'event'): $related_items = $related_items->filterBy('date', '>', time()); endif;
+  // if ($template == 'event'): $related_items = $related_items->filterBy('date', '>', time()); endif;
   $limit          = 6;
 
 ?>

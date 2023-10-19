@@ -1,38 +1,38 @@
 Title: Internet Resources: January Edition
 
----
+----
 
 Subtitle: Selected reviews of digital reference resources from the January issue of Choice.
 
----
+----
 
 Category: Newsletters
 
----
+----
 
 Date: 2017-01-05
 
----
+----
 
 Description: Selected reviews of digital reference resources from the January issue of Choice.
 
----
+----
 
 Line1:
 
----
+----
 
 Thumb: ir-jan-17.jpg
 
----
+----
 
 Hero: ir-jan-17.jpg
 
----
+----
 
 Hero-caption:
 
----
+----
 
 Text:
 
@@ -48,7 +48,7 @@ Also included are digitized works originally published by Southern Illinois Univ
 
 For researchers specializing in English drama, history, or culture, _Eighteenth Century Drama_ is obviously a trove of source material. For the average undergraduate, however, the product would seem sprawling, complex, and confusing. It would be vastly enhanced by the addition of a digitized collection of the printed versions of 18th-century plays, but these are lacking. It would also help to link the Larpent plays and the contents of Mrs. Larpent's diary to pertinent materials in _The London Stage and Biographical Dictionary_—undoubtedly a tall order. Despite the designers' efforts to create an integrated interface, some digitized material is awkward to enlarge and view. Moreover, the title of the product is somewhat misleading and problematic, with its scope built around the Huntington's Larpent collections: the 18th century did not begin in 1737, even though licensing did. The "long 18th century" is defined as running from 1660 to 1830, but Restoration drama is entirely absent here, as are plays before 1737, except for revivals reported in _The London Stage_. These caveats aside, the collection is of great value to researchers willing to slog through it. **Summing Up:** Highly recommended. Upper-division undergraduates through researchers/faculty; professionals/practitioners. _—W. Miller, Florida Atlantic University_
 
----
+----
 
 **Global Road Warrior**. World Trade Press. Annual academic subscription ranges from $400.00 to $12,000.00, based on FTE. (link: http://www.globalroadwarrior.com/ text: www.globalroadwarrior.com/ target: \_blank)
 
@@ -58,7 +58,7 @@ The Overview section offers Country Snapshot and Country Facts sections, and acc
 
 Rather than being an scholarly source for academic research, content generally addresses specific information that professionals as well as students need to know about interacting with individuals or doing business in these countries. Tools, such as video language glossaries, assist users in learning key phrases. The website's comprehensive design will help alert business executives to country information and succeed in many different types of situations. Comparable resources include Economist Intelligence Unit Country Reports ((link: http://www.choicereviews.org text: CH, Mar'16, 53-2904 target: \_blank)) or CountryWatch ((link: http://www.choicereviews.org text: CH Mar'13, 50-3623 target: \_blank)). **Summing Up:** Recommended. All readership levels. _—C. E. Geck, independent scholar_
 
----
+----
 
 **Music Online: Listening**. Alexander Street. Annual academic subscription ranges from $3,300.00 to $12,500.00. (link: http://search.alexanderstreet.com/musc text: search.alexanderstreet.com/musc target: \_blank)
 
@@ -68,22 +68,22 @@ The features of the Alexander Street Press platform make this product highly des
 
 Track and album metadata are primarily descriptive and contextual, not technical. Keywords are derived from the entire album and not specific to individual tracks, which can prove bewildering when multiple cultures are represented on a particular album. However, the track metadata provides liner notes and the name for featured performers (when known), although the instruments are not always identified. And alas, the release date is not consistently the original release date for the recording itself but instead sometimes the date of digitization—a serious oversight in cataloging procedure. Despite flaws, the _Music Online: Listening_ database succeeds as a product that complements other basic music media collections; selectors in academic libraries serving broad-based music programs should nonetheless not cease collecting media in the expectation that they can rely solely on this database resource. **Summing Up:** Recommended. Community college and undergraduate students through researchers/faculty; professionals/practitioners. _—V. J. Novara, University of Maryland_
 
----
+----
 
 Line2:
 
----
+----
 
 Author: Choice Staff
 
----
+----
 
 Author-img:
 
----
+----
 
 Byline:
 
----
+----
 
 References:

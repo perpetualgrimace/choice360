@@ -1,38 +1,38 @@
 Title: Forthcoming Academic Titles: February Edition
 
----
+----
 
 Subtitle: Forthcoming African American Studies Publications, 2017
 
----
+----
 
 Category: Newsletters
 
----
+----
 
 Date: 2017-02-09
 
----
+----
 
 Description: Forthcoming African American Studies Publications, 2017
 
----
+----
 
 Line1:
 
----
+----
 
 Thumb: fc-feb-2017.jpg
 
----
+----
 
 Hero: fc-feb-2017.jpg
 
----
+----
 
 Hero-caption:
 
----
+----
 
 Text:
 
@@ -180,22 +180,22 @@ This selected list of African American Studies titles is designed to provide inf
 
 **Ed Bolden and Black Baseball in Philadelphia**, by Courtney Michelle Smith. (link: http://www.mcfarlandbooks.com/ text: McFarland target: \_blank), Feb 2017e. $29.95 pbk ISBN 9780786478491; $55.00 ebook ISBN 9781476627434
 
----
+----
 
 Line2:
 
----
+----
 
 Author:
 
----
+----
 
 Author-img:
 
----
+----
 
 Byline:
 
----
+----
 
 References:

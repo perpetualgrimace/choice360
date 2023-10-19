@@ -1,38 +1,38 @@
 Title: Forthcoming Academic Titles: December Edition
 
----
+----
 
 Subtitle: Recent and Forthcoming Art & Architecture Titles, 2016-17
 
----
+----
 
 Category: Newsletters
 
----
+----
 
 Date: 2016-12-08
 
----
+----
 
 Description: Recent and Forthcoming Art & Architecture Titles, 2016-17
 
----
+----
 
 Line1:
 
----
+----
 
 Thumb: dec-fc-16.jpg
 
----
+----
 
 Hero: dec-fc-16.jpg
 
----
+----
 
 Hero-caption:
 
----
+----
 
 Text:
 
@@ -210,22 +210,22 @@ _This selected list of Art & Architecture titles is designed to provide informat
 
 **Historical Dictionary of Contemporary Art,** by Ann Lee Morgan. (link: http://rowman.com/RLPublishers/ text: Rowman & Littlefield target: \_blank), Dec. 2016. $120.00 ISBN 9781442276673
 
----
+----
 
 Line2:
 
----
+----
 
 Author: Choice Staff
 
----
+----
 
 Author-img:
 
----
+----
 
 Byline:
 
----
+----
 
 References:

@@ -1,38 +1,38 @@
 Title: Forthcoming Academic Titles: November Edition
 
----
+----
 
 Subtitle: The November edition of Choice's Forthcoming series, featuring upcoming Reference titles.
 
----
+----
 
 Category: Newsletters
 
----
+----
 
 Date: 2016-11-10
 
----
+----
 
 Description: The November edition of Choice's Forthcoming series, featuring upcoming Reference titles.
 
----
+----
 
 Line1:
 
----
+----
 
 Thumb: nov-fc-16.jpg
 
----
+----
 
 Hero: nov-fc-16.jpg
 
----
+----
 
 Hero-caption:
 
----
+----
 
 Text:
 
@@ -765,22 +765,22 @@ Wm. B. Eerdmans Publishing
 World Scientific Publishing Co., Inc.
 (link: http://www.worldscientific.com/ text: www.worldscientific.com/ target: \_blank)
 
----
+----
 
 Line2:
 
----
+----
 
 Author: Choice Staff
 
----
+----
 
 Author-img:
 
----
+----
 
 Byline:
 
----
+----
 
 References:

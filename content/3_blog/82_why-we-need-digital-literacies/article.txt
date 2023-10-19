@@ -18,7 +18,7 @@ Description: Learning how to learn is the single most important skill one can ma
 
 ----
 
-Line1: 
+Line1:
 
 ----
 
@@ -26,15 +26,15 @@ Thumb: 1468498833-cathy_davidson.jpg
 
 ----
 
-Hero: 
+Hero:
 
 ----
 
-Hero-caption: 
+Hero-caption:
 
 ----
 
-Text: 
+Text:
 
 When I teach my undergraduate course on “Digital Literacies,” I begin with an exercise in “meta-cognition,” deep reflection about how we think. I start by distributing a technology that was cutting-edge in 1760 when Linnaeus invented it:  index cards. He needed a tool to help him sort discrete bits of data to create his world-changing classification systems. Two centuries later, Melvil Dewey used these as the basis for his card catalog system, and the notch-edged versions were used in the 1960s and 1970s for relational data bases or “Knitting Needle Computers.” History, I tell my students, is one of the digital literacies.
 
@@ -44,7 +44,7 @@ When I set the timer for ninety seconds and ask my students, “Who invented the
 
 We all know what name they’ve written on their cards.
 
-I tell them if they believe their answer is correct, they can sign the card, hand it in, and they have earned an A for the course. They don’t have to come back again or do another assignment for “Digital Literacies.” 
+I tell them if they believe their answer is correct, they can sign the card, hand it in, and they have earned an A for the course. They don’t have to come back again or do another assignment for “Digital Literacies.”
 
 “But what if the answer is wrong?” a student invariably asks.
 
@@ -54,9 +54,9 @@ I like to leave a silence. Someone asks if there are other choices. “Sure, you
 
 In the ten years I’ve been doing this, no student has ever handed in an index card for the easy A. Their first answer may be correct, but they know it can’t be right.
 
-By the time I’ve set the timer again, students are already busy on laptops, tablets, and smart phones. They investigate. They explore. And they are talking to one another. We’ve gone from the silent, timed test to a burst of curiosity and collaboration, with no guidance from me and with an efficiency and creativity that, after a decade of doing this, I still find mind-boggling. I’ve had groups delegate one person to summarize the main Wikipedia entry, while another fact checks or another tracks down articles in the references and had others go straight to Google Scholar or other scholarly sources. Over the years, I’ve had students use Zotero or WorldCat for citations, and I’ve had multilingual students pursue research in Mandarin, Korean, Persian, Italian, and German sources. *In 90 seconds*. 
+By the time I’ve set the timer again, students are already busy on laptops, tablets, and smart phones. They investigate. They explore. And they are talking to one another. We’ve gone from the silent, timed test to a burst of curiosity and collaboration, with no guidance from me and with an efficiency and creativity that, after a decade of doing this, I still find mind-boggling. I’ve had groups delegate one person to summarize the main Wikipedia entry, while another fact checks or another tracks down articles in the references and had others go straight to Google Scholar or other scholarly sources. Over the years, I’ve had students use Zotero or WorldCat for citations, and I’ve had multilingual students pursue research in Mandarin, Korean, Persian, Italian, and German sources. *In 90 seconds*.
 
-When the timer goes off and I ask students to report on the invention of the printing press, I never hear a student say “Gutenberg” and leave it at that. With obvious excitement, students report on their research on Bi Sheng, who developed the basics of movable type in 1040 AD, during the Song Dynasty, using ceramic materials in which he could produce and then reproduce over 100,000 ancient Chinese characters and on how, in Korea, the first metallic, movable type was invented to print the *Jikji*, the world’s oldest extant books. The pathway to Europe in 1455 and Johannes Gutenberg’s printing of the Bible turns out to be long, meandering, and complex. 
+When the timer goes off and I ask students to report on the invention of the printing press, I never hear a student say “Gutenberg” and leave it at that. With obvious excitement, students report on their research on Bi Sheng, who developed the basics of movable type in 1040 AD, during the Song Dynasty, using ceramic materials in which he could produce and then reproduce over 100,000 ancient Chinese characters and on how, in Korea, the first metallic, movable type was invented to print the *Jikji*, the world’s oldest extant books. The pathway to Europe in 1455 and Johannes Gutenberg’s printing of the Bible turns out to be long, meandering, and complex.
 
 And so is what happens in my “Digital Literacies” classroom. In beginning with the index card exercise, I am employing a pedagogical technique that Victor Shklovsky called “defamiliarization.”  In turning something familiar (an easy timed test) into something unexpected (a high-stakes wager), I’m making it unfamiliar, unexpected, something that must be questioned, analyzed, and viewed critically. What is a test anyway?  What is its purpose?  What is a right answer?  What is knowledge?  In one simple movement—the turn of a card—a paradigm shifts. Digital literacy becomes not a matter of shiny new tools but of epistemology:  a theory of knowledge and the process by which we come to acquire it.
 
@@ -80,26 +80,26 @@ And what was the meaning of that change? For the first time in history, anyone w
 
 We have adapted to our new digital capacity so quickly that we haven’t really taken the full measure of how much we have all been changed—not just our youth but all of us. My simple index card exercise in “Digital Literacies” makes visible the binary ways we all live and know the world. We have both accepted the digital into our daily lives and, at the same time, are very quick to blame many things on “the Internet”—and we do both rather cavalierly.
 
-We do the same in education, kindergarten through professional school. We require expensive content management systems in every school, on the one hand, and then pass rules prohibiting laptops in the classrooms. We penalize public school teachers whose students don’t do well on archaic, summative standardized tests and then turn around and encourage other teachers, in more affluent school districts, to use more flexible ePortfolios on the grounds that they are far better at gauging and promoting student learning than standardized testing. We insist that edtech such as clickers and Massive Online Open Courseware (MOOCs) are the revolutionary future but then champion studies supposedly showing that taking notes by hand is the best way to learn and retain information. There is an “I told you so!” crowing tone in every new edtech study—even when the studies contradict one another. 
+We do the same in education, kindergarten through professional school. We require expensive content management systems in every school, on the one hand, and then pass rules prohibiting laptops in the classrooms. We penalize public school teachers whose students don’t do well on archaic, summative standardized tests and then turn around and encourage other teachers, in more affluent school districts, to use more flexible ePortfolios on the grounds that they are far better at gauging and promoting student learning than standardized testing. We insist that edtech such as clickers and Massive Online Open Courseware (MOOCs) are the revolutionary future but then champion studies supposedly showing that taking notes by hand is the best way to learn and retain information. There is an “I told you so!” crowing tone in every new edtech study—even when the studies contradict one another.
 
  I advocate teaching digital and Web literacy precisely because these issues are unresolved. Unless we make the study of information part of general education we aren’t preparing youth for the complexities of a world none of us fully fathoms. We need to be integrating these literacies into instructions in every subject and at every age, from kindergarten to professional school.
 
-True digital literacy is understanding the meaning and implications of how our world has been changed by our ability to contribute and obtain information from anyone else with an Internet connection—including the ways that being able to extract data and labor so efficiently from everyone in the world have contributed to environmental and economic catastrophes of global proportions. To solve such problems requires not just STEM learning but creative, critical, and computational thinking. Creativity is being able to explore all possibilities and express them in the most unexpected, daring, and beautiful ways. Critical thinking means understanding contexts, histories, data, evidence, implications, and limitations of any answer or solution—even the most creative. And computational thinking is making the best computers by being able to appreciate which things humans do better than computers, which things computers do better than humans, and appreciating that creativity and critical thinking can make computers better tools for addressing and redressing the catastrophic problems and emergent possibilities we all face together. 
+True digital literacy is understanding the meaning and implications of how our world has been changed by our ability to contribute and obtain information from anyone else with an Internet connection—including the ways that being able to extract data and labor so efficiently from everyone in the world have contributed to environmental and economic catastrophes of global proportions. To solve such problems requires not just STEM learning but creative, critical, and computational thinking. Creativity is being able to explore all possibilities and express them in the most unexpected, daring, and beautiful ways. Critical thinking means understanding contexts, histories, data, evidence, implications, and limitations of any answer or solution—even the most creative. And computational thinking is making the best computers by being able to appreciate which things humans do better than computers, which things computers do better than humans, and appreciating that creativity and critical thinking can make computers better tools for addressing and redressing the catastrophic problems and emergent possibilities we all face together.
 
 My goal for “Digital Literacies” is to encourage students to understand how to maximize the relationships between creative, critical, and computational thinking so humans can think through the very best ways to make computers do what they do in ways that are ethical (not just efficient), environmentally sound, and that offer economic opportunities to the many, not just to the opportunistic few. It starts with index cards, epistemology, research, and a paradigm shift. We need “Digital Literacies” in order to prepare this generation to design the next generation of digital tools, the ones we humans need most:  tools to help make a world that is more equitable, compelling, just, and, for lack of a better word, humane.
 
----
+----
 
 *“Guest of Choice” is an editorial initiative offering original contributions by librarians, academics, and public intellectuals who have something of interest to say to our core audience. The views or opinions expressed in this column are solely those of the author and do not necessarily represent those of Choice, ACRL, or the American Library Association.
 *
 
 ----
 
-Line2: 
+Line2:
 
 ----
 
-Author: 
+Author:
 
 ----
 
@@ -111,4 +111,4 @@ Byline: Cathy N. Davidson is Distinguished Professor and Founding Director of th
 
 ----
 
-References: 
+References:

@@ -1,44 +1,44 @@
 Title: Forthcoming Academic Titles: April Edition
 
----
+----
 
 Subtitle: New and soon-to-be-released publications on psychology.
 
----
+----
 
 Category: Newsletters
 
----
+----
 
 Date: 2017-04-13
 
----
+----
 
 Description: New and soon-to-be-released publications on psychology.
 
----
+----
 
 Line1:
 
----
+----
 
 Thumb: fc-apr-2017.jpg
 
----
+----
 
 Hero: fc-apr-2017.jpg
 
----
+----
 
 Hero-caption:
 
----
+----
 
 Text:
 
 This selected list of Psychology titles is designed to provide information about new or soon to be released publications that may support academic curricula and library collections, particularly at the undergraduate level. This list highlights forthcoming titles scheduled for publication throughout 2017. _Choice_ extends special thanks to the publishers who supplied and verified information about their titles for this feature.
 
----
+----
 
 ### General
 
@@ -302,22 +302,22 @@ This selected list of Psychology titles is designed to provide information about
 
 **Writing Your Psychology Research Paper**, by Scott A. Baldwin. (link: http://www.apa.org/pubs/books/ text: American Psychological Association target: \_blank), Aug. 2017e. Price not yet set pbk ISBN 9781433827075
 
----
+----
 
 Line2:
 
----
+----
 
 Author: Choice Staff
 
----
+----
 
 Author-img:
 
----
+----
 
 Byline:
 
----
+----
 
 References:

@@ -1,38 +1,38 @@
 Title: Internet Resources: November Edition
 
----
+----
 
 Subtitle: Selected reviews of digital reference resources from the November issue.
 
----
+----
 
 Category: Newsletters
 
----
+----
 
 Date: 2016-11-03
 
----
+----
 
 Description: Selected reviews of digital reference resources from the November issue.
 
----
+----
 
 Line1:
 
----
+----
 
 Thumb: nov-ir-2016.jpg
 
----
+----
 
 Hero: nov-ir-2016.jpg
 
----
+----
 
 Hero-caption:
 
----
+----
 
 Text:
 
@@ -44,7 +44,7 @@ The easy-to-use interface allows scholars to search for specific materials via a
 
 As the entire assembly grows to completion in 2019—_Colonial America: Module 2, Towards Revolution_ will soon be available to subscribers—the resource will make a fine companion to the materials contained in Brill's first release of Prize Papers Online 1: American Revolutionary War and Fourth Anglo-Dutch War ((link: http://www.choicereviews.org text: CH, Jan'15, 52-2326 target: \_blank)), which will also comprise five components when done. Along with Adam Matthew's related American History 1493–1945 ((link: http://www.choicereviews.org text: CH, Jun'15, 52-5108 target: \_blank)), _Colonial America_ is a rich collection of official British and Colonial records characterizing the British Empire in the Atlantic and the events leading up to the American Revolution. Well worth obtaining a free trial to evaluate, these primary sources will be of significant value to researchers at all levels. **Summing Up: **Highly recommended. Beginning students through researchers/faculty; professionals/practitioners. _—R. J. Erlandson, independent scholar_
 
----
+----
 
 **Digital National Security Archive.** ProQuest. Contact publisher for pricing.
 (link: http://www.proquest.com/products-services/databases/dnsa.html text: www.proquest.com/products-services/databases/dnsa.html target: \_blank )
@@ -55,7 +55,7 @@ The collections included are both broad (e.g., one titled "US Nuclear History" c
 
 Such flaws are perhaps an inevitable aspect of cataloging such a vast, albeit highly selective, collection of digital documents. This ProQuest database exemplifies all that is good in making primary sources more visible and accessible, along with all the frustrations that accompany such an immense project to represent digital materials fairly and accurately. **Summing Up: **Recommended. Upper-level undergraduates through researchers/faculty; professionals/practitioners. _—S. J. Stillwell Jr., University of Arizona_
 
----
+----
 
 **Human Rights Documentation Initiative,** from the University of Texas Libraries. (link: http://www.lib.utexas.edu/hrdi text: www.lib.utexas.edu/hrdi target: \_blank)
 
@@ -63,7 +63,7 @@ Such flaws are perhaps an inevitable aspect of cataloging such a vast, albeit hi
 
 There is an absolute wealth of material on this site, though many parts, especially the Guatemalan police archive, are intended for the serious researcher and defy casual browsing. Moreover, human rights organizations needing assistance in preserving their records are encouraged to contact _HRDI_. Those working in the field of human rights should certainly keep this site bookmarked and highlighted on relevant library guides. **Summing Up:** Highly recommended. Upper-level undergraduates through researchers/faculty; professionals/practitioners. _—G. A. Lancaster, independent scholar_
 
----
+----
 
 **Roy Rosenzweig Center for History and New Media,** from the Department of History and Art History, George Mason University. (link: http://chnm.gmu.edu/ text: chnm.gmu.edu/ target: \_blank)
 
@@ -71,7 +71,7 @@ There is an absolute wealth of material on this site, though many parts, especia
 
 The Research + Tools section offers open-software applications for historical scholarship, ranging from the Omeka turnkey online publishing platform to the popular citation manager Zotero ((link: http://www.choicereviews.org text: CH, Jun'08, 45-5309 target: \_blank)). Working historians can find helpful guides, essays on new media, and e-books to assist in implementing digital history projects, including Daniel Cohen and Rosenzweig's Digital History: A Guide to Gathering, Preserving and Presenting the Past on the Web ((link: http://www.choicereviews.org text: CH, Mar'06, 43-4174 target: \_blank)). The site's Collecting + Exhibiting component showcases notable digital-history projects undertaken by the center, among them the September 11 Digital Archive ((link: http://www.choicereviews.org text: CH, Feb'15, 52-2902 target: \_blank)) and those with other diverse themes (the Gulag, Hurricane Katrina, the French Revolution, Martha Washington, etc.). This rich diversity underscores that digital scholarship relates to all historical periods and topics. The center's core staff is drawn from George Mason history faculty and graduate students along with programmers and technicians; it is clear that they are not solely preoccupied with their own projects but engage in outreach and professional consulting. Exuding proselytizing zeal for digital media and earnestly seeking new recruits to the field, the site offers a fine demonstration of how humanities scholars embracing digital technologies can expand disciplinary horizons. **Summing Up:** Highly recommended. All readership levels. _—J. Millhorn, Northern Illinois University_
 
----
+----
 
 **Twentieth-Century Global Perspectives.** Readex. Available via a range of purchase models. Pricing is based on multiple factors. Perpetual licensing fees for five individual collections range from approximately $3,400.00 to $7,400.00. (link: http://www.readex.com/ text: www.readex.com/ target: \_blank)
 
@@ -93,22 +93,22 @@ Options to print documents, e-mail permalinks, or download PDF files work as the
 
 As noted, the five collections may be purchased singly or in combination through Readex's pricing model of perpetual access plus access fees. Although they may be beyond the means of many colleges and universities, public libraries, or nonprofit organizations, those research collections that have not licensed the source collections will want to consider these new ones to support programs in history, international studies, human rights, communications, and African American or Middle Eastern studies. **Summing Up:** Recommended. Undergraduates through researchers/faculty; professionals/practitioners. _—K. Cleland-Sipfle, Southern Oregon University_
 
----
+----
 
 Line2:
 
----
+----
 
 Author: Choice Staff
 
----
+----
 
 Author-img:
 
----
+----
 
 Byline:
 
----
+----
 
 References:

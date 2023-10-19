@@ -1,42 +1,42 @@
 Title: Internet Resources: December Edition
 
----
+----
 
 Subtitle: Selected reviews of digital reference resources from the December issue.
 
----
+----
 
 Category: Newsletters
 
----
+----
 
 Date: 2016-12-01
 
----
+----
 
 Description: Selected reviews of digital reference resources from the December issue.
 
----
+----
 
 Line1:
 
----
+----
 
 Thumb: dec-ir-2016.jpg
 
----
+----
 
 Hero: dec-ir-2016.jpg
 
----
+----
 
 Hero-caption:
 
----
+----
 
 Text:
 
----
+----
 
 _The following reviews also appear in the December issue of Choice Reviews and on ChoiceReviews.org. Every issue, Choice publishes more than 500 reviews with new ones appearing daily online at Choice Reviews. Click here for_ (link: http://www.choice360.org/products/reviews text: _subscription information_).
 
@@ -46,7 +46,7 @@ _The following reviews also appear in the December issue of Choice Reviews and o
 
 Thumbnails or images display in a three-paned window with the image(s) in the central and largest pane; search limiters and other options are in the left pane; the right pane contains metadata, links to the Universal Image viewer, the JSON format, and public comments. Personal collections, private notes, and tag options are freely available to those who register. Images may be viewed in the web browser or with the native Universal Viewer; zoom, pan, and rotation are featured in both. Quality of images is excellent even when magnified (except some items digitized from 35 mm slides or filmstrips). Images may be downloaded as low-resolution JPGs or embedded in websites with the code provided under the open-access, educational/non-commercial-use license. Personal collections may be emailed, but the malfunctioning download of the My Collections feature is a known problem. Despite the lack of directions and glitches expected in merging into one standard metadata that describe such varied, rich collections, the site will only increase in value over time for researchers at all levels. **Summing Up: **Highly recommended. All readership levels. _ —E. M. Bentsen, Baylor University_
 
----
+----
 
 **Encyclopaedia of Islam Three,** ed. by Kate Fleet et al. Brill. Annual academic subscription is $3,800.00; outright purchase for bundled editions is $31,730.00, with annual fee of $1,170.00. (link: http://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-3 text: http://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-3 target: \_blank)
 
@@ -56,7 +56,7 @@ Issued on a quarterly basis in both online and print formats, topics cover Musli
 
 Each quarterly paper supplement—covering the entire alphabet, with a plan to reissue in its entirety in hard copy once the project is completed—contains a Cumulative List of Entries to aid users in locating earlier articles. The print version lacks references to related articles, but the online version recommends an array of broadly "related" works automatically generated from _Brill Online_. While the online searching of terms seems preferable, it is not perfect. Searches for "Mohammed" and "Muhammad," as but one example, produce different results (in this edition, as in the second), revealing a transliteration or cross-referencing problem that the publishers will want to address as the work grows in size and complexity. Despite the challenges, the new _EI3_ continues the heritage of the previous editions in striving to achieve excellence, and it remains an essential acquisition for libraries supporting academic study of Islam, Middle Eastern studies, or the Arabic language. **Summing Up:** Essential. Undergraduates through researchers/faculty. _—C. A. Sproles, University of Louisville_
 
----
+----
 
 **Foreign Office Files for the Middle East, 1971-1981: Module 1, Middle East, 1971-1974: The 1973 Arab-Israeli War and the Oil Crisis.** Adam Matthew. Contact publisher for pricing (based on FTE, purchase history, and Carnegie Classification); a typical one-time purchase with nominal hosting fee (0.5% of purchase price) ranges from $8,985.00 to $29,950.00.
 (link: http://www.archivesdirect.amdigital.co.uk/FO_MiddleEast text: http://www.archivesdirect.amdigital.co.uk/FO_MiddleEast target: \_blank)
@@ -67,7 +67,7 @@ The functionality of the interface is on par with other digitized document archi
 
 The main drawback of this module is that its scope is narrow enough that most libraries will only want to purchase it if they can get the entire _Foreign Office Files for the Middle East, 1971-1981_ collection. It will be hard for smaller academic libraries—generalist-oriented ones in particular—to justify purchasing it in isolation. Libraries supporting professional, graduate, and advanced undergraduate teaching and research on British foreign policy, Israeli and Middle Eastern history, military and strategic studies, and international relations will want to consider acquiring the full collection when it is complete in 2017. **Summing Up:** Recommended. Upper-level undergraduates through researchers/faculty; professionals/practitioners. _—D. Durant, East Carolina University_
 
----
+----
 
 **Overseas Development Institute.** (link: http://www.odi.org/ text: http://www.odi.org/ target: \_blank)
 
@@ -75,7 +75,7 @@ The main drawback of this module is that its scope is narrow enough that most li
 
 In the Events section of the site, one can find video recordings of thousands of public events or panel discussions since 1970 (e.g., "Leave No One Behind: Starting Now"), each of which explains why the organization's work is so important. There are also links to reports of current global importance, such as the exit of the UK from the European Union. Users can easily access other featured content in sections such as Upcoming Events, Publications, Expert Comment, or Multimedia. Site navigation is fairly easy using the search box at the top of each page. Typing a search term takes one to the advanced search page and a preliminary list of retrieved results. From there, users may search further and sort results by relevancy or report dates, and filter by type of report, theme, country/region, publication years, and/or various programs. Academic researchers as well as government officials, policy makers, and other professionals will gravitate to this resource for its insights about best practices and investments that have advanced progress in countries across the globe. **Summing Up:** Highly recommended. All levels of students through researchers/faculty; professionals/practitioners. _—C. E. Geck, independent scholar_
 
----
+----
 
 **World's Fairs: A Global History of Expositions.** Adam Matthew. Available for one-time purchase; contact publisher for pricing. (link: http://www.worldsfairs.amdigital.co.uk/ text: http://www.worldsfairs.amdigital.co.uk/ target: \_blank)
 
@@ -85,22 +85,22 @@ A comparable resource offered by Gale/Cengage Learning is Smithsonian Collection
 
 Clicking on a title or thumbnail image brings up a good-quality metadata record; thumbnails may be clicked to view the high-resolution original images, which may be magnified or viewed in full-screen mode. Some records collocate multiple items such as brochures and other ephemera. Each clearly states the originating archive and any associated rights statements (copyrights have not been transferred to the publisher). From the metadata page, one may perform a full-text search of the document itself, access citation information, and download entire documents or individual pages. Users may also add the item to My Archive, a feature that requires registering for an account and permits storing searches, images, and documents for later access. The database also includes interpretive essays, information about specific types of fair exhibits, and brief biographies of notable people associated with the fairs. Two special galleries highlight images of particular interest in the database and objects that can be examined in a 360-degree rotational viewer. _World's Fairs_ is an excellent online resource providing well-organized access to high-quality digitized archival materials. Users at all levels will find it relevant to research in history, sociology, cultural and tourism studies, and other fields. **Summing Up:** Highly recommended. Undergraduates through researchers/faculty. _—H. Corbett, Northeastern University_
 
----
+----
 
 Line2:
 
----
+----
 
 Author: Choice Staff
 
----
+----
 
 Author-img:
 
----
+----
 
 Byline:
 
----
+----
 
 References:

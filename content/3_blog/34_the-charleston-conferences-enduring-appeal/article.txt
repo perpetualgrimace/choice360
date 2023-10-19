@@ -1,38 +1,38 @@
 Title: The Charleston Conference’s Enduring Appeal
 
----
+----
 
 Subtitle: The event's ability to break the rules of programming and production and still remain a vital show is an eye-opener.
 
----
+----
 
 Category: Publisher Editorial
 
----
+----
 
 Date: 2017-01-18
 
----
+----
 
 Description: The event's ability to break the rules of programming and production and still remain a vital show is an eye-opener.
 
----
+----
 
 Line1:
 
----
+----
 
 Thumb: bill-mickey_headshot_web.jpg
 
----
+----
 
 Hero:
 
----
+----
 
 Hero-caption:
 
----
+----
 
 Text:
 
@@ -50,22 +50,22 @@ The first thing I did when I arrived on Wednesday was attend the Vendor Showcase
 
 Perhaps the most intangible characteristic of a successful show is the attendee experience, and the Charleston Conference was thick with it. You could feel the tightness of community; there was an abundance of organized and impromptu networking; the city itself played just the right role; and the event’s rule-breaking only added to its charm. So congratulations to Ms. Strauch and her team for a great event.
 
----
+----
 
 Line2:
 
----
+----
 
 Author:
 
----
+----
 
 Author-img: bill-mickey_headshot_web.jpg
 
----
+----
 
 Byline: Bill Mickey is editorial director of Choice.
 
----
+----
 
 References:

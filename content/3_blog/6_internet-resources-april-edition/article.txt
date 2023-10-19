@@ -1,42 +1,42 @@
 Title: Internet Resources: April Edition
 
----
+----
 
 Subtitle: Selected reviews of digital reference resources from the April issue of Choice.
 
----
+----
 
 Category: Newsletters
 
----
+----
 
 Date: 2017-04-06
 
----
+----
 
 Description: Selected reviews of digital reference resources from the April issue of Choice.
 
----
+----
 
 Line1:
 
----
+----
 
 Thumb: ir-apr-2017.jpg
 
----
+----
 
 Hero: ir-apr-2017.jpg
 
----
+----
 
 Hero-caption:
 
----
+----
 
 Text:
 
----
+----
 
 **African American Newspapers, Series 2, 1835–1956**. Readex. Available via a range of purchase models. Pricing is based on multiple factors. Perpetual licensing fees begin at approximately $11,000.00.
 (link: http://www.readex.com/ text: http://www.readex.com/ target: \_blank)
@@ -47,7 +47,7 @@ The content is significant, and researchers will appreciate having access to suc
 
 Search limiter tabs (labeled "Dates and Eras," "Newspaper Titles," "Places of Publication," "Article Types," and "Languages") give the impression of being browsable categories due to their layout. Further experimentation reveals check boxes alongside preestablished date ranges or alphabetized lists derived from the search results. A useful help section offers guidance to these search functions, although users may not notice it at first glance, first becoming disoriented by having to reexecute a basic or advanced search after clicking one of these limiters. Under the Dates and Eras section, the "Eras in American History" option may be particularly useful for researchers attempting relatively unfocused search strategies. A selection of eras are described (e.g., U.S. Civil War), noting years encompassed (1861 to 1865) and associated events (Lincoln's Emancipation Proclamation, Sherman's March, President Lincoln's assassination, abolition). The Article Type section allow researchers to limit by a particular type of primary source (e.g., election returns, legislative acts or legal proceedings, maps, birth-matrimony-death notices, etc.), but applying it may yield an alert that only some content can be searched in this way, artificially reducing the number of results. Despite quirks of the interface, researchers seeking historical African American perspectives from the 19th and the first half of the 20th centuries will certainly appreciate the breadth of this collection. **Summing Up:** Recommended. Upper-level undergraduates, through professionals/practitioners; general readers. _—L. Stern, SUNY Cortland_
 
----
+----
 
 **APA Style Central**. American Psychological Association. Annual academic subscription begins at $2,000.00, based on degree(s) granted and FTE.
 (link: http://apastyle.org/asc/ text: http://apastyle.org/asc/ target: \_blank)
@@ -58,7 +58,7 @@ In the Writing Center section one finds a good selection of templates (and one c
 
 Some may be disappointed that _APA Style Central_ does not offer the complete, full text of the latest _Publication Manual of the American Psychological Association_ (6th ed., 2009); currently, there is no ebook available institutionally, only the printed edition or the separate, derivative _APA Style Guide to Electronic References_ available as a site license in PDF format. Since the resource is designed to be used as a point-of-need tool as one writes and cites, the site simply incorporates chunks of information that highlight most of the reference types featured in the manuals. Ideal subscribers are campuses with faculty who are willing to engage and actively teach with the depth of resources this database provides. Pricing is based on FTE and other factors, and consortial discounts are available. **Summing Up:** Recommended. All academic levels; professionals/practitioners. _—J. J. Elder, Emory University_
 
----
+----
 
 **The Cleveland Memory Project**, from Cleveland State University.
 (link: http://www.clevelandmemory.org/ text: http://www.clevelandmemory.org/ target: \_blank)
@@ -67,7 +67,7 @@ Some may be disappointed that _APA Style Central_ does not offer the complete, f
 
 A search by subject, place, name, or format (e.g., audio, maps) locates terms in the descriptive metadata and the full text of documents. To find a keyword in a newspaper issue or long document requires downloading a PDF version and deploying the word-searching function of Adobe Reader. Search results may be filtered by time period, format, subject, or other limiters. The advanced search supports phrase and Boolean constructions. The site designers also offer thematic web exhibits with mostly text and photographs on topics such as Berea Children's Home, Great Lakes Industrial History Center, Ethnic Women in Cleveland, and Shaker Heights. Other exhibits cover railroads, area metroparks, and the glory days of the Cleveland Browns. Each exhibit describes the topic and links to relevant materials, including information outside of the collections per se, such as the online Encyclopedia of Cleveland History ((link: http://www.choicereviews.org text: CH, Apr'12, 49-4221 target: \_blank)) at (link: http://ech.cwru.edu/ text: http://ech.cwru.edu/ target: \_blank), hosted by Case Western Reserve University and the Western Reserve Historical Society. The quality of the search engine, item descriptions, and the visual and audio resources is very good. **Summing Up:** Highly recommended. All readership levels. _—D. A. Lincove, Ohio State University_
 
----
+----
 
 **Creative Commons**.
 (link: https://creativecommons.org/ text: https://creativecommons.org/ target: \_blank)
@@ -76,7 +76,7 @@ A search by subject, place, name, or format (e.g., audio, maps) locates terms in
 
 The _Creative Commons_ website provides resources for creators as well as a library of work released using the platform. Though there are pages describing the mission and reasoning behind the commons model, the most useful sections visible on the top navigation bar are Share your Work, which walks users through the steps to apply for a CC license and explains what platforms support it, and the Use and Remix section, which allows one to search for CC-licensed material on _Wikipedia_, _YouTube_, _Flickr_, and other digital repositories. A browsable section also highlights several dozen sites and their license types. Users may find the material on this site overwhelming—more than a billion examples across the sciences and humanities—but it is the only place that attempts to collate materials carrying a CC license. Instructors and students will find the resource valuable as a way to release their creative work or locate shareable content. **Summing Up:** Recommended. All libraries. All levels. _—J. Rodzvilla, Emerson College_
 
----
+----
 
 **Eleanor Roosevelt Papers Project**, from George Washington University.
 (link: https://erpapers.columbian.gwu.edu/ text: https://erpapers.columbian.gwu.edu/ target: \_blank)
@@ -85,7 +85,7 @@ The _Creative Commons_ website provides resources for creators as well as a libr
 
 The project moved to its current site in July 2016 and remains a work in progress. Some documents were not well digitized and are difficult to read. Currently, only "My Day" is searchable; other sections must be browsed. Printing presents challenges because the printable version does not eliminate superfluous elements. Documents can be shared via social media or email, but permalinks do not exist for all records. This wonderful resource demonstrates ER's lasting influence, however, and scholars interested in the Cold War, McCarthyism, women's history, and civil or human rights will find it invaluable. **Summing Up:** Essential. All libraries, all levels. _—E. S. Danowitz, Delaware County Community College_
 
----
+----
 
 **Frontier Life: Borderlands, Settlement and Colonial Encounters**. Adam Matthew. Pricing based on FTE, purchase history, and Carnegie Classification; a typical one-time purchase with nominal fee (0.5% of purchase price) ranges from $26,850.00 to $89,500.00.
 (link: http://www.amdigital.co.uk/m-products/product/frontier-life/ text: http://www.amdigital.co.uk/m-products/product/frontier-life/ target: \_blank)
@@ -96,7 +96,7 @@ Document types include correspondence, diaries, government and legal papers, lan
 
 This well-designed database offers wonderful content for those seeking primary sources that may yield insights into the orienting worldview of particular frontiers and their settlers. As a stand-alone database, _Frontier Life_ will remain static, as there are no plans to add new materials. This fact, along with the significant cost, may limit the number of institutions able to afford to purchase access to this rich collection curated by an editorial board of historians. **Summing Up:** Recommended. Undergraduates through researchers/faculty; professionals/practitioners. _—J. M. Piper-Burton, West Chester University of Pennsylvania_
 
----
+----
 
 **Navigating the Green Book**, by Victor Green, from the New York Public Library.
 (link: http://publicdomain.nypl.org/greenbook-map text: http://publicdomain.nypl.org/greenbook-map target: \_blank)
@@ -105,7 +105,7 @@ This well-designed database offers wonderful content for those seeking primary s
 
 These unique documents have value for studying how race relations affected business and travel for African Americans during a defined time in the nation's history. However, the site's current organization could be improved, which would help users unlock the educational potential of this content. Suggestions for improvements include the incorporation of more text that clarifies the structure and navigation of the site, explains the purpose of the supplemental links, and provides time frames for users themselves to add more years of the publication into the database. In its present format, this resource can only be cautiously recommended. **Summing Up:** Recommended. With reservations, for general readers. _—T. M. Hughes, University of Missouri - Kansas City_
 
----
+----
 
 **Shakespeare Documented**, from the Folger Shakespeare Library.
 (link: http://www.shakespearedocumented.org/ text: http://www.shakespearedocumented.org/ target: \_blank)
@@ -116,7 +116,7 @@ The focus here is more on documentary evidence and less on literary analysis. In
 
 The site is not without problems. There are occasional broken links, easy enough to clean up, but more disappointing are the many placeholders proclaiming "Shakespeare Documented is still growing" throughout 2016. Given the amount of expertise required to produce the contextual information, it may be difficult to complete. Even without full descriptions, it remains extremely valuable for specialists and interested readers. **Summing Up:** Highly recommended. All readership levels. _—S. Magedanz, California State University San Bernardino_
 
----
+----
 
 **Textual History of the Bible**, editor in chief Armin Lange. Brill. Outright purchase price $3,250.00.
 (link: http://referenceworks.brillonline.com/browse/textual-history-of-the-bible text: http://referenceworks.brillonline.com/browse/textual-history-of-the-bible target: \_blank)
@@ -127,7 +127,7 @@ The first volume, _The Hebrew Bible_, whose three parts are now available online
 
 All articles are signed, and the hierarchical numbering system for articles and their subsections facilitates citation of the print and online editions. The print edition has conveniently located footnotes with bibliographies at the end of articles, but scholars will want access to the online edition, as articles appear here before they do in print. Furthermore, the hyperlinked see references in the online edition are easier to follow than in print. While the search capabilities compensate for the publication delay of the indexes, a keyword-in-context display would be helpful. Libraries supporting advanced research in textual criticism of the Hebrew Bible will find this resource indispensable. **Summing Up:** Highly recommended. Graduate students through researchers/faculty. _—W. Fontaine, Dartmouth College_
 
----
+----
 
 **Wynken de Worde: Books, Early Modern Culture, Post-modern Readers**, from Sarah Werner.
 (link: http://sarahwerner.net/blog/ text: http://sarahwerner.net/blog/ target: \_blank)
@@ -136,22 +136,22 @@ All articles are signed, and the hierarchical numbering system for articles and 
 
 Within the section devoted to book history one finds links to digitized versions of print reference resources used in rare books work, narrative and video born-digital resources, and the British Library's _English Short Title Catalogue_, University of St. Andrews's _Universal Short Title Catalogue_, and other catalogs and databases, as well as book vocabularies and glossaries like _ABC for Book Collectors_ (corrected 8th ed., 2006). Also linked are practical tools for understanding Latin, the book trade, bindings, paper, and printers manuals—all designed to help rare book librarians and catalogers, subject librarians, faculty, and students with an interest in the burgeoning field of study devoted to book history. As the digital world of the humanities develops, it seems that more scholars are becoming aware of (and attracted to) the study of books of prior eras, their content and physical construction. The Rare Books and Manuscripts Section of ALA/ACRL at (link: https://rbms.info/ text: https://rbms.info/ target: \_blank) also offers some of this material. **Summing Up:** Recommended. All readership levels. _—A. H. Widder, Michigan State University_
 
----
+----
 
 Line2:
 
----
+----
 
 Author: Choice Staff
 
----
+----
 
 Author-img:
 
----
+----
 
 Byline:
 
----
+----
 
 References:

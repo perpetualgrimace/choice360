@@ -53,7 +53,7 @@
 
     <h3 class="card__label">
       <a class="card__label_link heading u-linked_heading <?php if($page->isHomePage()): echo 'gamma'; else: echo 'delta'; endif;?>" href="<?= $item->url() ?>" tabindex="-1">
-        <?= $item->title() ?>
+        <?= $item->title()->chopper() ?>
       </a>
     </h3>
 
@@ -89,7 +89,7 @@
           <?php if($item->description() != ''): ?>
             <?= $item->description() ?>
           <?php else: ?>
-            <?php $item->text()->chopper(150) ?>
+            <?= $item->text()->chopper(150) ?>
           <?php endif; ?>
         </span>
       <?php endif ?>
@@ -104,10 +104,10 @@
         <?php elseif($category == 'event'): ?>
         Learn more<span class="u-screenreader">: <?= $item->title() ?></span>
 
-      <?php elseif($category == 'essay'): ?>
+        <?php elseif($category == 'essay'): ?>
         Read essay<span class="u-screenreader">: <?= $item->title() ?></span>
 
-	  <?php elseif($category == 'podcast'): ?>
+	      <?php elseif($category == 'podcast'): ?>
         Listen to the episode<span class="u-screenreader">: <?= $item->title() ?></span>
 
         <?php else: ?>
