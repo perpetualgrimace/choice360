@@ -1,9 +1,9 @@
 <?php
 
-$webinars = $pages->find('librarianship/webinars')->children()->published();
+$webinars = $pages->find('librarianship/webinars')->children()->listed();
 
-$upcoming = $webinars->filterBy('date', '>', time());
-$archived = $webinars->filterBy('date', '<', time());
+// $upcoming = $webinars->filterBy('date', '>', time());
+// $archived = $webinars->filterBy('date', '<', time());
 
 $categories = $webinars->pluck('category', ',', true);
 
@@ -13,9 +13,9 @@ snippet('global.menu');
 snippet('global.header');
 
 snippet('global.textblock');
-snippet('webinars.list.upcoming', array('upcoming' => $upcoming));
+snippet('webinars.list.upcoming', array('upcoming' => $webinars));
 snippet('webinars.sidebar', array('categories' => $categories));
-snippet('webinars.list.archive', array('archived' => $archived));
+// snippet('webinars.list.archive', array('archived' => $archived));
 snippet('global.cta');
 
 snippet('global.footer');

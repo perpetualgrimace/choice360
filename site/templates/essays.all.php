@@ -1,8 +1,8 @@
 <?php
 
-$essays = $pages->find('librarianship/essays')->children()->published()->sortBy('date');
+$essays = $pages->find('librarianship/essays')->children()->listed()->sortBy('date');
 
-$categories = $essays->filterBy('date', '<', time())->pluck('category', ',', true);
+$categories = $essays->pluck('category', ',', true);
 
 snippet('global.head');
 snippet('global.menu');

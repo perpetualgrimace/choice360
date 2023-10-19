@@ -1,6 +1,6 @@
 <?php
 
-$essays = $pages->find('librarianship/essays')->children()->published();
+$essays = $pages->find('librarianship/essays')->children()->listed();
 
 $categories = $essays->pluck('category', ',', true);
 
