@@ -34,8 +34,7 @@
   <a class="card__img_link" href="<?= $item->url() ?>" tabindex="-1">
     <img class="card__img" src="<?php
     if ($item->thumb() != ''):
-      $img = $item->hero()->thumb(array('width' => 100, 'height' => 66, 'crop' => true));
-      // echo thumb($img, array('width' => 100, 'height' => 66, 'crop' => true))->url();
+      echo $item->image($item->thumb())->url();
 
     elseif ($item->youtube_id() != ''):
       echo 'http://img.youtube.com/vi/' . $item->youtube_id() . '/1.jpg';
