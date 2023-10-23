@@ -1,0 +1,227 @@
+// scale baseline with document
+html {
+  font-size: 105%;
+
+  @include bp(s2) {
+    font-size: 115%;
+  }
+
+  @include bp(m2) {
+    font-size: 125%; // 1rem = 20px
+  }
+}
+
+
+// webfonts
+@mixin effra {
+  font-family: "effra", Effra-regular, AvenirNext-Medium, Avenir-Medium, avenir, sans-serif;
+  font-weight: 400;
+}
+@mixin effra-italic {
+  font-family: "effra", Effra-regular, AvenirNext-Medium, Avenir-Medium, avenir, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+@mixin effra-medium {
+  font-family: "effra", Effra-Medium, AvenirNext-Medium, Avenir-Medium, avenir, sans-serif;
+  font-weight: 500;
+}
+@mixin merriweather {
+  font-family: "merriweather", Merriweather, georgia, serif;
+  font-weight: 300;
+}
+@mixin merriweather-italic {
+  font-family: "merriweather", Merriweather, georgia, serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+
+// global
+html {
+  @include effra;
+}
+
+main * {
+  line-height: 1em;
+}
+
+// reset form elements
+button, input[type=button] {
+  border: none;
+}
+
+a, strong,
+button, input[type=button] {
+  @include effra-medium;
+  letter-spacing: 0.01em;
+}
+
+em {
+  @include effra-italic;
+}
+
+h1, h2, h3, h4, h5, h6,
+.heading {
+  @include merriweather;
+
+  em, i {
+    @include merriweather-italic;
+  }
+}
+
+h1,
+.alpha {
+  font-size: $beta;
+  line-height: 1.25em;
+  margin-bottom: 1em;
+
+  @include bp(m2) {
+    font-size: $alpha;
+  }
+}
+
+h2,
+.beta {
+  font-size: $beta;
+  line-height: 1.2em;
+  margin-bottom: 0.75em;
+}
+
+h3,
+.gamma {
+  font-size: $gamma;
+  line-height: 1.3em;
+  margin-bottom: 0.5em;
+}
+
+h4, h5, h6,
+.delta {
+  font-size: $delta;
+  line-height: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.epsilon {
+  font-size: ($delta + $milli)/2;
+  line-height: 1.25;
+}
+
+small,
+.milli {
+  font-size: $milli;
+}
+
+p,
+.button {
+  line-height: 1.58em;
+}
+
+.main p a:not(.button),
+.main article ol a:not(.button),
+.main article ul a:not(.button) {
+  line-height: inherit;
+}
+
+
+// scale text up or down based on parent class
+@include bp(m2) {
+  .scale--xl {
+    .button {
+      font-size: $gamma;
+    }
+  }
+}
+
+.scale--lg {
+  p, li, a {
+    font-size: $gamma;
+    line-height: 1.74em;
+  }
+  .button {
+    font-size: $delta;
+  }
+}
+
+.scale--normal {
+  p, li, a {
+    font-size: $delta;
+  }
+  li {
+    line-height: 1em;
+  }
+  .button {
+    font-size: $milli;
+  }
+  p, li {
+    max-width: 34em; // reign in line width
+  }
+}
+
+.scale--sm {
+  p, li, a,
+  .button {
+    font-size: $milli;
+  }
+  p, li {
+    max-width: 46em; // reign in line width
+  }
+}
+
+.cta {
+  h2, h3, h4 {
+    font-size: $beta;
+  }
+}
+
+
+// set font size for asides and figures
+.content aside *,
+.content figure * {
+  font-size: $milli;
+  line-height: 1.5em;
+}
+
+// button line height
+button, input, textarea {
+  line-height: 1.3em;
+}
+
+
+// alignment helpers
+.u-left {
+  text-align: left;
+}
+.u-left--center {
+  @extend .u-left;
+  @include bp(m2) {
+    text-align: center;
+  }
+}
+
+.u-center {
+  text-align: center;
+}
+.u-center--left {
+  @extend .u-center;
+  @include bp(m2) {
+    text-align: left;
+  }
+}
+
+.u-right {
+  text-align: right;
+}
+.u-right--center {
+  @extend .u-right;
+  @include bp(m2) {
+    text-align: center;
+  }
+}
+
+
+// text-rendering
+.t-dark * {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

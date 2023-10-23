@@ -1,0 +1,93 @@
+// form elements
+
+form > .columns {
+  &:first-of-type {
+    margin-top: 1.325rem;
+  }
+  &:nth-of-type(n + 2) {
+    margin-top: -1rem;
+  }
+  &:last-of-type {
+    margin-top: 0;
+  }
+}
+
+.field {
+  position: relative;
+
+  & + .field {
+    margin-top: $grid-padding;
+  }
+}
+
+label,
+input:not([type=submit]),
+textarea {
+  width: 100%;
+}
+
+input:not([type=submit]),
+textarea {
+  padding: $field-padding;
+}
+
+label {
+  padding-bottom: $grid-padding / 2;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+textarea {
+  resize: vertical;
+  min-height: 8rem;
+  max-height: 24rem;
+}
+
+
+// text input field left, button right
+.u-append_button {
+
+  // baseline styles
+  > * {
+    height: 1.75rem;
+  }
+
+  // left
+  input {
+    box-sizing: border-box;
+    width: 80%;
+  }
+
+  // right
+  button, .button {
+    text-align: center;
+    float: right;
+    box-sizing: border-box;
+    width: 20%;
+    overflow: auto;
+
+    // make sure svg is centered
+    svg {
+      margin: 0 auto;
+    }
+  }
+
+
+  // that sweet progressive enhancement
+  @supports (display: -webkit-flex) or (display: -moz-flex) or (display: flex) {
+    display: flex;
+
+    > * {
+      flex: 1;
+      margin-top: 0 !important;
+      width: auto !important;
+    }
+
+    button, input[type=submit] {
+      flex: 0 auto;
+    }
+  }
+
+}

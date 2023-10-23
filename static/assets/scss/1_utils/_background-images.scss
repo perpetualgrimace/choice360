@@ -1,0 +1,29 @@
+// Svg background with fallback and retina support
+@mixin svg($filename, $path : "img/") {
+  background-image: url(../../#{$path}#{$filename}.png);
+  background-image:
+  linear-gradient(transparent, transparent),
+  url(../../#{$path}#{$filename}.svg);
+
+  @include hidpi {
+    background-image: url(../../#{$path}#{$filename}@2x.png);
+    background-image:
+    linear-gradient(transparent, transparent),
+    url(../../#{$path}#{$filename}.svg);
+  }
+}
+
+// pattern background
+@mixin bg-pattern($filename, $width : auto, $height : auto) {
+  background-image: url(../../img/backgrounds/#{$filename}.png);
+  background-repeat: repeat;
+  background-size: $width $height;
+  background-position: -20% 0;
+
+  @include hidpi {
+    background-image: url(../../img/backgrounds/#{$filename}@2x.png);
+    background-repeat: repeat;
+    background-position: -20% 0;
+    background-size: $width $height;
+  }
+}

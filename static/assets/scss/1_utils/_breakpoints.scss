@@ -1,0 +1,74 @@
+// Adapted from responsive.scss
+
+@mixin bp($breakpoint, $media: all) {
+
+   @if $breakpoint == s1 {
+      @media only #{$media} and (min-width: $s1) {
+      @content;
+      }
+   } @else if $breakpoint == s2 {
+      @media only #{$media} and (min-width: $s2) {
+      @content;
+      }
+   } @else if $breakpoint == m1 {
+      @media only #{$media} and (min-width: $m1) {
+      @content;
+      }
+   } @else if $breakpoint == m2 {
+      @media only #{$media} and (min-width: $m2) {
+      @content;
+      }
+   } @else if $breakpoint == m3 {
+      @media only #{$media} and (min-width: $m3) {
+      @content;
+      }
+   } @else if $breakpoint == l1 {
+      @media only #{$media} and (min-width: $l1) {
+      @content;
+      }
+   } @else if $breakpoint == l2 {
+      @media only #{$media} and (min-width: $l2) {
+      @content;
+      }
+   } @else if $breakpoint == l3 {
+      @media only #{$media} and (min-width: $l3) {
+      @content;
+      }
+   } @else if $breakpoint == tall {
+     @media only #{$media} and (min-height: $s1) {
+     @content;
+     }
+   }
+
+}
+
+
+@mixin bp-max($breakpoint, $media: all) {
+
+   @if $breakpoint == s1 {
+      @media only #{$media} and (max-width: $s1 - 0.001em) {
+      @content;
+      }
+   } @else if $breakpoint == s2 {
+      @media only #{$media} and (max-width: $s2 - 0.001em) {
+      @content;
+      }
+   } @else if $breakpoint == m1 {
+      @media only #{$media} and (max-width: $m1 - 0.001em) {
+      @content;
+      }
+   } @else if $breakpoint == m2 {
+      @media only #{$media} and (max-width: $m2 - 0.001em) {
+      @content;
+      }
+   } @else if $breakpoint == m3 {
+      @media only #{$media} and (max-width: $m3 - 0.001em) {
+      @content;
+      }
+   } @else if $breakpoint == l1 {
+      @media only #{$media} and (max-width: $l1 - 0.001em) {
+      @content;
+      }
+   }
+
+}

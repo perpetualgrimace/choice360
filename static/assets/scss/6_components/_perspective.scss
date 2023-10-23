@@ -1,0 +1,38 @@
+// perspective
+.perspective {
+  @include bp-max(m2) {
+    &__img {
+      width: 28rem;
+
+      &.has-shadow {
+        box-shadow: 0 2px 4px 0px $shadow;
+      }
+    }
+  }
+
+  @include bp(m2) {
+    perspective: 600px;
+
+    &__img.has-shadow {
+      box-shadow: -1px 3px 4px 0px $shadow;
+    }
+  }
+
+  &__link {
+    transform: rotateY(8deg);
+
+    &:hover,
+    &:focus {
+      box-shadow: none;
+      transform: none;
+
+      .perspective__img {
+        opacity: $hover-opacity;
+
+        &.has-shadow {
+          box-shadow: 0 4px 8px 0 $shadow;
+        }
+      }
+    }
+  }
+}

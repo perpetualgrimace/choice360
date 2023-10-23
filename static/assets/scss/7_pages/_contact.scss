@@ -1,0 +1,23 @@
+// contact page styles
+
+// sidebar links
+.contact_links {
+
+  h4.contact_links__heading {
+    margin-top: 1.625rem;
+  }
+
+  &__subheading {
+    margin-top: 1.125rem;
+  }
+  &__caption {
+    margin-top: 0.25em;
+
+    + .contact_links__subheading {
+      margin-top: 0.825rem;
+    }
+  }
+  &__link {
+    @include nav-link; // helper mixin found in _theme.scss
+  }
+}

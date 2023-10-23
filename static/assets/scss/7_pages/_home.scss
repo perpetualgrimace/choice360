@@ -1,0 +1,11 @@
+// home page styles
+.newsletter_signup {
+  padding-bottom: $grid-padding;
+}
+
+// rein in that iPhone
+.home .figure__img {
+  @media (max-width: $m2 - 0.001) {
+    max-height: 12rem;
+  }
+}

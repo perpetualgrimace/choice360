@@ -1,0 +1,28 @@
+$timing: 0.15s ease-out;
+
+* {
+  transition:
+    color $timing,
+    background $timing,
+    border $timing,
+    opacity $timing,
+    box-shadow $timing,
+    fill $timing,
+    transform $timing;
+}
+
+// reset transition for nested stuff
+a {
+  > em, > i,
+  > strong, > b,
+  fill, g, path {
+    transition: none;
+  }
+}
+
+.perspective__img {
+  transition:
+    transform $timing,
+    opacity $timing,
+    box-shadow $timing;
+}

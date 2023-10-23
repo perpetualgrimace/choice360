@@ -1,0 +1,63 @@
+// sidebar
+.sidebar {
+  @include bp-max(m2) {
+    margin-bottom: -($section-padding / 2); // offset $section-padding
+  }
+  @include bp(m2) {
+    margin-top: 0.4rem; // fudged
+    padding: $grid-padding $grid-padding $grid-padding ($grid-padding * 4) !important;
+  }
+
+  // nav
+  &__link {
+    font-weight: 400;
+  }
+
+  &__item + .sidebar__item {
+    margin-top: $grid-padding / 2;
+  }
+
+  // search
+  &__search > .search {
+    @include bp(m2) {
+      max-width: 16em;
+      margin-left: auto;
+    }
+  }
+}
+
+
+// tablet app ad
+.tablet {
+
+  &__heading {
+    margin-top: 0.875em;
+    margin-bottom: 1em;
+  }
+
+  &__badge {
+    display: inline-block;
+
+    + .tablet__badge {
+      margin-left: $grid-padding;
+    }
+  }
+}
+
+
+// sidebar share icons
+.share__item {
+  margin-bottom: $grid-padding / 2;
+
+  // unstack items on smaller viewports
+  @include bp-max(m2) {
+    display: inline-block;
+    margin-right: $grid-padding;
+  }
+
+  // svg placement
+  svg {
+    top: $grid-padding / 4;
+    margin-right: $grid-padding / 4;
+  }
+}

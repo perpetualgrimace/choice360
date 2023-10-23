@@ -1,0 +1,54 @@
+// article
+.article-border:after {
+  content: '';
+  display: block;
+  background: $light-1;
+
+  @include bp-max(m2) {
+    width: 100%;
+    height: $stroke-width;
+    margin-top: ($section-padding * 1.5);
+  }
+
+  @include bp(m2) {
+    width: $stroke-width;
+    height: 100%;
+    height: calc(100% - #{$grid-padding * 2}); // offset by grid padding
+    position: absolute;
+    top: $grid-padding * 1.5;
+    right: -$grid-padding;
+  }
+}
+
+$avatar-width: $grid-padding * 6;
+
+// byline
+.byline {
+  margin-top: $grid-padding * 3;
+
+  &__text {
+    width: 100%;
+    width: calc(100% - #{$avatar-width + ($grid-padding * 2)});
+    display: inline-block;
+  }
+}
+.author {
+  width: $avatar-width;
+  height: $avatar-width;
+  border-radius: 50%;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: $grid-padding * 2;
+
+  &__img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+}
+
+.content {
+  h1, h2, h3, h4, h5, h6 {
+    clear: both;
+  }
+}

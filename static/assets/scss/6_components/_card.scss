@@ -1,0 +1,106 @@
+// cards
+.columns .cards {
+  margin-top: -($grid-padding);
+  margin-bottom: $grid-padding / 2;
+}
+
+
+// flexbox enhancement for placement
+.card {
+  margin-top: $grid-padding;
+
+  @include bp(s2) {
+    display: flex;
+    align-items: flex-start;
+
+    &__info {
+      flex: 1;
+    }
+  }
+}
+
+
+// clear common rows
+.card.g-6:nth-of-type(odd),
+.card.g-4:nth-of-type(3n + 4) {
+  clear: left;
+}
+
+
+// midpoint breakpoint for cards
+.blogs .card.g-6 {
+  @include bp-max(m3) {
+    width: 100%;
+  }
+}
+.card.g-4 {
+  @media screen and (min-width: $m2) and (max-width: ($m3 - 0.00001)) {
+    width: 50%;
+
+    &:nth-of-type(even) {
+      clear: none;
+    }
+
+    &:nth-of-type(odd) {
+      clear: left;
+    }
+  }
+}
+
+
+// position card image left
+.card__img_link {
+  max-width: 100%;
+
+  // collapse on small screens
+  @include bp-max(s2) {
+    margin-bottom: $grid-padding;
+  }
+
+  @include bp(s2) {
+    width: $card-img-width;
+    min-width: $card-img-width;
+    margin-right: $grid-padding;
+    float: left;
+  }
+}
+
+
+// position card info right of image
+
+
+// typography and vertical spacing
+.card__label,
+.card__label_link:not(.card__label_link--with_description) {
+  line-height: 1em;
+}
+
+.card__meta {
+  line-height: 1em;
+}
+
+.card__divider {
+  color: $light-1;
+}
+
+.card__cta {
+  display: inline;
+  line-height: 1em;
+
+  // add margin to account for description
+  // currently only for home page
+  &--with_description {
+    display: block;
+    margin-top: $grid-padding;
+    line-height: 1.6em; // reset line height
+  }
+}
+
+.card__description + .card__cta_link {
+  font-size: $delta;
+}
+
+// more link (shown instead of pagination on home page)
+.more_cards {
+  margin-bottom: $grid-padding;
+}

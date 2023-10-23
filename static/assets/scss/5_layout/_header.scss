@@ -1,0 +1,71 @@
+// header
+.header {
+  height: 11rem;
+  background-color: $dark-2; // fallback
+  // not using $dark-2 as a base color below, only because the overlaid image changes the color slightly
+  background: #282F49 url('../../img/header-bg.jpg') no-repeat;
+  background-size: cover;
+  background-position: left top;
+
+  &__headline {
+    margin: 1rem auto 1.25rem;
+
+    @include bp-max(m2) {
+      margin-left: 0;
+    }
+  }
+
+  &__subhead {
+    margin-top: -0.5rem;
+    margin-bottom: 1rem;
+
+    @include bp-max(m2) {
+      margin-right: auto;
+    }
+  }
+
+  .container {
+    display: flex;
+    padding-top: $grid-padding;
+    padding-bottom: $grid-padding;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+  }
+}
+
+.header--home {
+  height: 14rem;
+}
+
+.header--condensed {
+  height: 6rem;
+}
+
+.header--search {
+  .search {
+    @include box-shadow;
+    margin-top: $grid-padding;
+  }
+}
+
+
+// when the title falls underneath the header
+.title {
+  padding-top: $section-padding;
+
+  &__headline {
+    margin-top: $grid-padding / 2;
+    margin-bottom: 0;
+  }
+
+  &__headline + .title__subtitle {
+    margin-top: ($grid-padding / 2);
+    margin-bottom: ($grid-padding * 1.25);
+  }
+}
+
+.title + .section {
+  padding-top: 0;
+}
