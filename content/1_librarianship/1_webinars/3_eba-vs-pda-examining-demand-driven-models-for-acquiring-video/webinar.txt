@@ -10,7 +10,7 @@ Time: 2:00pm ET
 
 ----
 
-Category: Collection Development and Management 
+Category: Collection Development and Management
 
 ----
 
@@ -18,7 +18,7 @@ Sponsor-name: Alexander Street Press
 
 ----
 
-Sponsor-url: http://alexanderstreet.com
+Sponsor-url: https://alexanderstreet.com
 
 ----
 

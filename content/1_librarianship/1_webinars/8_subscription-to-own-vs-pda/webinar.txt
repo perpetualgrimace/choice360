@@ -30,7 +30,7 @@ Sponsor_name: Alexander Street
 
 ----
 
-Sponsor_url: http://alexanderstreet.com/
+Sponsor_url: https://alexanderstreet.com/
 
 ----
 

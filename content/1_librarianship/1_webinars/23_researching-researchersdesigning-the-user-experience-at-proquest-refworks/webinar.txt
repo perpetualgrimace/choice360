@@ -18,11 +18,11 @@ Sponsor-name: ProQuest
 
 ----
 
-Sponsor-url: http://www.proquest.com
+Sponsor-url: https://www.proquest.com
 
 ----
 
-Line1: 
+Line1:
 
 ----
 
@@ -34,11 +34,11 @@ Youtube-id: _0yEhJZt43Y
 
 ----
 
-Thumb: 
+Thumb:
 
 ----
 
-Text: 
+Text:
 
 What does the researcher’s journey look like? That’s the challenge the User Experience Design team at ProQuest works to understand and improve. Join Mathias Burton, the lead designer on the New RefWorks platform, to see how user research is driving their design decisions. Plus, see the broader vision Mathias and the RefWorks team as they respond to the needs of libraries and researchers.
 

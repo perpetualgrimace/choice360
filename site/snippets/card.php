@@ -37,7 +37,7 @@
       echo $item->image($item->thumb())->url();
 
     elseif ($item->youtube_id() != ''):
-      echo 'http://img.youtube.com/vi/' . $item->youtube_id() . '/1.jpg';
+      echo 'https://img.youtube.com/vi/' . $item->youtube_id() . '/1.jpg';
 
     elseif ($item->hero() != ''):
       $img = $item->image($item->hero());

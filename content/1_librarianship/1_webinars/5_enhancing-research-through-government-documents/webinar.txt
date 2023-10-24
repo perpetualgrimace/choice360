@@ -18,7 +18,7 @@ Sponsor_name: ProQuest
 
 ----
 
-Sponsor_url: http://www.proquest.com/
+Sponsor_url: https://www.proquest.com/
 
 ----
 

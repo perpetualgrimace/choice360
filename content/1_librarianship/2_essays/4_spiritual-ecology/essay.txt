@@ -14,7 +14,7 @@ Category: General Purpose
 
 ----
 
-Libguides_url: http://ala-choice.libguides.com/c.php?g=405262
+Libguides_url: https://ala-choice.libguides.com/c.php?g=405262
 
 ----
 

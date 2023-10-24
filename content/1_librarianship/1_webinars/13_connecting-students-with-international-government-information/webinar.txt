@@ -6,7 +6,7 @@ Youtube_id: docN5wGML3s
 
 ----
 
-Registration_url: http://acrlchoice.learningtimesevents.org/webinar-june162016/
+Registration_url: https://acrlchoice.learningtimesevents.org/webinar-june162016/
 
 ----
 
@@ -24,7 +24,7 @@ Sponsor_name: World Bank eLibrary
 
 ----
 
-Sponsor_url: http://elibrary.worldbank.org/
+Sponsor_url: https://elibrary.worldbank.org/
 
 ----
 

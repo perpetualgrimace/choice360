@@ -6,7 +6,7 @@ Youtube_id: aW52YHXV2ik
 
 ----
 
-Registration_url: http://acrlchoice.learningtimesevents.org/webinar-june142016/
+Registration_url: https://acrlchoice.learningtimesevents.org/webinar-june142016/
 
 ----
 
@@ -26,7 +26,7 @@ Sponsor_name: ProQuest
 
 ----
 
-Sponsor_url: http://www.proquest.com/
+Sponsor_url: https://www.proquest.com/
 
 ----
 

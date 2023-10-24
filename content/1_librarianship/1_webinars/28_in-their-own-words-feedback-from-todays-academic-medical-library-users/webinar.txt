@@ -18,11 +18,11 @@ Sponsor-name: ProQuest
 
 ----
 
-Sponsor-url: http://proquest.com
+Sponsor-url: https://proquest.com
 
 ----
 
-Line1: 
+Line1:
 
 ----
 
@@ -34,11 +34,11 @@ Youtube-id: c9RYQQ0T24s
 
 ----
 
-Thumb: 
+Thumb:
 
 ----
 
-Text: 
+Text:
 
 Are you aligned with your health and medical students? Find out through feedback and trends collected from faculty, undergraduate and graduate students. This session features guest speaker Joe Costello, Informationist at Western Michigan University Homer Stryker M.D. School of Medicine, who will join our panel to discuss the challenge of discovering and accessing vital health and medical resources.
 

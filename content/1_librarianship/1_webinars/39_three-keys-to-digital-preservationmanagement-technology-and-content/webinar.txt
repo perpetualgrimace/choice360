@@ -18,11 +18,11 @@ Sponsor-name: Rowman & Littlefield
 
 ----
 
-Sponsor-url: http://www.rowmanlittlefield.com
+Sponsor-url: https://www.rowmanlittlefield.com
 
 ----
 
-Line1: 
+Line1:
 
 ----
 
@@ -38,7 +38,7 @@ Thumb: youtube-thumbnail.jpg
 
 ----
 
-Text: 
+Text:
 
 ### Summary:
 In this webinar, Edward M. Corrado and Heather Moulaison Sandy cover the basics of digital preservation, starting with what it is and what it is not. They then examine three overarching (and interrelated) concerns in digital preservation: management, technology, and the content itself. They conclude by considering some additional aspects of the digital preservation puzzle such as what you can do to prepare if you don’t already have a digital preservation system in place at your library.

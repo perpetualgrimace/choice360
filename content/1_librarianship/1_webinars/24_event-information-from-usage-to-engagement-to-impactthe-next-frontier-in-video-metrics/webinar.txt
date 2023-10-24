@@ -18,11 +18,11 @@ Sponsor-name: Alexander Street
 
 ----
 
-Sponsor-url: http://www.alexanderstreet.com
+Sponsor-url: https://www.alexanderstreet.com
 
 ----
 
-Line1: 
+Line1:
 
 ----
 
@@ -34,11 +34,11 @@ Youtube-id: yk8xLua9Ch0
 
 ----
 
-Thumb: 
+Thumb:
 
 ----
 
-Text: 
+Text:
 
 When data-driven video acquisition models were first introduced, video providers offered a slew of useful data to libraries about its usage. Metrics included number of playbacks, searches, hours of video consumed, and more.
 
@@ -58,7 +58,7 @@ David has 14+ years’ experience in the e-learning and library products space. 
 
 At Alexander Street, David utilizes his skills in digital publishing to launch multimedia business resources with e-learning functionality. In his position, he pairs traditional business materials with previously undiscovered content to deliver exceptional digital-era teaching and learning products built to empower faculty and students in new ways.
 
-David holds degrees from George Fox University and the University of Arizona, and has completed executive education certificates from the University of Chicago and City University. He serves on the Publisher’s Advisory Board for SIPX and writes a column for Against the Grain that explores blurring lines in content, services, and responsibilities within libraries and the companies that serve them. 
+David holds degrees from George Fox University and the University of Arizona, and has completed executive education certificates from the University of Chicago and City University. He serves on the Publisher’s Advisory Board for SIPX and writes a column for Against the Grain that explores blurring lines in content, services, and responsibilities within libraries and the companies that serve them.
 
 **Pete Ciufetti, Vice President of Product Development at Alexander Street.**
 Pete has been a technologist in the industry for over 25 years working for companies that produce library information products. He has held senior technical positions at SilverPlatter, KnowledgeCite, HW Wilson, and Credo Reference. Pete has an ALB in Natural Sciences/Computer Science from Harvard University. Pete gets inspired working with librarians, many of who are early adopters; passionately service-oriented; and can accomplish amazing things with limited resources.

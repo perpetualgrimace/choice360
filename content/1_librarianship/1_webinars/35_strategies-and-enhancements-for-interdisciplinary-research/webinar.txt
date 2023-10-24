@@ -18,11 +18,11 @@ Sponsor-name: Elsevier
 
 ----
 
-Sponsor-url: http://www.sciencedirect.com
+Sponsor-url: https://www.sciencedirect.com
 
 ----
 
-Line1: 
+Line1:
 
 ----
 
@@ -34,16 +34,16 @@ Youtube-id: 2E_1RZAm5RY
 
 ----
 
-Thumb: 
+Thumb:
 
 ----
 
-Text: 
+Text:
 
 ### Summary:
-As the need for multidisciplinary scientific research accelerates, scientists, engineers, and students often read beyond their discipline to engage with today’s most pressing questions. However, venturing into a new literature can put even seasoned scientists out of depth and bog them down with unfamiliar concepts and terms. 
+As the need for multidisciplinary scientific research accelerates, scientists, engineers, and students often read beyond their discipline to engage with today’s most pressing questions. However, venturing into a new literature can put even seasoned scientists out of depth and bog them down with unfamiliar concepts and terms.
 
- This webinar offers strategies for helping researchers find the articles and chapters they need, when they need them, through ScienceDirect’s enhanced, interactive reading experience. 
+ This webinar offers strategies for helping researchers find the articles and chapters they need, when they need them, through ScienceDirect’s enhanced, interactive reading experience.
 
  Attendees learn practical strategies for:
  <ul><UL><li>Navigating links between journal and book content</li>
@@ -55,7 +55,7 @@ As the need for multidisciplinary scientific research accelerates, scientists, e
 <h4 class="u-no_margin delta">Caitlin Beddows</h4>
  Channel Marketing Manager
  Elsevier
-  
+
 Caitlin Beddows is Channel Marketing Manager at Elsevier, focusing on books on ScienceDirect. Her responsibilities include product marketing for Reference Modules, Major Reference Works, Book Series and the new ScienceDirect Topics. Caitlin is based in London, UK. She enjoys traveling, cooking, and playing Lacrosse.
 
 #### Dr. Elaine Reynolds

@@ -18,11 +18,11 @@ Sponsor-name: Choice Bibliographic Essays
 
 ----
 
-Sponsor-url: http://ala-choice.libguides.com/
+Sponsor-url: https://ala-choice.libguides.com/
 
 ----
 
-Line1: 
+Line1:
 
 ----
 
@@ -34,11 +34,11 @@ Youtube-id: FNgsuCwdeBc
 
 ----
 
-Thumb: 
+Thumb:
 
 ----
 
-Text: 
+Text:
 
 Are you looking to get the most of LibGuides built-in features to increase consistency across your guides? Seeking out ideas for creating your own style guidelines? Looking for tips on how to make your guides more accessible while building in a ‘positive library experience’ for all? Or are you looking to pick up some writing for the web and design tips to make your guides more effective? Then this session is for you! The purpose of this session is to give regular and admin users an overview of some best practices for managing and designing your LibGuides content.
 

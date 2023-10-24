@@ -18,11 +18,11 @@ Sponsor-name: Gale, a Cengage company
 
 ----
 
-Sponsor-url: http://www.gale.com
+Sponsor-url: https://www.gale.com
 
 ----
 
-Line1: 
+Line1:
 
 ----
 
@@ -34,20 +34,20 @@ Youtube-id: BRR9ROFjhKI
 
 ----
 
-Thumb: 
+Thumb:
 
 ----
 
-Text: 
+Text:
 
 ### Summary:
-In recent years, important women’s rights issues have been at the forefront of the news. Individuals and scholars alike require quality resources as they seek to contribute to (or change) the mainstream narrative which exists today. 
+In recent years, important women’s rights issues have been at the forefront of the news. Individuals and scholars alike require quality resources as they seek to contribute to (or change) the mainstream narrative which exists today.
 
 This webinar will provide insight into women’s history and the resources available for academic libraries. Hear from Molly Murphy MacGregor of the National Women’s History Project. She’ll share how her organization recognizes and celebrates the diverse and historic accomplishments of women by providing informational services and educational and promotional materials.
 
-Primary source archives allow scholars and researchers to trace the path of women’s issues from the past to present, uncovering the stories behind the fight for equality—and the ongoing battle for the rights of women everywhere. 
+Primary source archives allow scholars and researchers to trace the path of women’s issues from the past to present, uncovering the stories behind the fight for equality—and the ongoing battle for the rights of women everywhere.
 
-Learn how Gale is providing academic libraries with resources to explores the difficulties and triumphs that have affected women, the foundations of women’s movements, women’s contributions to society, and the struggles that women continue to face today. With primary sources pulled from manuscripts, newspapers, periodicals, and more, researchers can discover firsthand how our past intimately shapes our future. 
+Learn how Gale is providing academic libraries with resources to explores the difficulties and triumphs that have affected women, the foundations of women’s movements, women’s contributions to society, and the struggles that women continue to face today. With primary sources pulled from manuscripts, newspapers, periodicals, and more, researchers can discover firsthand how our past intimately shapes our future.
 *****
 ### Speakers:
 <h4 class="u-no_margin delta">Phil Virta</h4>

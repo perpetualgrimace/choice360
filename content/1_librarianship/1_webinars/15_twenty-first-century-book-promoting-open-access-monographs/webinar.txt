@@ -6,7 +6,7 @@ Youtube-id: 9hC_5gkwHQA
 
 ----
 
-Registration-url: http://acrlchoice.learningtimesevents.org/webinar-aug042016/
+Registration-url: https://acrlchoice.learningtimesevents.org/webinar-aug042016/
 
 ----
 
@@ -14,7 +14,7 @@ Date: 2016-08-04
 
 ----
 
-Text: 
+Text:
 
 Representatives from disruptors in the publishing industry discuss innovative financial and publication models that engage libraries in promoting open access to high-quality scholarly works.
 
@@ -50,4 +50,4 @@ Category: Open Access Resources for Academic Libraries
 
 ----
 
-Thumb: 
+Thumb:

@@ -18,7 +18,7 @@ Sponsor_name: McGraw Hill Education
 
 ----
 
-Sponsor_url: http://www.mheducation.com/
+Sponsor_url: https://www.mheducation.com/
 
 ----
 

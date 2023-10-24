@@ -18,11 +18,11 @@ Sponsor-name: EBSCO
 
 ----
 
-Sponsor-url: http://www.ebsco.com
+Sponsor-url: https://www.ebsco.com
 
 ----
 
-Line1: 
+Line1:
 
 ----
 
@@ -34,17 +34,17 @@ Youtube-id: ew1wos_9trY
 
 ----
 
-Thumb: 
+Thumb:
 
 ----
 
-Text: 
+Text:
 
 ### Summary:
 Publishers, vendors, and libraries endorse and fund many open monograph publishing activities, but even as books make their way into open access, digitally-native formats, they frequently remain invisible to end users, or at least hard to find. Often, library management systems and distribution platforms surface only paid electronic or print versions of a book without any indication that an open access version exists. How then do open access monographs achieve the visibility and influence of traditionally published books?
 
- Join ACRL and Choice for a discussion of these issues and others around open monograph discoverability and distribution from the perspectives of publishers, vendors, and libraries. 
- 
+ Join ACRL and Choice for a discussion of these issues and others around open monograph discoverability and distribution from the perspectives of publishers, vendors, and libraries.
+
 Panelists address key questions around open publication and discoverability, such as:
 
 <ul><li> Should open monographs be treated differently from traditionally published books?</li>
@@ -58,7 +58,7 @@ Panelists address key questions around open publication and discoverability, suc
 Director, Strategic Integration and Partnerships and Program Manager, Lever Press
 Michigan Publishing
 
- Rebecca Welzenbach is Director, Strategic Integration and Partnerships, at Michigan Publishing, a division of the University of Michigan Library. There, she works on Lever Press (leverpress.org), the Mapping the Free eBook Supply Chain project, and other initiatives that facilitate the production, dissemination, and normalization of open access and born-digital scholarship. Prior to this role, she coordinated the Michigan Publishing OA Journals Program and was the Outreach Librarian for the Early English Books Online-Text Creation Partnership (EEBO-TCP). A graduate of the University of Michigan's School of Information, she has been part of the scholarly publishing team at the University of Michigan Library since 2009. 
+ Rebecca Welzenbach is Director, Strategic Integration and Partnerships, at Michigan Publishing, a division of the University of Michigan Library. There, she works on Lever Press (leverpress.org), the Mapping the Free eBook Supply Chain project, and other initiatives that facilitate the production, dissemination, and normalization of open access and born-digital scholarship. Prior to this role, she coordinated the Michigan Publishing OA Journals Program and was the Outreach Librarian for the Early English Books Online-Text Creation Partnership (EEBO-TCP). A graduate of the University of Michigan's School of Information, she has been part of the scholarly publishing team at the University of Michigan Library since 2009.
 
 #### Michael Zeoli
 Vice President for Content Development and Publisher Relations

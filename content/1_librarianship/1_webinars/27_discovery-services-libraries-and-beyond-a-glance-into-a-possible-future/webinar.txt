@@ -18,11 +18,11 @@ Sponsor-name: Ex Libris - A ProQuest Company
 
 ----
 
-Sponsor-url: http://exlibrisgroup.com
+Sponsor-url: https://exlibrisgroup.com
 
 ----
 
-Line1: 
+Line1:
 
 ----
 
@@ -34,11 +34,11 @@ Youtube-id: 1WNmNLzsTHk
 
 ----
 
-Thumb: 
+Thumb:
 
 ----
 
-Text: 
+Text:
 
 Discovery solutions have transformed libraries by unlocking collections, enhancing librarianship, and enriching the research process. With its growing importance in supporting academic excellence, library discovery continues to evolve rapidly and represents a vital gateway for researchers and students to access information sources. In this session we will look at what lies ahead for discovery services and investigate possible arrays of improvements.
 

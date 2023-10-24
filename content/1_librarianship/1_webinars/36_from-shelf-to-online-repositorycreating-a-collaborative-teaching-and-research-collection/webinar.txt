@@ -18,11 +18,11 @@ Sponsor-name: Adam Matthew Digital
 
 ----
 
-Sponsor-url: http://www.amdigital.co.uk
+Sponsor-url: https://www.amdigital.co.uk
 
 ----
 
-Line1: 
+Line1:
 
 ----
 
@@ -34,11 +34,11 @@ Youtube-id: wIOFDtXwXlg
 
 ----
 
-Thumb: 
+Thumb:
 
 ----
 
-Text: 
+Text:
 
 ### Summary:
 Curating, digitizing and building a digital collection of primary sources is a truly collaborative process between archive, scholar and publisher. Highlighting the power of digital research, this webinar will discuss different perspectives on processes involved, from development and selection, to digitization and usage.
@@ -50,10 +50,10 @@ Curating, digitizing and building a digital collection of primary sources is a t
 Associate Professor, College of Education
 University of Iowa
 
-Dr. Sanders is Associate Professor in the College of Education at University of Iowa. She is a Louisiana native and former public school teacher. Her research examines American race relations, African American education, and Catholic education. 
+Dr. Sanders is Associate Professor in the College of Education at University of Iowa. She is a Louisiana native and former public school teacher. Her research examines American race relations, African American education, and Catholic education.
 
-#### Chianta Dorsey 
-Reference Archivist, 
+#### Chianta Dorsey
+Reference Archivist,
 Amistad Research Center, New Orleans
 
 Chianta Dorsey is the reference archivist at the Amistad Research Center at Tulane University. Her duties focus on reference, outreach and access services including digitization projects. She received her MA in history and MLIS from Simmons College in Boston, MA. She earned a BA in history from Xavier University of Louisiana.
@@ -62,7 +62,7 @@ Chianta Dorsey is the reference archivist at the Amistad Research Center at Tula
 Senior Development Editor
 Adam Matthew Digital
 
-Clare is a Senior Development Editor at Adam Matthew Digital and has collaborated with leading libraries and archives all over the world in her time at the company. She has seven years’ experience in academic publishing and has specialised in history publishing since 2011. 
+Clare is a Senior Development Editor at Adam Matthew Digital and has collaborated with leading libraries and archives all over the world in her time at the company. She has seven years’ experience in academic publishing and has specialised in history publishing since 2011.
 
 #### Sophie Heath
 Production Editor

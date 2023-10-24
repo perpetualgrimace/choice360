@@ -20,7 +20,7 @@ Sponsor_name: Springer Nature
 
 ----
 
-Sponsor_url: http://www.springernature.com/us/
+Sponsor_url: https://www.springernature.com/us/
 
 ----
 

@@ -18,11 +18,11 @@ Sponsor-name: McGraw-Hill Education
 
 ----
 
-Sponsor-url: http://www.accessengineeringlibrary.com
+Sponsor-url: https://www.accessengineeringlibrary.com
 
 ----
 
-Line1: 
+Line1:
 
 ----
 
@@ -34,15 +34,15 @@ Youtube-id: ZY0rtzcNkfE
 
 ----
 
-Thumb: 
+Thumb:
 
 ----
 
-Text: 
+Text:
 
 ### Summary:
 Join AccessEngineering with Dr. Anselm Spoerri for a live webinar that explores a range of data visualization methods and how they enhance teaching and student engagement. A researcher and instructor in the field of data visualization, Dr. Spoerri presents examples of varied data sources--simple, curated, and raw--and explains the insights they reveal and how they support learning and retention.
-**** 
+****
 ### Speaker:
 <h4 class="u-no_margin delta"> Anselm Spoerri</h4>
 Lecturer/Assistant Professor, School of Communication and Information

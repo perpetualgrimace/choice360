@@ -2,7 +2,7 @@ Title: The Power of Video Testimonies: The Visual History Archive
 
 ----
 
-Category: 
+Category:
 
 ----
 
@@ -18,15 +18,15 @@ Sponsor-name: ProQuest
 
 ----
 
-Sponsor-url: http://www.proquest.com
+Sponsor-url: https://www.proquest.com
 
 ----
 
-Line1: 
+Line1:
 
 ----
 
-Registration-url: http://acrlchoice.learningtimesevents.org/webinar-aug182016/
+Registration-url: https://acrlchoice.learningtimesevents.org/webinar-aug182016/
 
 ----
 
@@ -34,7 +34,7 @@ Youtube-id: Ot3Gt_duK2Y
 
 ----
 
-Thumb: 
+Thumb:
 
 ----
 

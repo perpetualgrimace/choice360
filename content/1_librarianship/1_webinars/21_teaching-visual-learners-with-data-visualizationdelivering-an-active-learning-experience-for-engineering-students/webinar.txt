@@ -18,11 +18,11 @@ Sponsor-name: McGraw-Hill
 
 ----
 
-Sponsor-url: http://www.mheducation.com
+Sponsor-url: https://www.mheducation.com
 
 ----
 
-Line1: 
+Line1:
 
 ----
 
@@ -34,11 +34,11 @@ Youtube-id: _cAm7v-1AEo
 
 ----
 
-Thumb: 
+Thumb:
 
 ----
 
-Text: 
+Text:
 
 Join AccessEngineering with Dr. Anselm Spoerri for an engaging Live Webinar on leveraging the power of interactive data visualization to engage visual learners, who make up 65% of the population. A researcher and instructor in the field of data visualization, Dr. Spoerri presents an in-depth case study of how interactive data visualization transforms the way engineering students learn about material properties. Reserve your place today so you don't miss this special event.
 
