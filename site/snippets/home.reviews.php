@@ -3,7 +3,7 @@
 
     <div class="column g-6">
         <?php snippet('perspective', [
-          'src' => image($page->choice_reviews_img())->url(),
+          'src' => image($page->choice_reviews_img()),
           'link' => 'products/reviews'
         ]) ?>
     </div>
