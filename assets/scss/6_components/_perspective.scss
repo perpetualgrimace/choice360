@@ -18,21 +18,16 @@
     }
   }
 
-  &__link {
+  &__child {
     transform: rotateY(8deg);
+  }
 
-    &:hover,
-    &:focus {
-      box-shadow: none;
-      transform: none;
+  &__link:hover,
+  &__link:focus {
+    transform: none;
 
-      .perspective__img {
-        opacity: $hover-opacity;
-
-        &.has-shadow {
-          box-shadow: 0 4px 8px 0 $shadow;
-        }
-      }
+    .perspective__img {
+      opacity: $hover-opacity;
     }
   }
 }
