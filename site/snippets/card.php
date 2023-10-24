@@ -89,7 +89,7 @@
           <?php if($item->description() != ''): ?>
             <?= $item->description() ?>
           <?php else: ?>
-            <?= strip_tags($item->text()->chopper(150)) ?>
+            <?= $item->text()->chopper(150) ?>
           <?php endif; ?>
         </span>
       <?php endif ?>
